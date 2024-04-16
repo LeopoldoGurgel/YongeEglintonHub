@@ -1,0 +1,27 @@
+#destaque {
+    margin: 0 -2px;
+}
+
+.mainCardHeader{
+    font-size: 3em;
+}
+
+.mainCardImg {    
+    width: 100%;
+    height: 45vh;
+    border-radius: 2%;
+    aspect-ratio: 1/3;
+    padding: 20px;
+}
+
+
+.wrapperImg {
+    height: 15vh;
+    border-radius: 3%;
+    padding: 10px;
+}
+
+.wrapperHeader {
+    font-size: 1.2em;
+}
+
