@@ -1,50 +1,20 @@
+import apiResponse from '../../../devFiles/newsdata_response_sports.json';
+
+import NewsWrapper from '../NewsWrapper';
+
+
+const allArticles = apiResponse.results;
+
+const articlesWithImg = allArticles.filter(i => i.image_url)
 
 
 const SportsComponent = () => {
     return (
-        <div id="sportsComponent" className="col-12 col-lg-6 ps-4">
+        <div id="sportsComponent" className="col-12 col-md-6 ps-3">
 
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
-
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
-
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
-
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
-
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
-
-            <div className="sportsWrapper p-2">
-                <div className="wrapperImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className=" wrapperHeader text-success">Breaking: The main headline comes here and it looks amazing</h2>
-            </div>
+            {articlesWithImg.slice(0, 6).map((i) =>
+                <a href={i.link} className='link-underline link-underline-opacity-0 text-success'  key={i.link}><NewsWrapper imgLink={i.image_url} newsHeader={i.title}/></a>                         
+            )}
 
         </div>
     )
