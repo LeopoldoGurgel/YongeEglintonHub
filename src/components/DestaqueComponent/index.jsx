@@ -1,119 +1,44 @@
 import './destaque.css'
+import apiResponse from '../../../devFiles/mediaStackToronto_response.json';
+import BreakingCarousel from '../BreakingCarousel';
+import NewsWrapper from '../NewsWrapper';
+
+const allArticles = apiResponse.data;
+const uniqueTitles = [];
+const unrepeatedArticles = [];
+const articlesFilter = allArticles.filter(article => {
+    if(!uniqueTitles.includes(article.title)) {
+        uniqueTitles.push(article.title)
+        unrepeatedArticles.push(article)
+    }
+})
+
+console.log(unrepeatedArticles.length)
+
+
+const articlesWithImg = unrepeatedArticles.filter(i => i.image)
+const carouselArticles = articlesWithImg.slice(0, 10);
+
 
 const DestaqueComponent = () => {
     return (
-        <div id="destaque" className="col-lg-6  col-12">
+        <div id="destaque" className="col-lg-7 col-12 container-fluid">
            
-            <div className="mainCard p-4">
-                <div className="mainCardImg bg-secondary">
-                    Img.placeholder
-                </div>
-                <h2 className="mainCardHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
+            {/* main carousel */}
+
+            <BreakingCarousel carouselArticles={carouselArticles}/>
+
+            {/* smaller breaking news under the carousel */}
+            
+            <div id="destaqueInferior" className='p-3'>
+                {articlesWithImg.slice(10, 28).map((i) =>
+                    <a href={i.url} className='link-underline link-underline-opacity-0 text-danger'  key={i.url}><NewsWrapper imgLink={i.image} newsHeader={i.title}/></a>                         
+                )} 
             </div>
-
-            <div id="destaqueInferior" className='row container-fluid p-4 d-flex'>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-                <div className="newsWrapper col-12 col-md-6 col-lg-4 ps-2 pe-2 pb-2">
-                    <div className="wrapperImg bg-secondary">
-                        Img.placeholder
-                    </div>
-                    <h2 className=" wrapperHeader text-danger">Breaking: The main headline comes here and it looks amazing</h2>
-                </div>
-
-
-
-            </div>
+            
             
         </div>
     )
 }
 
 export default DestaqueComponent;
-
-            /* see headline container & headline bullets */
-            /* ver destaque inferior*/
-            /* dentro do destaque interior, em formato grid, vão varios wrappers contendo uma manchete e uma imagem cada.*/
-            /** abaixo do destaque inferior, vêm os destaques coluna contendo esportes e entretenimento.
-             * têm metade da largura do destaque inferior (exceto em telas de celular, onde todos ocupam toda a largura da tela.)
-             */
-            /*
-                importar newscard component for each news trazida pela api.
-                montar js logica para isso para que o site se monte de forma dinamica.
-            */

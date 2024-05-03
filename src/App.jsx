@@ -1,14 +1,15 @@
-import '../node_modules/bootstrap/dist/js/bootstrap'
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
+
+import 'bootstrap/dist/css/bootstrap.css';
 import HeaderComponent from "./components/HeaderComponent"
 import ContainerComponent from './components/ContainerComponent'
+import './App.css'
 
 
 function App() {
 
   return (
     <>
-      <div>
+      <div className='bg-light'>
         <HeaderComponent />
         <ContainerComponent />
       </div>
