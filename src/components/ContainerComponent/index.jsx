@@ -1,8 +1,11 @@
 import DestaqueComponent from "../DestaqueComponent"
 import SideGroupComponent from "../SideGroupComponent";
+import { useState, useEffect } from "react";
 
 
-const ContainerComponent = () => {
+
+const ContainerComponent = () => {    
+    
     return (
         <div className="container-fluid row">
             <DestaqueComponent />
