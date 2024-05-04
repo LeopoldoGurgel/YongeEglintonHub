@@ -10,7 +10,7 @@ const BreakingCarousel = ({carouselArticles}) => {
                         
             <Carousel.Item key={i.url}>
                 <a href={i.url}>
-                    <img src={i.image} className="d-block w-100 rounded carouselimg" />
+                    <img src={i.urlToImg} className="d-block w-100 rounded carouselimg" />
                 </a>                 
                 <Carousel.Caption className='noticiacaption text-light'>
                     <a href={i.url} className='link-underline-opacity-0 link-underline link-light' >

@@ -26,9 +26,6 @@ import {GiRaining, GiHeavyRain,
 const WeatherComponent = () => {
 
     const [ currentWeather, setCurrentWeather ] = useState(null);
-    const [ hourlyTime, setHourlyTime ] = useState([]);
-    const [ hourlyTemp, setHourlyTemp ] = useState([]);
-    const [ hourlyCode, setHourlyCode ] = useState([]);
     const [ currentIcon, setCurrentIcon ] =useState(null);
     const [ backgroundColor , setBackgroundColor ] = useState('');
     const [ apiResponse, setApiResponse ] = useState(null)
@@ -39,8 +36,7 @@ const WeatherComponent = () => {
         const fetchData = async() => {
             try{
                 const response = await axios.get('https://api.open-meteo.com/v1/forecast?latitude=43.706&longitude=-79.398&current=temperature_2m,precipitation,weather_code&hourly=temperature_2m,precipitation_probability,precipitation,weather_code&timezone=America%2FNew_York');
-
-                setApiResponse(response.data);
+                setApiResponse(response.data)
             } catch (error) {
                 console.error('Error fetching weather data:', error);
             }
@@ -54,16 +50,7 @@ const WeatherComponent = () => {
 
         
         setCurrentWeather(apiResponse?.current);
-        setHourlyTemp(apiResponse?.hourly.temperature_2m.slice(new Date().getHours(), new Date().getHours() + 6));
-        setHourlyTime(apiResponse?.hourly.time.slice(new Date().getHours(), new Date().getHours() + 6));
-        setHourlyCode(apiResponse?.hourly.weather_code.slice(new Date().getHours(), new Date().getHours() + 6));
-        
-        
-        // setCurrentWeather(apiResponse?.current);
-        // setHourlyTemp(apiResponse?.hourly.temperature_2m.slice(new Date().getHours(), new Date().getHours() + 6));
-        // setHourlyTime(apiResponse?.hourly.time.slice(new Date().getHours(), new Date().getHours() + 6));
-        // setHourlyCode(apiResponse?.hourly.weather_code.slice(new Date().getHours(), new Date().getHours() + 6));
-
+              
         //changes weather icon
         if(apiResponse?.current.weather_code == 1 || apiResponse?.current.weather_code == 0) {
             if(isDay(new Date().getHours())) {
@@ -173,12 +160,13 @@ const WeatherComponent = () => {
                 
                 <div id="hourlyWeather" className=' '>
                     
-                    <HourlyCard code={hourlyCode && hourlyCode[0]} temp={hourlyTemp && hourlyTemp[0]} time={hourlyTime && hourlyTime[0]} />
-                    <HourlyCard code={ hourlyCode && hourlyCode[1]} temp= { hourlyTemp && hourlyTemp[1]} time={ hourlyTime && hourlyTime[1]} />
-                    <HourlyCard code={ hourlyCode && hourlyCode[2]} temp= { hourlyTemp && hourlyTemp[2]} time={ hourlyTime && hourlyTime[2]} />
-                    <HourlyCard code={ hourlyCode && hourlyCode[3]} temp= { hourlyTemp && hourlyTemp[3]} time={ hourlyTime && hourlyTime[3]} />
-                    <HourlyCard code={ hourlyCode && hourlyCode[4]} temp= { hourlyTemp && hourlyTemp[4]} time={ hourlyTime && hourlyTime[4]} />
-                    <HourlyCard code={ hourlyCode && hourlyCode[5]} temp= { hourlyTemp && hourlyTemp[5]} time={ hourlyTime && hourlyTime[5]} />                    
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours()]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours()]} time={apiResponse?.hourly.time[new Date().getHours()]} />
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours() +1]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours() +1]} time={apiResponse?.hourly.time[new Date().getHours() +1]} />
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours() +2]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours() +2]} time={apiResponse?.hourly.time[new Date().getHours() +2]} />
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours() +3]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours() +3]} time={apiResponse?.hourly.time[new Date().getHours() +3]} />
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours() +4]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours() +4]} time={apiResponse?.hourly.time[new Date().getHours() +4]} />
+                    <HourlyCard code={apiResponse?.hourly.weather_code[new Date().getHours() +5]} temp={apiResponse?.hourly.temperature_2m[new Date().getHours() +5]} time={apiResponse?.hourly.time[new Date().getHours() +5]} />
+
 
                 </div>
 
