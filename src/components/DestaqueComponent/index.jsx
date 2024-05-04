@@ -13,9 +13,6 @@ const articlesFilter = allArticles.filter(article => {
     }
 })
 
-console.log(unrepeatedArticles.length)
-
-
 const articlesWithImg = unrepeatedArticles.filter(i => i.image)
 const carouselArticles = articlesWithImg.slice(0, 10);
 

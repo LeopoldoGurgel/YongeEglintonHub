@@ -1,5 +1,73 @@
-.weather-component {
+#weatherComponent {
     height: 30vh;
-    padding: 20px;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: -15px auto 25px auto;
+    
+}
+
+#currentWeather {
+    width: 100%;
+    height: 60%;
+    border-radius: 5px;
+    display:flex;
+    padding: 1%;
+}
+
+.currentIcon, .currentInfo {
+    height: 100%;    
+    margin: 1px 3px;
+    border-radius: 5px;
+}
+
+.currentIcon {
+    aspect-ratio: 1/1;
+    font-size: 10em;
+}
+
+.currentInfo {
+    flex-grow: 1;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+#hourlyWeather {
+    width: 100%;
+    height: 35%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.hourlyIcon {
+    font-size: 1.8em;
+    margin-top: 3px;
+}
+
+.hourlyCard {
+    height: 100%;
+    width: 15.8%;
+    border-radius: 3px;
+    font-size: 0.8em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 993px) {
+    #weatherComponent {
+        margin-top: 24px;
+        margin-bottom: 0;
+    }
+
+
+    .hourlyCard {
+        font-size: 1em
+    }
 }
