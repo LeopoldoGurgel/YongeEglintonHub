@@ -1,15 +1,15 @@
 import './newsWrapper.css'
 
-const NewsWrapper = ({imgLink, newsHeader}) => {
+const NewsWrapper = ({imgLink, newsHeader, link}) => {
     return (
         <div className="newsWrapper ps-2 pe-2 pb-2 container-fluid">
             {imgLink ? (
             <div>
-                <img src={imgLink} className="wrapperImg"/>
+                <a href={link}><img src={imgLink} className="wrapperImg"/></a>                
             </div>
             ) : null
             }
-            <h2 className="wrapperHeader">{newsHeader}</h2>
+            <a href={link}><h2 className="wrapperHeader">{newsHeader}</h2></a>            
         </div>
     )
 }

@@ -20,13 +20,19 @@ const EntertainmentComponent = () => {
         )
     }
 
-    const articles = data.entertainment.filter((i)=> i.urlToImg).slice(0,6)
+    const unique = data.entertainment.reduce((acc, article) => {
+        if(!acc.find(item => item.title === article.title)) {
+            acc.push(article)
+        }
+        return acc;
+    })
+    const articles = unique.filter((i)=> i.urlToImg).slice(0,6)
 
     return (
         <div id="entertainmentComponent" className="col-12 col-md-6 ps-3">
 
             {articles.map((i) =>
-                <a href={i.link} className='link-underline link-underline-opacity-0 text-orange' key={i.link}><NewsWrapper imgLink={i.urlToImg} newsHeader={i.title}/></a>                         
+                <NewsWrapper key={i._id} link={i.url} imgLink={i.urlToImg} newsHeader={i.title}/>                       
             )}
 
         </div>        
