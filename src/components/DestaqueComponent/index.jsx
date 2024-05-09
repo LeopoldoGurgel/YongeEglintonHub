@@ -23,15 +23,9 @@ const DestaqueComponent = () => {
         )
     }
 
-    const uniqueBreakingArticles = data.breaking.reduce((acc, article) => {
-        if (!acc.find(item => item.title === article.title)) {
-            acc.push(article);
-        }
-        return acc;
-    }, []);
-
-    const breakingArticles = uniqueBreakingArticles.slice(0, 10);
-    const inferiorArticles = uniqueBreakingArticles.slice(10, 28);
+    
+    const breakingArticles = data.breaking.slice(0, 10);
+    const inferiorArticles = data.breaking.slice(10, 28);
 
     return (
         <div id="destaque" className="col-lg-7 col-12 container-fluid">

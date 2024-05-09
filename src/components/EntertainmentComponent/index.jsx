@@ -20,13 +20,8 @@ const EntertainmentComponent = () => {
         )
     }
 
-    const unique = data.entertainment.reduce((acc, article) => {
-        if(!acc.find(item => item.title === article.title)) {
-            acc.push(article)
-        }
-        return acc;
-    })
-    const articles = unique.filter((i)=> i.urlToImg).slice(0,6)
+    
+    const articles = data.entertainment((i)=> i.urlToImg).slice(0,6)
 
     return (
         <div id="entertainmentComponent" className="col-12 col-md-6 ps-3">
