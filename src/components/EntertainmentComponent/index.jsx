@@ -21,7 +21,7 @@ const EntertainmentComponent = () => {
     }
 
     
-    const articles = data.entertainment((i)=> i.urlToImg).slice(0,6)
+    const articles = data.entertainment.filter((i)=> i.urlToImg).slice(0,6)
 
     return (
         <div id="entertainmentComponent" className="col-12 col-md-6 ps-3">
