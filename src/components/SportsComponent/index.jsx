@@ -26,7 +26,7 @@ const SportsComponent = () => {
         <div id="sportsComponent" className="col-12 col-md-6 ps-3 link-underline link-underline-opacity-0 link-success">
 
             {sportsArticles.map((i) =>
-                <NewsWrapper key={i.url} link={i.url} imgLink={i.urlToImg} newsHeader={i.title}/>                       
+                <NewsWrapper key={i.url} link={i.url} imgLink={i.urlToImg} newsHeader={i.title} category={'sports'}/>                       
             )}
 
         </div>
