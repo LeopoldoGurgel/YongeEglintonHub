@@ -14,14 +14,14 @@ const NewsWrapper = ({imgLink, newsHeader, link, category}) => {
 
 
     return (
-        <div className={`newsWrapper ps-2 pe-2 pb-2 container-fluid link-underline link-underline-opacity-0 ${color}`}>
+        <div className={`newsWrapper ps-2 pe-2 pb-2 container-fluid ${color}`}>
             {imgLink ? (
             <div>
-                <a href={link}><img src={imgLink} className="wrapperImg"/></a>                
+                <a href={link} ><img src={imgLink} className="wrapperImg"/></a>                
             </div>
             ) : null
             }
-            <a href={link}><h2 className="wrapperHeader">{newsHeader}</h2></a>            
+            <a href={link} className={` link-underline link-underline-opacity-0 ${color}`}><h2 className="wrapperHeader">{newsHeader}</h2></a>            
         </div>
     )
 }
