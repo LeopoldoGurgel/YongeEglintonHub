@@ -26,13 +26,13 @@
 }
 
 @media (min-width: 768px) {
-    .newsWrapper {
+    .destaqueInferior .newsWrapper {
         width: 50%;
     }
 }
 
 @media (min-width: 993px) {
-    .newsWrapper {
+    .destaqueInferior  .newsWrapper {
         width: 33%;
     }
 }

@@ -1,4 +1,3 @@
-
 import 'bootstrap/dist/css/bootstrap.css';
 import HeaderComponent from "./components/HeaderComponent"
 import ContainerComponent from './components/ContainerComponent'
