@@ -28,7 +28,7 @@ const DestaqueComponent = () => {
     const inferiorArticles = data.breaking.slice(10, 28);
 
     return (
-        <div id="destaque" className="col-lg-7 col-12 container-fluid">
+        <div id="destaque" className="col-lg-7 col-12 container-fluid link-underline link-underline-opacity-0 link-danger">
            
            <BreakingCarousel carouselArticles={breakingArticles}/>
 
@@ -36,7 +36,7 @@ const DestaqueComponent = () => {
 
             <div id="destaqueInferior" className='p-3'>
                 {inferiorArticles.map((i) =>
-                    <NewsWrapper key={i._id} imgLink={i.urlToImg} newsHeader={i.title} link={i.url}/>                         
+                    <NewsWrapper key={i.url} imgLink={i.urlToImg} newsHeader={i.title} link={i.url}/>                         
                 )} 
             </div>
             

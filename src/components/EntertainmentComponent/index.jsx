@@ -20,14 +20,13 @@ const EntertainmentComponent = () => {
         )
     }
 
-    
     const articles = data.entertainment.filter((i)=> i.urlToImg).slice(0,6)
 
     return (
-        <div id="entertainmentComponent" className="col-12 col-md-6 ps-3">
+        <div id="entertainmentComponent" className="col-12 col-md-6 ps-3 link-underline link-underline-opacity-0 text-orange">
 
             {articles.map((i) =>
-                <NewsWrapper key={i._id} link={i.url} imgLink={i.urlToImg} newsHeader={i.title}/>                       
+                 <NewsWrapper key={i.url} link={i.url} imgLink={i.urlToImg} newsHeader={i.title}/>                        
             )}
 
         </div>        
