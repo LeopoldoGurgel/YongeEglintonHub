@@ -4,6 +4,7 @@ import ContainerComponent from './components/ContainerComponent'
 import Footer from './components/Footer';
 import './App.css'
 import {ApolloClient, ApolloProvider, InMemoryCache, createHttpLink} from '@apollo/client';
+import { Outlet } from 'react-router-dom'; 
 import { setContext } from '@apollo/client/link/context';
 
 const httpLink = createHttpLink({
@@ -36,7 +37,7 @@ function App() {
     <ApolloProvider client={client}>
       <div className='bg-light'>
         <HeaderComponent />
-        <ContainerComponent />
+        <Outlet />
         <Footer />
       </div>
     </ApolloProvider>
