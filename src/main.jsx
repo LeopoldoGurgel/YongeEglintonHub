@@ -37,3 +37,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <RouterProvider router={router}/>
   </React.StrictMode>,
 )
+
+
+    // create main group and side group components
+    // create article search engine. 
+    // figure out a way to develop an AI chatbot to discuss about articles.

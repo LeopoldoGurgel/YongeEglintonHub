@@ -45,3 +45,7 @@ function App() {
 }
 
 export default App
+
+    // create main group and side group components
+    // create article search engine. 
+    // figure out a way to develop an AI chatbot to discuss about articles.

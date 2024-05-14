@@ -30,6 +30,8 @@ const CategoryComponent = ({category}) => {
     }
 
     // create main group and side group components
+    // create article search engine. 
+    // figure out a way to develop an AI chatbot to discuss about articles.
 
     return(
         <div className="container-fluid row">
