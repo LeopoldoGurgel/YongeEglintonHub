@@ -34,9 +34,20 @@ const CategoryComponent = ({category}) => {
     // figure out a way to develop an AI chatbot to discuss about articles.
 
     return(
-        <div className="container-fluid row">
-            <div>Main Group</div>
-            <div>Side Group</div>
+        <div className="container-fluid">
+            <div className="col-12 col-md-8 col-lg-10" articles={
+                data.breaking? data.breaking :
+                data.sports? data.sports :
+                data.entertainment? data.entertainment : undefined
+            } color={color}>
+                <div>Advertising</div>
+                <div>Articles</div>
+            </div>
+            <div className="col-md-4 col-lg-2" articles={
+                data.breaking? data.breaking :
+                data.sports? data.sports :
+                data.entertainment? data.entertainment : undefined
+            }>Side Group</div>
         </div>
     )
 
