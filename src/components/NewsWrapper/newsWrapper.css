@@ -24,3 +24,15 @@
         height: 280px;
     }
 }
+
+@media (min-width: 768px) {
+    .newsWrapper .link-danger {
+        width: 50%;
+    }
+}
+
+@media (min-width: 993px) {
+    .newsWrapper .link-danger {
+        width: 33%;
+    }
+}

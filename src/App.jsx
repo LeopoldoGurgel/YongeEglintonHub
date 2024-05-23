@@ -1,14 +1,14 @@
-
 import 'bootstrap/dist/css/bootstrap.css';
 import HeaderComponent from "./components/HeaderComponent"
 import ContainerComponent from './components/ContainerComponent'
 import Footer from './components/Footer';
 import './App.css'
 import {ApolloClient, ApolloProvider, InMemoryCache, createHttpLink} from '@apollo/client';
+import { Outlet } from 'react-router-dom'; 
 import { setContext } from '@apollo/client/link/context';
 
 const httpLink = createHttpLink({
-  uri: '/graphql'
+  uri: 'https://pseudocoders-server-5222d68eaaf3.herokuapp.com/graphql'
 })
 
 // Construct request middleware that will attach the JWT token to every request as an `authorization` header
@@ -37,7 +37,7 @@ function App() {
     <ApolloProvider client={client}>
       <div className='bg-light'>
         <HeaderComponent />
-        <ContainerComponent />
+        <Outlet />
         <Footer />
       </div>
     </ApolloProvider>
@@ -45,3 +45,7 @@ function App() {
 }
 
 export default App
+
+    // create main group and side group components
+    // create article search engine. 
+    // figure out a way to develop an AI chatbot to discuss about articles.

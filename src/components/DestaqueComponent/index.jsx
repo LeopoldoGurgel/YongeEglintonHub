@@ -23,8 +23,9 @@ const DestaqueComponent = () => {
         )
     }
 
-    const breakingArticles = data.breaking.slice(0,10);
-    const inferiorArticles = data.breaking.slice(10, 28)
+    
+    const breakingArticles = data.breaking.slice(0, 10);
+    const inferiorArticles = data.breaking.slice(10, 28);
 
     return (
         <div id="destaque" className="col-lg-7 col-12 container-fluid">
@@ -35,7 +36,7 @@ const DestaqueComponent = () => {
 
             <div id="destaqueInferior" className='p-3'>
                 {inferiorArticles.map((i) =>
-                    <a href={i.url} className='link-underline link-underline-opacity-0 text-danger'  key={i.url}><NewsWrapper imgLink={i.urlToImg} newsHeader={i.title}/></a>                         
+                    <NewsWrapper key={i.url} imgLink={i.urlToImg} newsHeader={i.title} link={i.url} category={'breaking'}/>                         
                 )} 
             </div>
             
@@ -44,3 +45,5 @@ const DestaqueComponent = () => {
 }
 
 export default DestaqueComponent;
+
+

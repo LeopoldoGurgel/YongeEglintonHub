@@ -8,6 +8,7 @@ export const QUERY_ARTICLES = gql`
             title
             url
             urlToImg
+            createdAt
           }
     }
 `
@@ -20,6 +21,7 @@ export const QUERY_BREAKING = gql`
             title
             url
             urlToImg
+            createdAt
           }
     }
 `
@@ -32,6 +34,7 @@ export const QUERY_SPORTS = gql`
             title
             url
             urlToImg
+            createdAt
           }
     }
 `
@@ -44,6 +47,7 @@ export const QUERY_ENTERT = gql`
             title
             url
             urlToImg
+            createdAt
           }
     }
 `
