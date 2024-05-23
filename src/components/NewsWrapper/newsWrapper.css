@@ -32,7 +32,7 @@
 }
 
 @media (min-width: 993px) {
-    #destaqueInferior  .newsWrapper  {
+    #destaqueInferior .newsWrapper  {
         width: 33%;
     }
 }

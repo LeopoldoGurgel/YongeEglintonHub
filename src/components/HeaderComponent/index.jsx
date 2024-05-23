@@ -1,4 +1,6 @@
 import './header.css'
+import React from 'react';
+import {Link} from 'react-router-dom';
 
 const HeaderComponent = () => {
 
@@ -20,13 +22,13 @@ const HeaderComponent = () => {
                                 <a href="#home" className="nav-link text-primary">Home</a>
                             </li>
                             <li className="nav-i">
-                                <a href="#breakingNews" className="nav-link text-danger">Breaking News</a>
+                                <Link to="/YongeEglintonHub/breaking" className="nav-link text-danger">Breaking News</Link>
                             </li>
                             <li className="nav-i">
-                                <a href="#sports" className="nav-link text-success">Sports</a>
+                                <Link to="/YongeEglintonHub/sports" className="nav-link text-success" >Sports</Link>
                             </li>
                             <li className="nav-i">
-                                <a href="#entertainment" className="nav-link text-warning">Entertainment</a>
+                                <Link to="/YongeEglintonHub/entertainment" className="nav-link text-warning" >Entertainment</Link>
                             </li>
                         </ul>
                     </div>
