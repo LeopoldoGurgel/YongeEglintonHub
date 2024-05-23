@@ -16,18 +16,18 @@ const router = createBrowserRouter([
         index: true,
         element: <ContainerComponent/>
       },
-      // {
-      //   path: '/breaking',
-      //   element: <CategoryComponent category={'breaking'}/>
-      // },
-      // {
-      //   path: '/sports',
-      //   element: <CategoryComponent category={'sports'}/>
-      // },
-      // {
-      //   path: '/entertainment',
-      //   element: <CategoryComponent category={'entertainment'}/>
-      // }
+      {
+        path: '/YongeEglintonHub/breaking',
+        element: <CategoryComponent category={'breaking'}/>
+      },
+      {
+        path: '/YongeEglintonHub/sports',
+        element: <CategoryComponent category={'sports'}/>
+      },
+      {
+        path: '/YongeEglintonHub/entertainment',
+        element: <CategoryComponent category={'entertainment'}/>
+      }
     ]
   }
 ])
