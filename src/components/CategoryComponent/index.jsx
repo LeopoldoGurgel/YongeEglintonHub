@@ -1,22 +1,35 @@
 import { QUERY_SPORTS, QUERY_BREAKING, QUERY_ENTERT } from "../../../ultils/queries";
+import CategoryMainComponent from "./mainGroup";
+import React, {useState} from "react";
+import { useQuery } from "@apollo/client";
 
 
 
 const CategoryComponent = ({category}) => {
 
-    let color;
+    let color, query;
 
-    if(category == 'breaking'){
-        color = 'text-danger'
-        const {loading, error, data} = useQuery(QUERY_BREAKING);
-    } else if (category == 'sports'){
-        color = 'text-success'
-        const {loading, error, data} = useQuery(QUERY_SPORTS);
-    } else if (category == 'entertainment'){
-        color = 'text-orange'
-        const {loading, error, data} = useQuery(QUERY_ENTERT);
-    };
+    switch(category){
+        case 'breaking':
+            color = 'text-danger';
+            query = 'QUERY_BREAKING';
+            break;
+        case 'sports':
+            color = 'text-success';
+            query= 'QUERY_SPORTS';
+            break;
+        case 'entertainment':
+            color='text-orange';
+            query='QUERY_ENTERT';
+            break;
+        default:
+            color='';
+            query='';
+            break;
+    }
 
+    const {loading, error, data} = useQuery(query);
+ 
     if(loading){
         return(
             <div>Loading...</div>
@@ -35,19 +48,8 @@ const CategoryComponent = ({category}) => {
 
     return(
         <div className="container-fluid">
-            <div className="col-12 col-md-8 col-lg-10" articles={
-                data.breaking? data.breaking :
-                data.sports? data.sports :
-                data.entertainment? data.entertainment : undefined
-            } color={color}>
-                <div>Advertising</div>
-                <div>Articles</div>
-            </div>
-            <div className="col-md-4 col-lg-2" articles={
-                data.breaking? data.breaking :
-                data.sports? data.sports :
-                data.entertainment? data.entertainment : undefined
-            }>Side Group</div>
+            <CategoryMainComponent articles={data[category]} color={color} />            
+            <div className="col-md-4 col-lg-2">Side Group</div>
         </div>
     )
 

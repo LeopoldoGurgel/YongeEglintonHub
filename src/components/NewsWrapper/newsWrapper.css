@@ -26,13 +26,13 @@
 }
 
 @media (min-width: 768px) {
-    div .link-danger {
+    .newsWrapper .link-danger {
         width: 50%;
     }
 }
 
 @media (min-width: 993px) {
-    div .link-danger {
+    .newsWrapper .link-danger {
         width: 33%;
     }
 }
