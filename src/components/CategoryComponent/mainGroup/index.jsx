@@ -1,7 +1,6 @@
 import CategoryWrapper from "../CategoryWrapper";
 import React, {useState} from 'react';
 import {Pagination} from 'react-bootstrap';
-import CategoryWrapper from "../CategoryWrapper";
 
 
 const CategoryMainComponent = ({color, articles}) => {
