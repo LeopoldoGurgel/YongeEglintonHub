@@ -9,25 +9,25 @@ import CategoryComponent from './components/CategoryComponent/index.jsx'
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/YongeEglintonHub',
     element: <App />,
     children: [
       {
         index: true,
         element: <ContainerComponent/>
       },
-      {
-        path: '/breaking',
-        element: <CategoryComponent category={'breaking'}/>
-      },
-      {
-        path: '/sports',
-        element: <CategoryComponent category={'sports'}/>
-      },
-      {
-        path: '/entertainment',
-        element: <CategoryComponent category={'entertainment'}/>
-      }
+      // {
+      //   path: '/breaking',
+      //   element: <CategoryComponent category={'breaking'}/>
+      // },
+      // {
+      //   path: '/sports',
+      //   element: <CategoryComponent category={'sports'}/>
+      // },
+      // {
+      //   path: '/entertainment',
+      //   element: <CategoryComponent category={'entertainment'}/>
+      // }
     ]
   }
 ])
