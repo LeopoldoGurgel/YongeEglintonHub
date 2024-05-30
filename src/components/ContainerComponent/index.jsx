@@ -1,7 +1,7 @@
 import DestaqueComponent from "../DestaqueComponent"
 import SideGroupComponent from "../SideGroupComponent";
-import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from '../ultils/queries.js';
-import { UPDATE_BREAKING, UPDATE_ENTERTAINMENT, UPDATE_SPORTS } from "../utils/actions";
+import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from "../../../ultils/queries.js";
+import { UPDATE_ENTERTAINMENT, UPDATE_BREAKING, UPDATE_SPORTS } from "../../../ultils/actions.js";
 import useNews from "../../../ultils/newsContext.jsx";
 
 

@@ -6,8 +6,7 @@ import './App.css'
 import {ApolloClient, ApolloProvider, InMemoryCache, createHttpLink} from '@apollo/client';
 import { Outlet } from 'react-router-dom'; 
 import { setContext } from '@apollo/client/link/context';
-import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from '../ultils/queries.js';
-import { UPDATE_BREAKING, UPDATE_ENTERTAINMENT, UPDATE_SPORTS } from "../utils/actions";
+
 
 const httpLink = createHttpLink({
   uri: 'https://pseudocoders-server-5222d68eaaf3.herokuapp.com/graphql'
