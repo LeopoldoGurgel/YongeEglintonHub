@@ -1,46 +1,32 @@
-import { QUERY_SPORTS, QUERY_BREAKING, QUERY_ENTERT } from "../../../ultils/queries";
+
 import CategoryMainComponent from "./mainGroup";
 import React, {useState} from "react";
-import { useQuery } from "@apollo/client";
-
-
+import useNews from "../../../ultils/newsContext";
 
 const CategoryComponent = ({category}) => {
 
-    let color, query;
+    const {breakingArticles, sportsArticles, entertainmentArticles} = useNews();
+    let color, articles;
 
     switch(category){
         case 'breaking':
             color = 'text-danger';
-            query = 'QUERY_BREAKING';
+            articles = breakingArticles;
             break;
         case 'sports':
             color = 'text-success';
-            query= 'QUERY_SPORTS';
+            articles= sportsArticles;
             break;
         case 'entertainment':
             color='text-orange';
-            query='QUERY_ENTERT';
+            articles= entertainmentArticles;
             break;
         default:
             color='';
-            query='';
+            articles=[];
             break;
     }
 
-    const {loading, error, data} = useQuery(query);
- 
-    if(loading){
-        return(
-            <div>Loading...</div>
-        )
-    }
-
-    if(error) {
-        return(
-            <div>Error: {error.message}</div>
-        )
-    }
 
     // create main group and side group components
     // create article search engine. 
@@ -48,7 +34,7 @@ const CategoryComponent = ({category}) => {
 
     return(
         <div className="container-fluid">
-            <CategoryMainComponent articles={data[category]} color={color} />            
+            <CategoryMainComponent articles={articles} color={color} />            
             <div className="col-md-4 col-lg-2">Side Group</div>
         </div>
     )

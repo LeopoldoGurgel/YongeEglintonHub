@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import HeaderComponent from "./components/HeaderComponent"
-import ContainerComponent from './components/ContainerComponent'
+import {NewsProvider} from '../ultils/newsContext.jsx';
 import Footer from './components/Footer';
 import './App.css'
 import {ApolloClient, ApolloProvider, InMemoryCache, createHttpLink} from '@apollo/client';
@@ -35,11 +35,13 @@ function App() {
 
   return (
     <ApolloProvider client={client}>
-      <div className='bg-light'>
-        <HeaderComponent />
-        <Outlet />
-        <Footer />
-      </div>
+      <NewsProvider>
+        <div className='bg-light'>
+          <HeaderComponent />
+          <Outlet />
+          <Footer />
+        </div>
+      </NewsProvider>      
     </ApolloProvider>
   )
 }

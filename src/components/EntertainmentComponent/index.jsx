@@ -1,26 +1,13 @@
 import './entertainment.css';
 import NewsWrapper from '../NewsWrapper';
-import { QUERY_ENTERT } from "../../../ultils/queries";
-import {useQuery} from '@apollo/client'
+import useNews from '../../../ultils/newsContext';
 
 
 const EntertainmentComponent = () => {
 
-    const {loading, error, data} = useQuery(QUERY_ENTERT); 
+    const {entertainmentArticles} = useNews();
 
-    if(loading){
-        return (
-            <div>Loading...</div>
-        )
-    }
-
-    if(error) {
-        return (
-            <div>{error.message}</div>
-        )
-    }
-
-    const articles = data.entertainment.filter((i)=> i.urlToImg).slice(0,6)
+    const articles = entertainmentArticles.filter((i)=> i.urlToImg).slice(0,6)
 
     return (
         <div className='col-12 col-md-6 ps-3 '>
