@@ -1,6 +1,8 @@
-import { createContext, useContext, useState, useEffect } from "react";
+import { createContext, useContext, useState, useEffect, useReducer } from "react";
 import {useQuery} from '@apollo/client';
+import reducer from "./reducers";
 import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from "./queries";
+import { UPDATE_BREAKING, UPDATE_ENTERTAINMENT, UPDATE_SPORTS } from "./actions";
 
 const NewsContext = createContext();
 
@@ -10,9 +12,15 @@ export default function useNews() {
 
 export const NewsProvider = ({children}) => {
 
-    const [breakingArticles, setBreakingArticles] = useState([]);
-    const [sportsArticles, setSportsArticles] = useState([]);
-    const [entertainmentArticles, setEntertainmentArticles] = useState([]);
+    const breakingArticles = [];
+    const sportsArticles = [];
+    const entertainmentArticles = [];
+
+    const [state, dispatch] = useReducer(reducer, {
+        breakingArticles,
+        entertainmentArticles,
+        sportsArticles
+    })
 
     const {
         loading: breakingLoading, 
@@ -51,31 +59,36 @@ export const NewsProvider = ({children}) => {
         )
     }
 
-    // if loading or error, the component will break in the lines above.
-    // from now on we will work in a scenario were we have pure JSON objects
-
-    useEffect(()=> {
+    useEffect(() => {
         if(breakingData){
-            setBreakingArticles(breakingData.breaking);
+            dispatch({
+                type: UPDATE_BREAKING,
+                payload: breakingData.breaking
+            })
         }
     }, [breakingData])
-        
-    useEffect(()=> {
+
+    useEffect(() => {
         if(sportsData){
-            setSportsArticles(sportsData.sports);
+            dispatch({
+                type: UPDATE_SPORTS,
+                payload: sportsData.sports
+            })
         }
     }, [sportsData])
 
-    useEffect(()=> {
+    useEffect(() => {
         if(entertainmentData){
-            setEntertainmentArticles(entertainmentData.entertainment); 
+            dispatch({
+                type: UPDATE_ENTERTAINMENT,
+                payload: entertainmentData.entertainment
+            })
         }
-    }, [entertainmentData])     
-    
+    }, [entertainmentData])
 
 
     return(
-        <NewsContext.Provider value={{breakingArticles, sportsArticles, entertainmentArticles}}>
+        <NewsContext.Provider value={[state, dispatch]}>
             {children}
         </NewsContext.Provider>
     )
