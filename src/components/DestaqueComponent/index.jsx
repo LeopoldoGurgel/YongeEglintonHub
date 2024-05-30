@@ -1,36 +1,19 @@
 import './destaque.css'
 import BreakingCarousel from '../BreakingCarousel';
 import NewsWrapper from '../NewsWrapper';
-import {useQuery} from '@apollo/client'
-import { QUERY_BREAKING } from "../../../ultils/queries";
-
+import useNews from '../../../ultils/newsContext';
 
 const DestaqueComponent = () => {
 
-    const {loading, error, data} = useQuery(QUERY_BREAKING);    
-
-
+    const {breakingArticles} = useNews();
     
-    if(loading){
-        return (
-            <div>Loading...</div>
-        )
-    }
-
-    if(error) {
-        return (
-            <div>{error.message}</div>
-        )
-    }
-
-    
-    const breakingArticles = data.breaking.slice(0, 10);
-    const inferiorArticles = data.breaking.slice(10, 28);
+    const carouselArticles = breakingArticles.slice(0, 10);
+    const inferiorArticles = breakingArticles.slice(10, 28);
 
     return (
         <div id="destaque" className="col-lg-7 col-12 container-fluid">
            
-           <BreakingCarousel carouselArticles={breakingArticles}/>
+           <BreakingCarousel carouselArticles={carouselArticles}/>
 
             {/* smaller breaking news under the carousel */}
 

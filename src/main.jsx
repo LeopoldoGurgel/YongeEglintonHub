@@ -5,11 +5,12 @@ import App from './App.jsx'
 import './index.css'
 
 import ContainerComponent from './components/ContainerComponent/index.jsx';
-import CategoryComponent from './components/CategoryComponent/index.jsx'
+import CategoryComponent from './components/CategoryComponent/index.jsx';
+
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/YongeEglintonHub',
     element: <App />,
     children: [
       {
@@ -17,15 +18,15 @@ const router = createBrowserRouter([
         element: <ContainerComponent/>
       },
       {
-        path: '/breaking',
+        path: '/YongeEglintonHub/breaking',
         element: <CategoryComponent category={'breaking'}/>
       },
       {
-        path: '/sports',
+        path: '/YongeEglintonHub/sports',
         element: <CategoryComponent category={'sports'}/>
       },
       {
-        path: '/entertainment',
+        path: '/YongeEglintonHub/entertainment',
         element: <CategoryComponent category={'entertainment'}/>
       }
     ]
@@ -33,12 +34,9 @@ const router = createBrowserRouter([
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <RouterProvider router={router}/>
+  <React.StrictMode>    
+    <RouterProvider router={router}/>    
   </React.StrictMode>,
 )
 
-
-    // create main group and side group components
-    // create article search engine. 
     // figure out a way to develop an AI chatbot to discuss about articles.
