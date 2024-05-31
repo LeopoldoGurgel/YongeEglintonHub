@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import HeaderComponent from "./components/HeaderComponent"
 import {NewsProvider} from '../ultils/newsContext.jsx';
 import Footer from './components/Footer';
+import ContainerComponent from './components/ContainerComponent/index.jsx';
 import './App.css'
 import {ApolloClient, ApolloProvider, InMemoryCache, createHttpLink} from '@apollo/client';
 import { Outlet } from 'react-router-dom'; 
@@ -34,7 +35,11 @@ export const client = new ApolloClient({
 
 function App() {
 
-  return (
+
+    /*
+
+    react router inactivated
+
     <ApolloProvider client={client}>
       <NewsProvider>
         <div className='bg-light'>
@@ -44,6 +49,22 @@ function App() {
         </div>
       </NewsProvider>      
     </ApolloProvider>
+
+    */
+
+  return (
+    <ApolloProvider client={client}>
+      <NewsProvider>
+        <div className='bg-light'>
+          <HeaderComponent />
+          <ContainerComponent />
+          <Footer />
+        </div>
+      </NewsProvider>      
+    </ApolloProvider>
+
+
+    
   )
 }
 

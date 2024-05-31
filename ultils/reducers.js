@@ -1,22 +1,28 @@
 import { UPDATE_ENTERTAINMENT, UPDATE_BREAKING, UPDATE_SPORTS } from "./actions";
-import { useReducer } from "react";
 
-export default function reducer(state, action){
+
+const initialState = {
+    breakingArticles: [],
+    sportsArticles: [],
+    entertainmentArticles: []
+};
+
+export default function reducer(state = initialState, action){
     switch (action.type) {
         case UPDATE_BREAKING:
             return {
                 ...state,
-                breakingArticles: [...breakingArticles, action.payload]
+                breakingArticles: [...state.breakingArticles, ...action.payload]
             };
         case UPDATE_ENTERTAINMENT:
             return {
                 ...state, 
-                entertainmentArticles: [...entertainmentArticles, action.payload]
+                entertainmentArticles: [...state.entertainmentArticles, ...action.payload]
             };
         case UPDATE_SPORTS:
             return {
                 ...state,
-                sportsArticles: [...sportsArticles, action.payload]
+                sportsArticles: [...state.sportsArticles, ...action.payload]
             };
         default:
             return state;
