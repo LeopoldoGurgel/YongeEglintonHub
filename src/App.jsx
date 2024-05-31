@@ -36,10 +36,8 @@ export const client = new ApolloClient({
 function App() {
 
 
-    /*
 
-    react router inactivated
-
+    return (
     <ApolloProvider client={client}>
       <NewsProvider>
         <div className='bg-light'>
@@ -49,8 +47,9 @@ function App() {
         </div>
       </NewsProvider>      
     </ApolloProvider>
+    )
 
-    */
+    /*
 
   return (
     <ApolloProvider client={client}>
@@ -61,11 +60,11 @@ function App() {
           <Footer />
         </div>
       </NewsProvider>      
-    </ApolloProvider>
-
-
-    
+    </ApolloProvider>    
   )
+
+  */
+
 }
 
 export default App

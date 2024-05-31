@@ -5,11 +5,8 @@ import App from './App.jsx'
 import './index.css'
 
 import ContainerComponent from './components/ContainerComponent/index.jsx';
-// import CategoryComponent from './components/CategoryComponent/index.jsx';
+import CategoryComponent from './components/CategoryComponent/index.jsx';
 
-
-{/*
-REACT ROUTER INACTIVATED
 
 
 const router = createBrowserRouter([
@@ -43,16 +40,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 )
 
-
-*/}
-
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>    
-    <App />   
-  </React.StrictMode>,
-)
-
-
-
-
-    // figure out a way to develop an AI chatbot to discuss about articles.

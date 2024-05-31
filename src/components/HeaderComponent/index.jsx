@@ -10,9 +10,9 @@ const HeaderComponent = () => {
                 <div className="container-fluid">
 
 
-                    <a to="/YongeEglintonHub" className="navbar-brand">
+                    <Link to="/YongeEglintonHub" className="navbar-brand">
                         Yonge & Eglinton Hub
-                    </a>
+                    </Link>
                     
 
                     <button className="navbar-toggler" type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation' >
@@ -23,24 +23,24 @@ const HeaderComponent = () => {
                         <ul className="navbar-nav">
                             <li className="nav-i">
 
-                                <a to="/YongeEglintonHub" className="nav-link text-primary">
+                                <Link to="/YongeEglintonHub" className="nav-link text-primary">
                                     Home
-                                </a>
+                                </Link>
                             </li>
                             <li className="nav-i">
-                                <a to="/YongeEglintonHub/breaking" className="nav-link text-danger">
+                                <Link to="/YongeEglintonHub/breaking" className="nav-link text-danger">
                                     Breaking News
-                                </a>
+                                </Link>
                             </li>
                             <li className="nav-i">
-                                <a to="/YongeEglintonHub/sports" className="nav-link text-success" >
+                                <Link to="/YongeEglintonHub/sports" className="nav-link text-success" >
                                     Sports
-                                </a>
+                                </Link>
                             </li>
                             <li className="nav-i">
-                                <a to="/YongeEglintonHub/entertainment" className="nav-link text-warning" >
+                                <Link to="/YongeEglintonHub/entertainment" className="nav-link text-warning" >
                                     Entertainment
-                                </a>
+                                </Link>
                                 
                             </li>
                         </ul>
