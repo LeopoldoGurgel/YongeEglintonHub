@@ -1,16 +1,18 @@
-import { createContext, useContext, useReducer } from "react";
-import reducer from "./reducers";
+import { createContext, useContext } from "react";
 import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from "./queries.js";
 import { useQuery } from "@apollo/client";
 
-
+// creation of context
 const NewsContext = createContext();
 
+// context consumer function
 export default function useNews() { 
     return useContext(NewsContext) 
 };
 
 export const NewsProvider = ({children}) => {
+
+    // query data from apollo server
 
     const {
         loading: breakingLoading, 
@@ -24,7 +26,9 @@ export const NewsProvider = ({children}) => {
         loading: entertainmentLoading, 
         error: entertainmentError, 
         data: entertainmentData} = useQuery(QUERY_ENTERT);
-  
+    
+
+    // loading scenario handling
         
     if(breakingLoading || sportsLoading || entertainmentLoading) {
         return (
@@ -32,6 +36,7 @@ export const NewsProvider = ({children}) => {
         )
     }
     
+    // error scenario handling
 
     if(breakingError) {
         return (
@@ -49,17 +54,12 @@ export const NewsProvider = ({children}) => {
         )
     }
 
+    // extracting the articles array from the incoming object
+    // that array will be available through the consumer function useNews
+
     const breakingArticles = breakingData.breaking;
     const sportsArticles = sportsData.sports;
     const entertainmentArticles = entertainmentData.entertainment;
-
-    
-
-    
-
-
-    // const [state, dispatch] = useReducer(reducer, initialState)
-
     
     return(
         <NewsContext.Provider value={{breakingArticles, sportsArticles, entertainmentArticles}}>
