@@ -2,8 +2,9 @@ import DestaqueComponent from "../DestaqueComponent"
 import SideGroupComponent from "../SideGroupComponent";
 
 
-const ContainerComponent = () => {    
-    
+const ContainerComponent = () => {
+
+
     return (
         <div className="container-fluid row">
             <DestaqueComponent />

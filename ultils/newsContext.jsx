@@ -1,18 +1,16 @@
-import { createContext, useContext, useState, useEffect } from "react";
-import {useQuery} from '@apollo/client';
-import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from "./queries";
+import { createContext, useContext, useReducer } from "react";
+import reducer from "./reducers";
+import { QUERY_BREAKING, QUERY_ENTERT, QUERY_SPORTS } from "./queries.js";
+import { useQuery } from "@apollo/client";
+
 
 const NewsContext = createContext();
 
 export default function useNews() { 
-    useContext(NewsContext) 
+    return useContext(NewsContext) 
 };
 
 export const NewsProvider = ({children}) => {
-
-    const [breakingArticles, setBreakingArticles] = useState([]);
-    const [sportsArticles, setSportsArticles] = useState([]);
-    const [entertainmentArticles, setEntertainmentArticles] = useState([]);
 
     const {
         loading: breakingLoading, 
@@ -26,8 +24,8 @@ export const NewsProvider = ({children}) => {
         loading: entertainmentLoading, 
         error: entertainmentError, 
         data: entertainmentData} = useQuery(QUERY_ENTERT);
-
-    
+  
+        
     if(breakingLoading || sportsLoading || entertainmentLoading) {
         return (
             <div>Loading...</div>
@@ -51,29 +49,18 @@ export const NewsProvider = ({children}) => {
         )
     }
 
-    // if loading or error, the component will break in the lines above.
-    // from now on we will work in a scenario were we have pure JSON objects
+    const breakingArticles = breakingData.breaking;
+    const sportsArticles = sportsData.sports;
+    const entertainmentArticles = entertainmentData.entertainment;
 
-    useEffect(()=> {
-        if(breakingData){
-            setBreakingArticles(breakingData.breaking);
-        }
-    }, [breakingData])
-        
-    useEffect(()=> {
-        if(sportsData){
-            setSportsArticles(sportsData.sports);
-        }
-    }, [sportsData])
+    
 
-    useEffect(()=> {
-        if(entertainmentData){
-            setEntertainmentArticles(entertainmentData.entertainment); 
-        }
-    }, [entertainmentData])     
     
 
 
+    // const [state, dispatch] = useReducer(reducer, initialState)
+
+    
     return(
         <NewsContext.Provider value={{breakingArticles, sportsArticles, entertainmentArticles}}>
             {children}

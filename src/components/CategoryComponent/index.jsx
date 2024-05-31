@@ -1,11 +1,11 @@
 
 import CategoryMainComponent from "./mainGroup";
-import React, {useState} from "react";
 import useNews from "../../../ultils/newsContext";
 
 const CategoryComponent = ({category}) => {
 
     const {breakingArticles, sportsArticles, entertainmentArticles} = useNews();
+    
     let color, articles;
 
     switch(category){

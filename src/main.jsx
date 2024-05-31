@@ -8,6 +8,7 @@ import ContainerComponent from './components/ContainerComponent/index.jsx';
 import CategoryComponent from './components/CategoryComponent/index.jsx';
 
 
+
 const router = createBrowserRouter([
   {
     path: '/YongeEglintonHub',
@@ -39,4 +40,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 )
 
-    // figure out a way to develop an AI chatbot to discuss about articles.
