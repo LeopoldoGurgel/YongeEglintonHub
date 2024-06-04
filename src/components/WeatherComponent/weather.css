@@ -1,5 +1,5 @@
 #weatherComponent {
-    height: 30vh;
+    height: 200px;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -64,6 +64,7 @@
     #weatherComponent {
         margin-top: 24px;
         margin-bottom: 0;
+        height: 400px;
     }
 
 

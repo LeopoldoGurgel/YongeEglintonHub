@@ -1,57 +1,63 @@
 import './header.css'
 import React from 'react';
 import {Link} from 'react-router-dom';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+
+
 
 const HeaderComponent = () => {
 
     return (
-        <div>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
-                <div className="container-fluid">
+        <Navbar expand="lg" className="bg-body-tertiary container-fluid p-2 p-md-3 p-lg-4">
+        
 
-                    {/* Logo */}
-                    <Link to="/YongeEglintonHub" className="navbar-brand">
-                        Yonge & Eglinton Hub
-                    </Link>
+            {/* Logo */}
+            <Link to="/YongeEglintonHub" className="navbar-brand">
+                Yonge & Eglinton Hub
+            </Link> 
+            
+            {/*  button to toggle navbar as a dropdown on mobile */}
+            <Navbar.Toggle aria-controls="basic-navbar-nav" className='headerToggler'/>
+
+            {/*  collpsible navbar */}
+            <Navbar.Collapse id="basic-navbar-nav">
+                <Nav className="me-auto">
+
+                    <Nav.Link>
+                        <Link to="/YongeEglintonHub" className="link-underline link-underline-opacity-0 text-primary">
+                                        Home
+                        </Link>
+                    </Nav.Link>
+
+                    <Nav.Link>
+                        <Link to="/YongeEglintonHub/breaking" className="link-underline link-underline-opacity-0  text-danger">
+                            Breaking News
+                        </Link>
+                    </Nav.Link>
+
+                    <Nav.Link>
+                        <Link to="/YongeEglintonHub/sports" className="link-underline link-underline-opacity-0  text-success" >
+                            Sports
+                        </Link>
+                    </Nav.Link>
+
+                    <Nav.Link>
+                        <Link to="/YongeEglintonHub/entertainment" className="link-underline link-underline-opacity-0  text-warning" >
+                            Entertainment
+                        </Link>
+                    </Nav.Link>
+
                     
-                    {/* Toggler button. Only seen on mobile devices. */}
-                    <button className="navbar-toggler" type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation' >
-                        <span className="navbar-toggler-icon"></span>
-                    </button>
-
-
-                    {/* Navbar links */}
-                    <div className="collapse navbar-collapse" id='navbarNav'>
-                        <ul className="navbar-nav">
-                            <li className="nav-i">
-
-                                <Link to="/YongeEglintonHub" className="nav-link text-primary">
-                                    Home
-                                </Link>
-                            </li>
-                            <li className="nav-i">
-                                <Link to="/YongeEglintonHub/breaking" className="nav-link text-danger">
-                                    Breaking News
-                                </Link>
-                            </li>
-                            <li className="nav-i">
-                                <Link to="/YongeEglintonHub/sports" className="nav-link text-success" >
-                                    Sports
-                                </Link>
-                            </li>
-                            <li className="nav-i">
-                                <Link to="/YongeEglintonHub/entertainment" className="nav-link text-warning" >
-                                    Entertainment
-                                </Link>
-                                
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
+                </Nav>
+            </Navbar.Collapse>
+        
+        </Navbar>
     )
     
 }
 
 export default HeaderComponent;
+
+
