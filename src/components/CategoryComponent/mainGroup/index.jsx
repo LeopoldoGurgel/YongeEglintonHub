@@ -48,7 +48,7 @@ const CategoryMainComponent = ({color, articles}) => {
             </div>
 
 
-            <div id="articlesdiv" className="container-fluid">
+            <div id="articlesdiv" className="container-fluid d-flex flex-wrap">
                 {paginatedArticles.map((article, index) => (
                     <CategoryWrapper 
                         key={index}
