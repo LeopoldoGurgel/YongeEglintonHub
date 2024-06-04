@@ -10,3 +10,5 @@ const CategorySideComponent = ({articles, color}) => {
         </div>
     )
 }
+
+export default CategorySideComponent;
