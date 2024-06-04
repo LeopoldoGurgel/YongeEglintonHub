@@ -27,6 +27,10 @@ const CategoryComponent = ({category}) => {
             break;
     }
 
+    if (!articles || articles.length === 0) {
+        return <div>Loading...</div>; // Show loading state
+      }
+
 
     // create main group and side group components
     // create article search engine. 
