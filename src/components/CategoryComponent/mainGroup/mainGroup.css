@@ -1,6 +1,13 @@
 #advertisingdiv {
     height: 150px;
+    
 }
+
+#articlesdiv{
+    display:flex;
+    flex-wrap: wrap;
+}
+
 
 
 

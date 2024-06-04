@@ -1,4 +1,4 @@
-
+import CategorySideComponent from './sideGroup'
 import CategoryMainComponent from "./mainGroup";
 import useNews from "../../../ultils/newsContext";
 
@@ -32,10 +32,12 @@ const CategoryComponent = ({category}) => {
     // create article search engine. 
     // figure out a way to develop an AI chatbot to discuss about articles.
 
+    // <div id='categorySide' className="col-md-4 col-lg-2">Side Group</div>
+
     return(
         <div className="container-fluid">
             <CategoryMainComponent articles={articles} color={color} />            
-            <div id='categorySide' className="col-md-4 col-lg-2">Side Group</div>
+            <CategorySideComponent articles={articles} color={color}/>
         </div>
     )
 
