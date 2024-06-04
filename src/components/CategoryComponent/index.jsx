@@ -35,7 +35,7 @@ const CategoryComponent = ({category}) => {
     return(
         <div className="container-fluid">
             <CategoryMainComponent articles={articles} color={color} />            
-            <div className="col-md-4 col-lg-2">Side Group</div>
+            <div id='categorySide' className="col-md-4 col-lg-2">Side Group</div>
         </div>
     )
 

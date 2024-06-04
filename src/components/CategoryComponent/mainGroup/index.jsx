@@ -43,7 +43,7 @@ const CategoryMainComponent = ({color, articles}) => {
         <div className="col-12 col-md-8 col-lg-10 ">
 
             
-            <div id='advertising'>
+            <div id='advertising' className="m-2">
                 advertising goes here
             </div>
 
