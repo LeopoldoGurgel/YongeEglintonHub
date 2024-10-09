@@ -35,6 +35,27 @@ const CategoryMainComponent = ({color, articles}) => {
         setCurrentPage(pageNumber)
     }
 
+    const isMobile = window.innerWidth <= 1200;
+
+    const getPageButtons = () => {
+        const pages = [];
+        let startPage = Math.max(currentPage - 2, 1);
+        let endPage = Math.min(currentPage + 2, totalPages);
+
+        if (isMobile) {
+            if(currentPage < 3){
+                endPage= Math.min(5, totalPages)
+            } else if (currentPage >= totalPages - 2){
+                startPage = Math.max(totalPages - 4, 1)
+            }
+        }
+
+        for (let i=startPage; i<=endPage; i++){
+            pages.push(i)
+        }
+        return pages;
+    }
+
     return(
         <div className="col-12 col-md-8 col-lg-10 ">
 
@@ -58,7 +79,7 @@ const CategoryMainComponent = ({color, articles}) => {
             <Pagination>
                 <Pagination.First onClick={() => handlePageChange(1)} disabled={currentPage === 1}/>
                 <Pagination.Prev onClick={()=>handlePageChange(currentPage-1)} disabled={currentPage === 1} />
-                {Array.from({length: totalPages}, (_, index) => (
+                {Array.from({ length: isMobile ? Math.min(totalPages, 5) : totalPages }, (_, index) => (
                     <Pagination.Item 
                         key={index}
                         active={index + 1 === currentPage}
