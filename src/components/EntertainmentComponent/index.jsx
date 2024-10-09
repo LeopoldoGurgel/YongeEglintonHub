@@ -6,11 +6,11 @@ import useNews from '../../../ultils/newsContext';
 const EntertainmentComponent = () => {
 
     const {entertainmentArticles} = useNews();
-
     const articles = entertainmentArticles.filter((i)=> i.urlToImg).slice(0,6)
+    
 
     return (
-        <div className='col-12 col-md-6 ps-3 '>
+        <div className='col-12 col-lg-6 ps-3 '>
             <div id="entertainmentComponent" className="link-underline link-underline-opacity-0 text-orange">
 
             {articles.map((i) =>

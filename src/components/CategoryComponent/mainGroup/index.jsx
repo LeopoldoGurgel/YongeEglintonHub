@@ -5,10 +5,6 @@ import {Pagination} from 'react-bootstrap';
 
 const CategoryMainComponent = ({color, articles}) => {
 
-    // THE ERROR IS HAPPENING BECAUSE THE QUERY IS MADE FROM THE PARENT COMPONENT
-    // WHEN THE LINK IS CLICKED, THE ROUTE CHANGES AND THE QUERY IS NOT MADE FURTHER WHEN THE PAGE IS RELOADED
-    // ADJUST THE CODE SO THE QUERY IS MADE FROM THE CATEGORY MAIN COMPONENT AND CALL THE SIDE COMPONENT FROM HERE AS WELL
-    // THAT WAY, EVERYTHINK WILL HAPPEN FROM THE CHILD ROUTE AND PREVENT THOSE ERRORS
 
     const [currentPage, setCurrentPage] = useState(1);
     const [articlesArray, setArticlesArray] = useState([]);

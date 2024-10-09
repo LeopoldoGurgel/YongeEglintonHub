@@ -14,6 +14,24 @@
     width: 150px;
 }
 
-.cwHeader {
-       
+@media (max-width: 1200px) {
+    .categoryWrapper {
+        width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+    .categoryWrapper {
+        display: flex
+    }
+
+    .cwImg {
+        width: 120px;
+        height: 120px;
+        margin-right: 10px
+    }
+
+    .cwHeader {
+        font-size: 1rem
+    }
 }
