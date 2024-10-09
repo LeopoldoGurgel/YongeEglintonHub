@@ -10,6 +10,14 @@ export default function useNews() {
     return useContext(NewsContext) 
 };
 
+
+
+/*
+
+UNCOMMENT THIS FOR PRODUCTION
+
+*/
+
 export const NewsProvider = ({children}) => {
 
     // query data from apollo server
@@ -54,12 +62,14 @@ export const NewsProvider = ({children}) => {
         )
     }
 
-    // extracting the articles array from the incoming object
-    // that array will be available through the consumer function useNews
-
     const breakingArticles = breakingData.breaking;
     const sportsArticles = sportsData.sports;
     const entertainmentArticles = entertainmentData.entertainment;
+
+    // extracting the articles array from the incoming object
+    // that array will be available through the consumer function useNews
+
+
     
     return(
         <NewsContext.Provider value={{breakingArticles, sportsArticles, entertainmentArticles}}>
@@ -67,4 +77,45 @@ export const NewsProvider = ({children}) => {
         </NewsContext.Provider>
     )
 }
+
+    
+
+
+
+
+
+
+
+
+
+    ///////////////////////////
+
+    // ATTENTION //
+    // SEE BELOW //
+
+    ///////////////////////////////
+
+
+    /*
+
+    // THE FOLLOWING CODE IS FOR DEVELOPING ONLY
+
+    import breakingData from '../devFiles/mediaStackToronto_response.json'
+    import sportsData from '../devFiles/newsdata_response_sports.json'
+    import entertainmentData from '../devFiles/newsdata_response_entertainment.json'
+
+    export const NewsProvider = ({children}) => {
+        const breakingArticles = breakingData.data
+        const sportsArticles = sportsData.results
+        const entertainmentArticles = entertainmentData.results  
+
+    
+    return(
+        <NewsContext.Provider value={{breakingArticles, sportsArticles, entertainmentArticles}}>
+            {children}
+        </NewsContext.Provider>
+    )
+}
+
+*/
 

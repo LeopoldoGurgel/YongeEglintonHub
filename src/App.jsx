@@ -33,14 +33,14 @@ export const client = new ApolloClient({
 function App() {
 
     return (
-    <ApolloProvider client={client}>
-      <NewsProvider>
+    <ApolloProvider client={client}>      
         <div className='bg-light'>
           <HeaderComponent />
-          <Outlet />
+          <NewsProvider>
+            <Outlet />
+          </NewsProvider>          
           <Footer />
-        </div>
-      </NewsProvider>      
+        </div>    
     </ApolloProvider>
     )
 

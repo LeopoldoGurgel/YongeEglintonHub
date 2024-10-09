@@ -1,19 +1,37 @@
 .categoryWrapper {
-    display: inline-block;
-    height: 200px;
+    display: flex;
+    height: 150px;
+    width: 50%;
+    align-items: center
 }
 
 .cwImg {
-    height: 200px;
+    height: 150px;
     aspect-ratio: 1/1;
     object-fit: cover;
     padding: 2px;
     border-radius: 10px;
-    max-width: 220px;
-    display: inline;
+    width: 150px;
 }
 
-.cwHeader {
-    display: inline;
-    
+@media (max-width: 1200px) {
+    .categoryWrapper {
+        width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+    .categoryWrapper {
+        display: flex
+    }
+
+    .cwImg {
+        width: 120px;
+        height: 120px;
+        margin-right: 10px
+    }
+
+    .cwHeader {
+        font-size: 1rem
+    }
 }
