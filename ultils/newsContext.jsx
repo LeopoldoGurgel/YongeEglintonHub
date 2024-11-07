@@ -12,11 +12,18 @@ export default function useNews() {
 
 
 
+
+
 /*
+
+
 
 UNCOMMENT THIS FOR PRODUCTION
 
 */
+
+
+
 
 export const NewsProvider = ({children}) => {
 
@@ -98,16 +105,20 @@ export const NewsProvider = ({children}) => {
 
     /*
 
+    
+
     // THE FOLLOWING CODE IS FOR DEVELOPING ONLY
 
-    import breakingData from '../devFiles/mediaStackToronto_response.json'
-    import sportsData from '../devFiles/newsdata_response_sports.json'
-    import entertainmentData from '../devFiles/newsdata_response_entertainment.json'
+    import breakingData from '../devFiles/mockBreaking.json'
+    import sportsData from '../devFiles/mockSports.json'
+    import entertainmentData from '../devFiles/mockEntertainment.json'
 
     export const NewsProvider = ({children}) => {
-        const breakingArticles = breakingData.data
-        const sportsArticles = sportsData.results
-        const entertainmentArticles = entertainmentData.results  
+        const breakingArticles = breakingData.data.breaking
+        const sportsArticles = sportsData.data.sports
+        const entertainmentArticles = entertainmentData.data.entertainment  
+
+        
 
     
     return(
@@ -115,7 +126,10 @@ export const NewsProvider = ({children}) => {
             {children}
         </NewsContext.Provider>
     )
-}
 
-*/
+    
+}
+    */
+
+
 

@@ -1,0 +1,870 @@
+{
+    "data": {
+        "entertainment": [
+            {
+                "_id": "6729eca3ca26d7cb2ea30c2f",
+                "category": "entertainment",
+                "title": "Vancouver condo sold for whopping $1M over assessed",
+                "url": "https://dailyhive.com/vancouver/vancouver-condo-assessed-590-nicola",
+                "urlToImg": "https://images.dailyhive.com/20241104113616/vancouver-apartment.jpg",
+                "createdAt": "1730754709000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc855",
+                "category": "entertainment",
+                "title": "Homemade soups on offer again, with a ramen rendition",
+                "url": "https://www.prpeak.com/sponsored/homemade-soups-on-offer-again-with-a-ramen-rendition-9745860",
+                "urlToImg": "https://www.vmcdn.ca/f/files/powellriverpeak/images/business/3001_wild_soups_3.JPG;w=960",
+                "createdAt": "1730648700000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a6b31ca26d7cb2ea30c92",
+                "category": "entertainment",
+                "title": "Competing abortion proposals highlight a record number of ballot measures in Nebraska",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2024/11/04/competing-abortion-proposals-highlight-a-record-number-of-ballot-measures-in-nebraska",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2022/11/fb-og-image.png",
+                "createdAt": "1730783047000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c6e",
+                "category": "entertainment",
+                "title": "30-acre vacant City of Surrey-owned site to be used to fabricate SkyTrain extension's concrete segments",
+                "url": "https://dailyhive.com/vancouver/surrey-langley-skytrain-precast-yard-elevated-guideway-concrete",
+                "urlToImg": "https://images.dailyhive.com/20220804144223/skytrain-evergreen-guideway-construction-f.jpg",
+                "createdAt": "1730779106000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c34",
+                "category": "entertainment",
+                "title": "Hugh Grant spent half his career in rom-coms. Now he plays monsters, and he's never been happier",
+                "url": "https://www.ctvnews.ca/entertainment/hugh-grant-spent-half-his-career-in-rom-coms-now-he-plays-monsters-and-he-s-never-been-happier-1.7097915",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/hugh-grant-1-7097919-1730753012886.jpeg",
+                "createdAt": "1730753220000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01eb",
+                "category": "entertainment",
+                "title": "Movie Review: 'Heretic' is a fascinating mix of high discourse, gore and a shifty Hugh Grant",
+                "url": "https://www.thespec.com/entertainment/movie-review-heretic-is-a-fascinating-mix-of-high-discourse-gore-and-a-shifty-hugh/article_b52d2c64-b229-5c61-b6a4-41af0466c283.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/f/78/f7865c0a-4e16-509c-8cd4-4e81142bbd9a/6729178344f9e.image.jpg?resize=300%2C200",
+                "createdAt": "1730745896000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c52",
+                "category": "entertainment",
+                "title": "Hindu temple in Surrey, B.C., wants police suspended after protest unrest",
+                "url": "https://www.thespec.com/entertainment/hindu-temple-in-surrey-b-c-wants-police-suspended-after-protest-unrest/article_9e48d845-c918-5ffd-b1f4-f6f799a3ea87.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/2/46/246553af-c44e-59b8-9ad4-03b302fed193/67294b13233b3.image.jpg?resize=300%2C200",
+                "createdAt": "1730759251000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01a7",
+                "category": "entertainment",
+                "title": "Springsteen, E Street band deliver rousing night in Toronto",
+                "url": "https://torontosun.com/entertainment/music/springsteen-e-street-band-deliver-rousing-night-in-toronto",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/BRUCE_ESTREET_ANNOUNCE_photo2-e1730723741913.jpg?h=216&quality=90&sig=4-mKuKMUd1vGWpW1_63mTA&strip=all&w=288",
+                "createdAt": "1730723132000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672919b545fe8edcb35b016b",
+                "category": "entertainment",
+                "title": "Pakistan shuts primary schools for a week in Lahore due to dangerous air quality",
+                "url": "https://www.thespec.com/life/pakistan-shuts-primary-schools-for-a-week-in-lahore-due-to-dangerous-air-quality/article_6a4fb0a7-9f2e-530b-8d49-59c8ea259ecb.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/6/2d/62d5aef7-fbf6-58bd-aff6-359d4ce41a43/67284cbd4cf53.image.jpg?resize=300%2C200",
+                "createdAt": "1730694148000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c75",
+                "category": "entertainment",
+                "title": "Taylor Swift watches Travis Kelce and the Chiefs play Buccaneers after wrapping US leg of Eras Tour",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/2024/11/04/taylor-swift-watches-travis-kelce-and-the-chiefs-play-buccaneers-after-wrapping-us-leg-of-eras-tour",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/20241104191128-20241104191128-67296738765dd22abf13e4e5jpeg.jpg?w=1000",
+                "createdAt": "1730766658000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672919b545fe8edcb35b0162",
+                "category": "entertainment",
+                "title": "Philippine Ballet Theatre’s ‘Ibalon’ enthralls audiences",
+                "url": "https://usa.inquirer.net/159649/philippine-ballet-theatres-ibalon-enthralls-audiences",
+                "urlToImg": "https://usa.inquirer.net/files/2024/11/IMG_6244.jpg",
+                "createdAt": "1730697398000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c2e",
+                "category": "entertainment",
+                "title": "Edmonton branded a seller's market as demand for housing remains strong",
+                "url": "https://dailyhive.com/edmonton/edmonton-sellers-market-zoocasa-report",
+                "urlToImg": "https://images.dailyhive.com/20241104122955/Shutterstock_1868030620.jpg",
+                "createdAt": "1730756361000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc85d",
+                "category": "entertainment",
+                "title": "Mexico City’s floating gardens have fed people for hundreds of years. Now they’re threatened",
+                "url": "https://www.stcatharinesstandard.ca/life/mexico-city-s-floating-gardens-have-fed-people-for-hundreds-of-years-now-they-re/article_f22b88fa-b241-5982-862f-a34f1e03801d.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/6/d0/6d01adcb-95f8-5b63-a0f1-e4fca5543d7c/67278dd19eef0.image.jpg?resize=300%2C200",
+                "createdAt": "1730644631000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67279e02170d4eec274cc7d2",
+                "category": "entertainment",
+                "title": "Harry Potter-themed event raises funds for local cancer care",
+                "url": "https://www.sootoday.com/local-entertainment/harry-potter-themed-event-raises-funds-for-local-cancer-care-9750288",
+                "urlToImg": "https://www.vmcdn.ca/f/files/sootoday/images/entertainment/evening-at-hogwarts/20241102-harrypotter-dt-12.jpg;w=960",
+                "createdAt": "1730595668000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc839",
+                "category": "entertainment",
+                "title": "Crashing waves in a hilltop village, a night of terror from Spain's floods",
+                "url": "https://www.therecord.com/life/crashing-waves-in-a-hilltop-village-a-night-of-terror-from-spains-floods/article_a7f70931-7f32-5800-b697-e2e60f52dd18.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/6/38/638ee4bd-7256-56d5-a9ea-9a43ebdde4d9/67276259378fa.image.jpg?resize=300%2C200",
+                "createdAt": "1730633630000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672668a35ef0a3b56898c382",
+                "category": "entertainment",
+                "title": "Delegates establish Indigenous subsidiary body and rules for genetic information at COP16 summit",
+                "url": "https://www.stcatharinesstandard.ca/life/delegates-establish-indigenous-subsidiary-body-and-rules-for-genetic-information-at-cop16-summit/article_f3fd3acd-3d69-5937-b9db-e71bb13d84e8.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/4/04/4040fa4b-fa74-5176-b2c2-374b7804ace4/6715b99690910.image.jpg?resize=300%2C200",
+                "createdAt": "1730523979000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c71",
+                "category": "entertainment",
+                "title": "Trump called Megyn Kelly 'nasty' 9 years ago. She just helped deliver his closing message",
+                "url": "https://www.stcatharinesstandard.ca/entertainment/trump-called-megyn-kelly-nasty-9-years-ago-she-just-helped-deliver-his-closing-message/article_01061c1f-4739-5ce4-af5c-3b762fb29b2e.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/4/96/4967c42d-a49a-55d2-ac75-347d693c3e63/6729902776f2a.image.jpg?resize=300%2C200",
+                "createdAt": "1730776383000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01ac",
+                "category": "entertainment",
+                "title": "Heavy rains in Barcelona disrupt rail service as troops search for more flood victims in Valencia",
+                "url": "https://www.stcatharinesstandard.ca/life/heavy-rains-in-barcelona-disrupt-rail-service-as-troops-search-for-more-flood-victims-in/article_24667645-3a55-5b84-9a79-343aa31ed81f.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/7/f3/7f3aa300-fcd0-521e-baa6-fec538ede2e9/6728a82ed90ba.image.jpg?resize=300%2C200",
+                "createdAt": "1730717135000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726e7315ef0a3b56898c3e3",
+                "category": "entertainment",
+                "title": "Detached home prices in these nearby spots are rising slower than in Calgary",
+                "url": "https://dailyhive.com/calgary/calgary-homes-for-sale-prices-detached-cities",
+                "urlToImg": "https://images.dailyhive.com/20240703111527/MixCollage-03-Jul-2024-12-14-PM-5183.jpg",
+                "createdAt": "1730548824000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01cc",
+                "category": "entertainment",
+                "title": "Remembering Quincy Jones: Here's what people are saying about the legendary producer",
+                "url": "https://www.thestar.com/entertainment/music/remembering-quincy-jones-heres-what-people-are-saying-about-the-legendary-producer/article_cbb13786-9a9d-11ef-96e7-c707f787bde4.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/97/1978d8fb-5d41-5bea-a370-835fe5af1532/6728d902675bb.image.jpg?resize=300%2C450",
+                "createdAt": "1730733300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67289b2145fe8edcb35b0100",
+                "category": "entertainment",
+                "title": "Hope for a Gordon Lightfoot museum 'still very much alive' in his hometown",
+                "url": "https://www.thespec.com/entertainment/hope-for-a-gordon-lightfoot-museum-still-very-much-alive-in-his-hometown/article_f9e2ab46-099b-5dbb-aad3-e98d89b423e7.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/1/dc/1dcb3ec1-5396-54cb-94ab-831a15c74a88/6727d08f4044d.image.jpg?resize=300%2C214",
+                "createdAt": "1730662492000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01a6",
+                "category": "entertainment",
+                "title": "'Dawson's Creek' star James Van Der Beek has colorectal cancer",
+                "url": "http://canoe.com/entertainment/celebrity/dawsons-creek-star-james-van-der-beek-has-colorectal-cancer/wcm/c8916420-76b4-4556-83f9-51f58496cede",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/james-van-der-beek.jpg",
+                "createdAt": "1730723959000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726e7315ef0a3b56898c3e6",
+                "category": "entertainment",
+                "title": "Inside the 'holy s--t' moment and secretive NHL hearing that ended Nazem Kadri's decade with the Maple Leafs",
+                "url": "https://www.stcatharinesstandard.ca/sports/hockey/inside-the-holy-s--t-moment-and-secretive-nhl-hearing-that-ended-nazem-kadris/article_ac33efb2-7605-51d7-917e-83327b1c2fde.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/7/5b/75b9ac63-6d78-5055-b5b6-cc0db14ce86b/67262e00bac02.image.jpg?resize=300%2C200",
+                "createdAt": "1730538000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01c7",
+                "category": "entertainment",
+                "title": "Taylor Swift shows spark beading bonanza and big sales for crafting retailers",
+                "url": "https://www.ctvnews.ca/entertainment/taylor-swift-shows-spark-beading-bonanza-and-big-sales-for-crafting-retailers-1.7097550",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/friendship-bracelet-1-7097559-1730734853196.jpg",
+                "createdAt": "1730734840000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01c5",
+                "category": "entertainment",
+                "title": "Sy Montgomery shares ‘What the Chicken Knows’ in new mini hardcover",
+                "url": "https://www.thestar.com/entertainment/books/sy-montgomery-shares-what-the-chicken-knows-in-new-mini-hardcover/article_5717feae-f6b5-5678-8051-cdc6ec241e0d.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/04/0044a964-e29d-53c7-bee7-59053fff7a24/6728f0b7baa2b.image.jpg?resize=300%2C200",
+                "createdAt": "1730736000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672919b545fe8edcb35b0164",
+                "category": "entertainment",
+                "title": "Prince William begins a visit to South Africa that focuses on climate and the environment",
+                "url": "https://www.thespec.com/life/prince-william-begins-a-visit-to-south-africa-that-focuses-on-climate-and-the-environment/article_75fadba9-41c0-589c-a374-61ecfb43a5a8.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/0/85/085aca76-68ab-5c18-9674-4bb44ccb8bf6/6728551b06f6e.image.jpg?resize=300%2C200",
+                "createdAt": "1730696299000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01e7",
+                "category": "entertainment",
+                "title": "Police in Brazil indict Colombian fish trader in high profile killing in Amazon region",
+                "url": "https://www.thespec.com/life/police-in-brazil-indict-colombian-fish-trader-in-high-profile-killing-in-amazon-region/article_fab8c4af-09ad-5a25-81db-24e035ed853e.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/9/e8/9e861f55-e572-5136-a177-0983d70182e9/672918a4daf5f.image.jpg?resize=300%2C200",
+                "createdAt": "1730746248000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c4d",
+                "category": "entertainment",
+                "title": "Truth Bar: New zodiac-themed cocktail bar opens in Calgary",
+                "url": "https://dailyhive.com/calgary/truth-bar-opens-calgary",
+                "urlToImg": "https://images.dailyhive.com/20241104154217/Truth-Bar-opens-in-Calgary.jpg",
+                "createdAt": "1730764729000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01c8",
+                "category": "entertainment",
+                "title": "Celebrity birthdays for the week of Nov. 10-16",
+                "url": "https://www.stcatharinesstandard.ca/entertainment/celebrity-birthdays-for-the-week-of-nov-10-16/article_ce56bc55-d61d-5649-8af4-bc39736a780e.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/f/5d/f5d6c946-29d2-534a-ba0e-76f01f8d69fa/6728ec0a6513d.image.jpg?resize=300%2C200",
+                "createdAt": "1730734657000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c35",
+                "category": "entertainment",
+                "title": "Music Review: State Champs’ self-titled album is enjoyable, quintessential, predictable pop-punk",
+                "url": "https://www.thespec.com/entertainment/music-review-state-champs-self-titled-album-is-enjoyable-quintessential-predictable-pop-punk/article_12097d13-4f6d-50fb-9b62-5120562f14d6.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/8/d2/8d23ebc4-c537-5d59-8a21-f408ad85675f/6729314d1b35d.image.jpg?resize=300%2C300",
+                "createdAt": "1730752705000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672870f2170d4eec274cc878",
+                "category": "entertainment",
+                "title": "Cast announced for 'Joseph and the Amazing Technicolor Dreamcoat'",
+                "url": "https://www.sootoday.com/local-entertainment/cast-announced-for-joseph-and-the-amazing-technicolor-dreamcoat-9744298",
+                "urlToImg": "https://www.vmcdn.ca/f/files/sootoday/images/entertainment/theatre/20241101-dreamcoat-cast2.jpg;w=960",
+                "createdAt": "1730655000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c6f",
+                "category": "entertainment",
+                "title": "On the night before Election Day, Kamala Harris brings in celebrities. Donald Trump is unimpressed",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/2024/11/04/on-the-night-before-election-day-kamala-harris-brings-in-celebrities-donald-trump-is-unimpressed",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/20241104221148-20241104221148-672995a82d1fe6acff264575jpeg.jpg?w=1000",
+                "createdAt": "1730778544000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a6b31ca26d7cb2ea30c91",
+                "category": "entertainment",
+                "title": "Abortion is on the ballot in nine states and motivating voters across the US",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2024/11/04/abortion-is-on-the-ballot-in-nine-states-and-motivating-voters-across-the-us",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/2024110500118-2024110500118-6729a8542d1fe6acff265822jpeg.jpg?w=1000",
+                "createdAt": "1730783342000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672919b545fe8edcb35b016a",
+                "category": "entertainment",
+                "title": "Prince William puts climate in the focus of his visit to South Africa",
+                "url": "https://www.therecord.com/life/prince-william-puts-climate-in-the-focus-of-his-visit-to-south-africa/article_fc395fa0-fb83-5414-a289-38c4f37350ea.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/b/25/b258f9d9-67a7-5304-9768-2deb752273bf/672857534222a.image.jpg?resize=300%2C200",
+                "createdAt": "1730696299000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc836",
+                "category": "entertainment",
+                "title": "MORRIS: The best comfort food recipes to keep you cozy this winter",
+                "url": "https://winnipegsun.com/life/food/morris-the-best-comfort-food-recipes-to-keep-you-cozy-this-winter",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/winnipegsun/wp-content/uploads/2024/11/1103-Morris-Spaghetti-Squash-Lasagna-e1730490506465.jpg?h=216&quality=90&sig=T1fc2fbbZd7SzsOikLllNw&strip=all&w=288",
+                "createdAt": "1730637516000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727f261170d4eec274cc813",
+                "category": "entertainment",
+                "title": "Fall is supposed to be the prime season for mushrooms, so what happened this year? Columnist unearths the reasons for you",
+                "url": "https://www.therecord.com/life/fall-is-supposed-to-be-the-prime-season-for-mushrooms-so-what-happened-this-year/article_9f48f0ad-61b8-5732-bd92-863b9997d955.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/b/e9/be9d7fe7-741c-5afc-88f3-40219c5dd0ff/67224b5433ba8.image.jpg?resize=300%2C300",
+                "createdAt": "1730628000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727c834170d4eec274cc7f2",
+                "category": "entertainment",
+                "title": "True crime's popularity brings real change for defendants and society. It's not all good",
+                "url": "https://www.thespec.com/life/true-crimes-popularity-brings-real-change-for-defendants-and-society-its-not-all-good/article_498555de-faa0-5b4e-930f-cb2cccc59fa3.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/b/88/b886c86b-b973-5de1-94b8-a5a9a55c4140/672705d0dc95d.image.jpg?resize=300%2C188",
+                "createdAt": "1730613993000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c30",
+                "category": "entertainment",
+                "title": "UNA Pizza + Wine opens its first Edmonton location",
+                "url": "https://dailyhive.com/edmonton/una-pizza-wine-opens-edmonton",
+                "urlToImg": "https://images.dailyhive.com/20241104105314/Una-Pizza-Wine-opens-its-first-Edmonton-location.jpg",
+                "createdAt": "1730754097000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726e7315ef0a3b56898c3e2",
+                "category": "entertainment",
+                "title": "Out There: Courtesy and kindness are getting out of control",
+                "url": "https://www.therecord.com/opinion/contributors/out-there-courtesy-and-kindness-are-getting-out-of-control/article_56bcf357-7872-5bdd-8fe9-eb70bc65a5d0.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/60/760fad90-5186-5691-a97b-2ea275caf52c/671fce4a163fc.image.jpg?resize=300%2C200",
+                "createdAt": "1730552400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672870f2170d4eec274cc879",
+                "category": "entertainment",
+                "title": "Minter: How to bring paperwhites to bloom",
+                "url": "https://www.burnabynow.com/local-news/minter-how-to-bring-paperwhites-to-bloom-9727688",
+                "urlToImg": "https://www.vmcdn.ca/f/files/tricitynews/images/outdoors/brianminterhyacinthusonglassbulbnovember2023.jpg;w=960",
+                "createdAt": "1730652300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc857",
+                "category": "entertainment",
+                "title": "Must-see TV: Hallmark's 'Finding Mr. Christmas' tops this week's watch list",
+                "url": "http://canoe.com/entertainment/television/must-see-tv-hallmarks-finding-mr-christmas-tops-this-weeks-watch-list/wcm/2394d244-6880-4180-b8e3-4f7d49899c7a",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/Finding-Mr-Christmas-Hallmark.jpg",
+                "createdAt": "1730647868000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc83d",
+                "category": "entertainment",
+                "title": "A list of some Taylor Swift-themed events popping up in Toronto this November",
+                "url": "https://toronto.ctvnews.ca/a-list-of-some-taylor-swift-themed-events-popping-up-in-toronto-this-november-1.7095762",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/5/30/taylor-swift-1-6906941-1717090048939.jpg",
+                "createdAt": "1730631600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc856",
+                "category": "entertainment",
+                "title": "Kamala Harris appears on ’Saturday Night Live’ as mirror image of Maya Rudolph",
+                "url": "http://canoe.com/news/world/harris-appears-on-saturday-night-live-as-mirror-image-of-maya-rudolph-with-election-looming/wcm/0bf29da9-0452-4f80-90ea-7c33f60e8cbb",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/kamala-harris-snl.jpg",
+                "createdAt": "1730648364000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726bd0b5ef0a3b56898c3bf",
+                "category": "entertainment",
+                "title": "Canadian Arts & Fashion Awards honour supermodel Linda Evangelista and others",
+                "url": "https://www.thestar.com/entertainment/canadian-arts-fashion-awards-honour-supermodel-linda-evangelista-and-others/article_fe534ade-92dd-11ef-834e-cf5efe1b0b88.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/45/c45528b9-6ad6-551a-b871-d2ef95ffce9f/671bac1e137b5.image.jpg?resize=300%2C200",
+                "createdAt": "1730541600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c51",
+                "category": "entertainment",
+                "title": "New Niagara-on-the-Lake art gallery promises 'spectacle'",
+                "url": "https://www.stcatharinesstandard.ca/entertainment/new-niagara-on-the-lake-art-gallery-promises-spectacle/article_4b083ebe-e7f6-5ca4-954e-e2864108d6b1.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/8/f8/8f824959-d727-5d64-acff-4da821b33c92/67293b5c603aa.image.jpg?resize=300%2C200",
+                "createdAt": "1730759520000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726bd0b5ef0a3b56898c3c0",
+                "category": "entertainment",
+                "title": "I'm recently divorced. I tried an online dating site that's focused on sex. I liked the two women I met! How do I tell them I want more? Ask Lisi",
+                "url": "https://www.thestar.com/life/relationships/im-recently-divorced-i-tried-an-online-dating-site-thats-focused-on-sex-i-liked/article_9cab39da-8cb7-11ef-9241-27e43fbe5f25.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/43/0432b05e-0952-54f1-b70c-35f7f56701c7/663d1c4eef023.image.jpg?crop=944%2C691%2C2%2C50&order=crop%2Cresize&resize=300%2C220",
+                "createdAt": "1730541600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a6b31ca26d7cb2ea30c8f",
+                "category": "entertainment",
+                "title": "Saudi oil giant Aramco posts third-quarter profits of $27.5 billion, down 15% from a year earlier",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2024/11/05/saudi-oil-giant-aramco-posts-third-quarter-profits-of-27-5-billion-down-15-from-a-year-earlier",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/20241105011136-20241105011136-6729bd91765dd22abf141c75jpeg.jpg?w=1000",
+                "createdAt": "1730788124000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672668a35ef0a3b56898c380",
+                "category": "entertainment",
+                "title": "Delegates agree to establish Indigenous subsidiary body at COP16 biodiversity summit in Colombia",
+                "url": "https://www.stcatharinesstandard.ca/life/delegates-agree-to-establish-indigenous-subsidiary-body-at-cop16-biodiversity-summit-in-colombia/article_f3fd3acd-3d69-5937-b9db-e71bb13d84e8.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/4/04/4040fa4b-fa74-5176-b2c2-374b7804ace4/6715b99690910.image.jpg?resize=300%2C200",
+                "createdAt": "1730523979000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c4f",
+                "category": "entertainment",
+                "title": "Vancouver Christmas Market unveils full vendor list with new food and drink additions",
+                "url": "https://dailyhive.com/vancouver/vancouver-christmas-market-food-drinks",
+                "urlToImg": "https://images.dailyhive.com/20241104135137/Vancouver-Christmas-Market-2.jpg",
+                "createdAt": "1730760808000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01c6",
+                "category": "entertainment",
+                "title": "Senior Living: Good conversations are a balm for the soul",
+                "url": "https://nationalpost.com/life/senior-living-good-conversations-are-a-balm-for-the-soul",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/10/Senior-Living-Alice.jpg?h=216&quality=90&sig=YcVKJpBsuF7-VZxE-TdT8Q&strip=all&w=288",
+                "createdAt": "1730735917000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728c55545fe8edcb35b0129",
+                "category": "entertainment",
+                "title": "Russell Brand could be charged with sexual assault following allegations",
+                "url": "https://www.ctvnews.ca/entertainment/russell-brand-could-be-charged-with-sexual-assault-following-allegations-1.7096969",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/russell-brand-on-sexual-assault-1-7096970-1730648179290.jpg",
+                "createdAt": "1730648340000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01ea",
+                "category": "entertainment",
+                "title": "Drake vs. DeMar DeRozan: How a longtime friendship ended with 'p****' taunt at Raptors game",
+                "url": "http://canoe.com/entertainment/celebrity/drake-vs-demar-derozan-how-a-longtime-friendship-ended-with-p-taunt-at-raptors-game/wcm/8ed4c9d5-566e-48fb-b737-37f723a6c6ba",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/qmi_ts20160412ed19.jpg",
+                "createdAt": "1730746204000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672692d45ef0a3b56898c39e",
+                "category": "entertainment",
+                "title": "Eva Longoria is still making money off of 'John Wick'",
+                "url": "https://www.ctvnews.ca/entertainment/eva-longoria-is-still-making-money-off-of-john-wick-1.7096197",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/eva-longoria-1-7096216-1730504944008.jpg",
+                "createdAt": "1730538000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc835",
+                "category": "entertainment",
+                "title": "A TV as big as a bed? With the holidays approaching, stores stock more supersize sets",
+                "url": "https://www.therecord.com/life/a-tv-as-big-as-a-bed-with-the-holidays-approaching-stores-stock-more-supersize/article_54d94d71-7051-51ed-b6db-d47510cf0153.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/8/19/81906d5b-d177-50ee-8263-8bf9988f5c4a/6727742852a6a.image.jpg?resize=300%2C200",
+                "createdAt": "1730638296000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727f261170d4eec274cc816",
+                "category": "entertainment",
+                "title": "SUNshine Girl Chantelle",
+                "url": "https://torontosun.com/sunshine-girls/sunshine-girl-chantelle-5",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/SSG-Chantelle.jpg?h=216&quality=90&sig=psUp_1jM3pIQVFM6gb2pXA&strip=all&w=288",
+                "createdAt": "1730617211000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc83c",
+                "category": "entertainment",
+                "title": "What the Menendez brothers’ case tells us about the moral paradox of true crime",
+                "url": "https://www.thespec.com/entertainment/what-the-menendez-brothers-case-tells-us-about-the-moral-paradox-of-true-crime/article_d51d80a2-36d6-597f-bb16-d68fa482b0f2.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/0/17/0175e389-484a-51dd-9fbf-6d595ec712e9/6723b183840cb.image.jpg?resize=300%2C199",
+                "createdAt": "1730631600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01cd",
+                "category": "entertainment",
+                "title": "Lionel Richie, LL Cool J and David Guetta remember Quincy Jones: Here's what people are saying about the legendary producer",
+                "url": "https://www.thestar.com/entertainment/music/lionel-richie-ll-cool-j-and-david-guetta-remember-quincy-jones-heres-what-people-are/article_cbb13786-9a9d-11ef-96e7-c707f787bde4.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/97/1978d8fb-5d41-5bea-a370-835fe5af1532/6728d902675bb.image.jpg?crop=1138%2C853%2C0%2C198&order=crop%2Cresize&resize=300%2C225",
+                "createdAt": "1730733300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728c55545fe8edcb35b0120",
+                "category": "entertainment",
+                "title": "‘Venom 3’ tops box office again, while Tom Hanks film struggles",
+                "url": "http://canoe.com/entertainment/movies/venom-3-tops-box-office-again-while-tom-hanks-film-struggles/wcm/0ee8a005-8bfb-4f45-ad90-517f36ab746b",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/venom-3.jpg",
+                "createdAt": "1730681592000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01ce",
+                "category": "entertainment",
+                "title": "Chris Martin falls into hole in stage during Coldplay gig in Australia",
+                "url": "https://www.ctvnews.ca/entertainment/chris-martin-falls-into-hole-in-stage-during-coldplay-gig-in-australia-1.7097514",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/chris-martin-1-7097519-1730733354133.jpg",
+                "createdAt": "1730733240000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672773d1170d4eec274cc7b1",
+                "category": "entertainment",
+                "title": "Kamala Harris will appear on SNL in last episode before U.S. election, AP sources say",
+                "url": "https://www.ctvnews.ca/entertainment/kamala-harris-will-appear-on-snl-in-last-episode-before-u-s-election-ap-sources-say-1.7096848",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/kamala-harris-to-appear-on-saturday-night-live-snl-1-7096851-1730593493994.jpg",
+                "createdAt": "1730593495000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672749a1170d4eec274cc790",
+                "category": "entertainment",
+                "title": "Biden declares major disaster area in southeast New Mexico due to historic flooding",
+                "url": "https://www.therecord.com/life/biden-declares-major-disaster-area-in-southeast-new-mexico-due-to-historic-flooding/article_7cf47493-485f-538f-8627-9f9eca55a05e.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/e/7f/e7f14171-c991-5de5-991a-3367e725ae79/67268725bea68.image.jpg?resize=300%2C200",
+                "createdAt": "1730577471000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc858",
+                "category": "entertainment",
+                "title": "Kamala Harris appears on ’Saturday Night Live’ as mirror image of Maya Rudolph with election looming",
+                "url": "https://torontosun.com/news/world/harris-appears-on-saturday-night-live-as-mirror-image-of-maya-rudolph-with-election-looming",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/kamala-harris-snl.jpg?h=216&quality=90&sig=GWF7uIXr1YmnylG5BV1MgA&strip=all&w=288",
+                "createdAt": "1730647750000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01a5",
+                "category": "entertainment",
+                "title": "Quincy Jones, music producer of Frank Sinatra and Michael Jackson, dies at 91",
+                "url": "http://canoe.com/entertainment/music/quincy-jones-music-producer-of-frank-sinatra-and-michael-jackson-dies-at-91/wcm/cbead56d-d9bb-4d1e-bc4d-6c29465fc30d",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/2182172811.jpg",
+                "createdAt": "1730724039000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c2d",
+                "category": "entertainment",
+                "title": "A timeline of Quincy Jones’s career in 15 essential songs",
+                "url": "https://www.thestar.com/entertainment/music/a-timeline-of-quincy-jones-s-career-in-15-essential-songs/article_c8c7476d-eb9a-580a-ad06-3705eef64248.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/4a/e4a6d73d-bc08-50e1-9252-df4b356f4900/672963fdbbc4f.image.jpg?resize=300%2C214",
+                "createdAt": "1730756400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01a4",
+                "category": "entertainment",
+                "title": "Brendan Kelly: Les Cowboys Fringants dominate ADISQ Gala",
+                "url": "https://montrealgazette.com/news/local-news/brendan-kelly-les-cowboys-fringants-dominate-adisq-gala",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2024/11/CP173460485.jpg?h=216&quality=90&sig=rlAEl_D9SGhlnEB79dCrCA&strip=all&w=288",
+                "createdAt": "1730724594000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672943e145fe8edcb35b0183",
+                "category": "entertainment",
+                "title": "This week's best bets according to the Star's culture team: Tkaronto Music Festival, a Pedro Almodóvar retrospective at TIFF Lightbox and more",
+                "url": "https://www.thestar.com/entertainment/this-weeks-best-bets-according-to-the-stars-culture-team-tkaronto-music-festival-a-pedro/article_049ba9b2-95fa-11ef-980d-7b3605188e16.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/e6/3e62b180-6775-5c9f-b0f9-f07aee9fb97a/6722358e19830.image.jpg?resize=300%2C200",
+                "createdAt": "1730714400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01a8",
+                "category": "entertainment",
+                "title": "Quincy Jones, music titan who worked with everyone from Frank Sinatra to Michael Jackson, dies at 91",
+                "url": "https://www.stcatharinesstandard.ca/entertainment/quincy-jones-music-titan-who-worked-with-everyone-from-frank-sinatra-to-michael-jackson-dies/article_8e8945f2-ceb5-5e6e-bbdc-16fcaa0d87e1.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/f/29/f29ca40c-f400-5155-906b-0859a66e5b71/6728b8bdb3f4d.image.jpg?resize=300%2C200",
+                "createdAt": "1730720760000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672919b545fe8edcb35b0165",
+                "category": "entertainment",
+                "title": "Prince William meets young environmentalists and plays rugby on first day of South Africa visit",
+                "url": "https://www.stcatharinesstandard.ca/life/prince-william-meets-young-environmentalists-and-plays-rugby-on-first-day-of-south-africa-visit/article_1c6558f2-6f0e-5701-be09-dcc0f8d5281a.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/b/b5/bb5615c1-9fa5-5533-af2b-d68cf079275e/6728573504cba.image.jpg?resize=300%2C200",
+                "createdAt": "1730696299000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc837",
+                "category": "entertainment",
+                "title": "So country: A nearly 125-year-old Alberta farmhouse is for sale for $1.4M",
+                "url": "https://dailyhive.com/edmonton/125-year-old-alberta-farmhouse-for-sale",
+                "urlToImg": "https://images.dailyhive.com/20241101134231/MixCollage-01-Nov-2024-02-42-PM-4745.jpg",
+                "createdAt": "1730635248000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01ef",
+                "category": "entertainment",
+                "title": "Review: Calgary Opera presents Mozart's Don Giovanni as a mirror of humanity",
+                "url": "https://calgaryherald.com/entertainment/local-arts/review-calgary-opera-presents-mozarts-don-giovanni-as-a-mirror-of-humanity",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2024/11/guido-loconsolo-and-phillip-addis-in-calgary-operas-don-giov-e1730743553273.jpg?quality=5&sig=tasyLgVrHau3SePHfG-T8w&strip=all&w=100",
+                "createdAt": "1730743807000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c2c",
+                "category": "entertainment",
+                "title": "Canadian city among the world's 20 most magical Christmas destinations",
+                "url": "https://dailyhive.com/edmonton/canadian-city-christmas-travel",
+                "urlToImg": "https://images.dailyhive.com/20241104131918/christmas.jpg",
+                "createdAt": "1730756695000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729eca3ca26d7cb2ea30c31",
+                "category": "entertainment",
+                "title": "Q&A: Cillian Murphy on following ‘Oppenheimer’ with the Irish drama ‘Small Things Like These’",
+                "url": "https://www.thespec.com/entertainment/q-a-cillian-murphy-on-following-oppenheimer-with-the-irish-drama-small-things-like-these/article_4d231c6d-9993-5f45-9b3e-bcf65670b500.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/e/34/e3469219-d8f0-5e20-b839-479fbbdc1a36/672935fb4d8d2.image.jpg?resize=300%2C200",
+                "createdAt": "1730753967000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c73",
+                "category": "entertainment",
+                "title": "This Montreal spot was named Canada's best new restaurant for 2024",
+                "url": "https://nationalpost.com/life/food/air-canada-best-new-restaurants-2024",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/11/maisonDeSomaGroup_shot_223Feat.jpg?h=216&quality=90&sig=JlWW2qGTuEmcNzlp-Q5hDQ&strip=all&w=288",
+                "createdAt": "1730768442000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727c834170d4eec274cc7f5",
+                "category": "entertainment",
+                "title": "Mpox cases in Congo may be stabilizing. Experts say more vaccines are needed to stamp out virus",
+                "url": "https://www.thespec.com/life/mpox-cases-in-congo-may-be-stabilizing-experts-say-more-vaccines-are-needed-to-stamp/article_79fa9a1a-71fe-5bb7-9638-68a887be75e8.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/0/60/060735ff-a6ab-50f1-ae2a-f3a0e47ecd36/6726f7c105384.image.jpg?resize=300%2C200",
+                "createdAt": "1730606525000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c50",
+                "category": "entertainment",
+                "title": "Tom Brady may be in more hot water for comments on live TV: ‘Can he say that?’",
+                "url": "http://canoe.com/sports/football/nfl/brady-more-hot-water-comments/wcm/8dcf17df-0364-4ca7-a535-427788edabe5",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/1105-tom-brady-jacket.jpg",
+                "createdAt": "1730760678000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67271f725ef0a3b56898c40d",
+                "category": "entertainment",
+                "title": "Drake a no-show as LeBron James honours Vince Carter after Lakers beat Raptors",
+                "url": "http://canoe.com/sports/basketball/nba/toronto-raptors/drake-a-no-show-as-lebron-james-honours-vince-carter-after-lakers-beat-raptors/wcm/124f7d83-6be5-4275-b823-01604e9f55a1",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/ts20190802vh39497.jpg",
+                "createdAt": "1730565343000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c72",
+                "category": "entertainment",
+                "title": "Air Canada’s Best New Restaurants of 2024 revealed",
+                "url": "https://dailyhive.com/calgary/best-new-restaurants-2024-air-canada",
+                "urlToImg": "https://images.dailyhive.com/20241104165928/Snapinsta.app_459889236_18454673086029947_2596565363819794728_n_1080.jpg",
+                "createdAt": "1730768559000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01ee",
+                "category": "entertainment",
+                "title": "'Heretic' is a fascinating mix of high discourse, gore and a shifty Hugh Grant",
+                "url": "https://www.thestar.com/entertainment/movies/heretic-is-a-fascinating-mix-of-high-discourse-gore-and-a-shifty-hugh-grant/article_aa0fbe0f-64bd-5ce1-a4f6-3114556e35ae.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/cd/acd20505-2768-59e0-bd20-64887bfae0e0/6729176397ba1.image.jpg?resize=300%2C200",
+                "createdAt": "1730745840000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67289b2145fe8edcb35b00ff",
+                "category": "entertainment",
+                "title": "5 Edmonton food events happening this week: November 4 to 10",
+                "url": "https://dailyhive.com/edmonton/edmonton-food-events-november-4-10",
+                "urlToImg": "https://images.dailyhive.com/20241101122334/Edmonton-good-events-November-4-to-10-2024.jpg",
+                "createdAt": "1730667607000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729c27245fe8edcb35b01f0",
+                "category": "entertainment",
+                "title": "New Vancouver development is elevating everyday living with a private amenities club",
+                "url": "https://dailyhive.com/vancouver/downtown-vancouver-real-estate-development-monogram",
+                "urlToImg": "https://images.dailyhive.com/20241014220555/VIRBD_16_Rooftop_High.jpg",
+                "createdAt": "1730743255000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a6b31ca26d7cb2ea30c90",
+                "category": "entertainment",
+                "title": "New Yorkers may change their constitution to ban discrimination over ‘pregnancy outcomes’",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2024/11/04/new-yorkers-may-change-their-constitution-to-ban-discrimination-over-pregnancy-outcomes",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/2024110500118-2024110500118-6729a88a2d1fe6acff2659b8jpeg.jpg?w=1000",
+                "createdAt": "1730783374000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672749a1170d4eec274cc78f",
+                "category": "entertainment",
+                "title": "Catching flights and feelings: Couple gets engaged at the BC airport they first met",
+                "url": "https://dailyhive.com/vancouver/couple-gets-engaged-bc-airport-prince-george",
+                "urlToImg": "https://images.dailyhive.com/20241102124325/bc-airport-engagement.jpg",
+                "createdAt": "1730579000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672846c0170d4eec274cc85a",
+                "category": "entertainment",
+                "title": "Here's a look at what the rest of 2024 holds for entertainment in the Kingston area",
+                "url": "https://www.thewhig.com/feature/heres-a-look-at-what-the-rest-of-2024-holds-for-entertainment-in-the-kingston-area",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2024/11/1102-ki-preview.jpg?h=563&quality=90&sig=fxF36daOUdSiRSLMnY_qRw&strip=all&w=375",
+                "createdAt": "1730645570000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729984245fe8edcb35b01cb",
+                "category": "entertainment",
+                "title": "Fans trash 'vulgar' Kim Kardashian after she wears Princess Diana's cross necklace",
+                "url": "http://canoe.com/entertainment/celebrity/fans-trash-vulgar-kim-kardashian-after-she-wears-princess-dianas-cross-necklace/wcm/ee12ec7a-adc1-41bd-b9f2-fae7c026c450",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/2181946235-e1730732508382.jpg",
+                "createdAt": "1730733846000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672668a35ef0a3b56898c37d",
+                "category": "entertainment",
+                "title": "‘The pictures, they look at you.’ A stroll with novelist John Banville through Spain's Prado Museum",
+                "url": "https://www.stcatharinesstandard.ca/life/the-pictures-they-look-at-you-a-stroll-with-novelist-john-banville-through-spains-prado/article_c48a0715-22ea-5c6d-a28a-d1d2c7f7a853.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/2/f5/2f5d5ca5-c043-55af-9224-52b9e5975cfc/6725bda9d07ab.image.jpg?resize=300%2C200",
+                "createdAt": "1730525700000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a16d5ca26d7cb2ea30c4e",
+                "category": "entertainment",
+                "title": "Concert promoter warns of speculative ticket trend, calling it 'blatantly fraudulent'",
+                "url": "https://torontosun.com/entertainment/music/concert-promoter-warns-of-speculative-ticket-trend-calling-it-blatantly-fraudulent",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/music-swift-city-20241031-e1730737696801.jpg?h=216&quality=90&sig=Y71WwDQ_KUXpkg7wsOwXvw&strip=all&w=288",
+                "createdAt": "1730763856000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67296e1145fe8edcb35b01aa",
+                "category": "entertainment",
+                "title": "I'm a 35-year-old guy who lives at my parents' house. They're always around! Should I lay down some ground rules? Ask Lisi",
+                "url": "https://www.thestar.com/life/relationships/im-a-35-year-old-guy-who-lives-at-my-parents-house-theyre-always-around/article_2d793b62-921a-11ef-9020-b34ff827a91c.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/19/119da326-0e38-11ef-9ff1-bb478007bbfa/663d1c4eef023.image.jpg?crop=944%2C691%2C2%2C50&order=crop%2Cresize&resize=300%2C220",
+                "createdAt": "1730718000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726e7315ef0a3b56898c3e1",
+                "category": "entertainment",
+                "title": "How to choose the best personal trainer for your fitness goals -- and budget",
+                "url": "https://www.burnabynow.com/the-mix/how-to-choose-the-best-personal-trainer-for-your-fitness-goals-and-budget-9749083",
+                "urlToImg": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/11/9e9e3c3e483449c81f316b2e43fdcd742a651a1ba379652d418503f93487bc2e.jpg;w=960",
+                "createdAt": "1730554560000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726e7315ef0a3b56898c3e0",
+                "category": "entertainment",
+                "title": "Bruce Springsteen confronts mortality in career-spanning 'Road Diary' doc",
+                "url": "https://torontosun.com/entertainment/music/bruce-springsteen-confronts-mortality-in-career-spanning-road-diary-doc",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/173745_11_BruceSolo.jpg?h=216&quality=90&sig=XlPewnDp8VB89IyJvseKdw&strip=all&w=288",
+                "createdAt": "1730556034000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672692d45ef0a3b56898c39f",
+                "category": "entertainment",
+                "title": "Time change discourse spotlights more important cycle: circadian rhythm",
+                "url": "https://www.thespec.com/life/time-change-discourse-spotlights-more-important-cycle-circadian-rhythm/article_cadfd969-c447-5c56-b967-aa9761f4dcaa.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/0/be/0bedbe08-a52b-5c01-aa2d-c6c419192f61/6725dd551d841.image.jpg?resize=300%2C220",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67281c94170d4eec274cc83a",
+                "category": "entertainment",
+                "title": "Want to dress like Taylor Swift? These are the pieces she wears on repeat (many under $200)",
+                "url": "https://www.thestar.com/life/beauty-and-fashion/fashion/want-to-dress-like-taylor-swift-these-are-the-pieces-she-wears-on-repeat-many/article_44843bab-54a4-5230-8777-482658e66943.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/bb/fbbb511f-3cca-54ea-8c7f-319c20a63ccc/6723c2d0c3e1c.image.jpg?resize=300%2C225",
+                "createdAt": "1730631600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672870f2170d4eec274cc877",
+                "category": "entertainment",
+                "title": "Lindsay Ell got lost in country music; with a reset, she's learning to love herself",
+                "url": "https://calgary.ctvnews.ca/lindsay-ell-got-lost-in-country-music-with-a-reset-she-s-learning-to-love-herself-1.7097026",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/lindsay-ell--oct--18--2024--toronto-1-7097029-1730655839186.jpeg",
+                "createdAt": "1730656671000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67279e02170d4eec274cc7d1",
+                "category": "entertainment",
+                "title": "Drake says 'I'll go up there and pull it down myself' if Raptors retire DeRozan's jersey",
+                "url": "http://canoe.com/sports/basketball/nba/toronto-raptors/drake-says-ill-go-up-there-and-pull-it-down-myself-if-raptors-retire-derozans-jersey/wcm/5b43479d-c919-4f65-b494-46904037a04c",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/image0-3.jpeg",
+                "createdAt": "1730603375000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672773d1170d4eec274cc7b0",
+                "category": "entertainment",
+                "title": "Live from New York: Harris making surprise 'Saturday Night Live' appearance with election looming",
+                "url": "https://www.ctvnews.ca/entertainment/live-from-new-york-harris-making-surprise-saturday-night-live-appearance-with-election-looming-1.7096848",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/kamala-harris-saturday-night-live-snl-1-7096863-1730599185639.jpg",
+                "createdAt": "1730593495000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c70",
+                "category": "entertainment",
+                "title": "Trump called Megyn Kelly ‘nasty’ 9 years ago. She just helped deliver his closing message",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/2024/11/04/trump-called-megyn-kelly-nasty-9-years-ago-she-just-helped-deliver-his-closing-message",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/10/20241104221112-20241104221112-67298d352d1fe6acff263c1ejpeg.jpg?w=1000",
+                "createdAt": "1730776387000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4102ca26d7cb2ea30c74",
+                "category": "entertainment",
+                "title": "Former Denver elections worker’s lawsuit says she was fired for speaking out about threats",
+                "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/2024/11/04/former-denver-elections-workers-lawsuit-says-she-was-fired-for-speaking-out-about-threats",
+                "urlToImg": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2022/11/fb-og-image.png",
+                "createdAt": "1730766736000",
+                "__typename": "Article"
+            }
+        ]
+    }
+}
