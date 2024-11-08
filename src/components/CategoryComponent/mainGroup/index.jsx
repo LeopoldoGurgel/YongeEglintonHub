@@ -1,4 +1,5 @@
 import CategoryWrapper from "../CategoryWrapper";
+import AdvertisingComponent from "../../AdvertisingComponent";
 import React, {useState, useEffect} from 'react';
 import {Pagination} from 'react-bootstrap';
 
@@ -39,9 +40,7 @@ const CategoryMainComponent = ({color, articles}) => {
         <div className="col-12 col-md-8 col-lg-10 ">
 
             
-            <div id='advertising' className="m-2">
-                advertising goes here
-            </div>
+            <AdvertisingComponent/>
 
 
             <div id="articlesdiv" className="container-fluid d-flex flex-wrap">

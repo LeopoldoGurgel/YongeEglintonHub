@@ -1,0 +1,11 @@
+#advComponent {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    height: 100px;
+}
+
+@media(min-width: 850px) {
+    #advComponent{
+        margin-bottom: 30px;
+    }
+}
