@@ -1,0 +1,1518 @@
+{
+    "data": {
+        "breaking": [
+            {
+                "_id": "6728fd9145fe8edcb35b0154",
+                "category": "breaking",
+                "title": "Morales vows to continue hunger strike until Bolivian rival accepts dialogue",
+                "url": "https://torontosun.com/news/world/morales-vows-to-continue-hunger-strike-until-bolivian-rival-accepts-dialogue",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Bolivia-Evo-Morales-1-e1730689583515.jpg?h=216&quality=90&sig=rmHfIUz4eMjrwarLZ3ImMg&strip=all&w=288",
+                "createdAt": "1730689788000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc86a",
+                "category": "breaking",
+                "title": "Harris leading in Iowa is a 'real surprise'",
+                "url": "https://www.ctvnews.ca/video?clipId=3023302",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/harris-leading-in-iowa-is-a--real-surprise--1-7096984.jpg",
+                "createdAt": "1730649240000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5a",
+                "category": "breaking",
+                "title": "IIHF preparing a proposal to add 3-on-3 hockey to 2030 Winter Olympics",
+                "url": "https://www.ctvnews.ca/sports/iihf-preparing-a-proposal-to-add-3-on-3-hockey-to-2030-winter-olympics-1.7098409",
+                "urlToImg": "https://www.cp24.com/content/dam/cp24/en/images/2024/1/5/iihf-1-6713530-1704488309732.jpg",
+                "createdAt": "1730769246000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d9",
+                "category": "breaking",
+                "title": "Murray Sinclair dead at 73",
+                "url": "https://www.ctvnews.ca/video?clipId=3023616",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/murray-sinclair-dead-at-73-1-7097621.jpg",
+                "createdAt": "1730737380000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41a",
+                "category": "breaking",
+                "title": "Florida’s convicted killer clown released from prison for the murder of her husband’s then-wife",
+                "url": "https://torontosun.com/news/world/floridas-convicted-killer-clown-released-from-prison-for-the-murder-of-her-husbands-then-wife",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/cp25017066.jpg?h=216&quality=90&sig=48S5ZJ7tDoSiGW51xEzKvA&strip=all&w=288",
+                "createdAt": "1730575114000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3ed",
+                "category": "breaking",
+                "title": "Anti-suicide religious group files constitutional challenge against Waterloo, Que.",
+                "url": "https://montreal.ctvnews.ca/anti-suicide-religious-group-files-constitutional-challenge-against-waterloo-que-1.7096572",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2018/2/15/scales-of-justice-1-3805262-1698403840563.jpg",
+                "createdAt": "1730562240000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7f",
+                "category": "breaking",
+                "title": "CTV National News: Final day of election campaign",
+                "url": "https://www.ctvnews.ca/video?clipId=3024226",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--campaigns-in-swing-states-1-7096870.jpg",
+                "createdAt": "1730779020000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc883",
+                "category": "breaking",
+                "title": "TOXIC DATING TRENDS: Singles, be on the lookout for those playing games",
+                "url": "https://torontosun.com/life/relationships/toxic-dating-trends-singles-be-on-the-lookout-for-those-playing-games",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/GettyImages-1617104130-e1730318286149.jpg?h=216&quality=90&sig=7rNBVkZJ3bS0JVv9bfLz_w&strip=all&w=288",
+                "createdAt": "1730663222000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f3",
+                "category": "breaking",
+                "title": "Ex-officer found guilty in the 2020 shooting death of Andre Hill",
+                "url": "https://www.ctvnews.ca/world/ex-officer-found-guilty-in-the-2020-shooting-death-of-andre-hill-1.7097852",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/former-columbus-police-officer-adam-coy-1-7097859-1730749984759.jpg",
+                "createdAt": "1730749850000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d7",
+                "category": "breaking",
+                "title": "WARMINGTON: Tripping no penalty here as mystery hero saved day",
+                "url": "https://torontosun.com/news/local-news/warmington-tripping-no-penalty-here-as-mystery-hero-saved-day",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/York-stacey-jennings.jpg?h=216&quality=90&sig=ZOb_PkuyH9-85v_KPRdFNQ&strip=all&w=288",
+                "createdAt": "1730738070000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc865",
+                "category": "breaking",
+                "title": "Flood survivors pelt Spain’s royals with mud and premier is evacuated during a visit",
+                "url": "https://torontosun.com/news/world/flood-survivors-pelt-spains-royals-with-mud-and-premier-is-evacuated-during-a-visit",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/King-Felipe-VI.jpg?h=216&quality=90&sig=eMf3Hcok_7ii6WjX3RXohw&strip=all&w=288",
+                "createdAt": "1730651054000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d1",
+                "category": "breaking",
+                "title": "Rams moving on to Hardy Cup after victory against Bisons",
+                "url": "https://regina.ctvnews.ca/rams-moving-on-to-hardy-cup-after-victory-against-bisons-1.7097653",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/regina-rams-1-7097655-1730739427417.jpg",
+                "createdAt": "1730739497000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c82",
+                "category": "breaking",
+                "title": "Omar's full interview with Ambassador Hillman",
+                "url": "https://www.ctvnews.ca/video?clipId=3024216",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/kirsten-hillman-1-7098524.jpg",
+                "createdAt": "1730776800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01da",
+                "category": "breaking",
+                "title": "Trump calls Harris a 'low IQ individual'",
+                "url": "https://www.ctvnews.ca/video?clipId=3023615",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/trump-calls-harris-a--low-iq-individual--1-7097626.jpg",
+                "createdAt": "1730737260000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d5",
+                "category": "breaking",
+                "title": "'Red patches on the road': Alberta wildlife corridors reduce animal-car collisions",
+                "url": "https://calgary.ctvnews.ca/red-patches-on-the-road-alberta-wildlife-corridors-reduce-animal-car-collisions-1.7097630",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/tim-johnson-yukon-conservation-initiative-1-7097636-1730738546219.jpg",
+                "createdAt": "1730738520000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f7",
+                "category": "breaking",
+                "title": "RFK Jr. and Gavin Newsom agree: Ban artificial food dyes",
+                "url": "https://torontosun.com/news/world/rfk-jr-and-gavin-newsom-agree-ban-artificial-food-dyes",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/froot-loops-cling-to-vivid-colors-as-food-makers-face-dye-ba.jpg?h=216&quality=90&sig=K89qTiXzu48-dMbjH--e3g&strip=all&w=288",
+                "createdAt": "1730748751000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc889",
+                "category": "breaking",
+                "title": "No strike notice so far as talks continue between Canada Post and workers’ union",
+                "url": "https://torontosun.com/news/national/no-strike-notice-so-far-as-talks-continue-between-canada-post-and-workers-union",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/cda-post-strike-20241103.jpg?h=216&quality=90&sig=cCGorDbsaXIwMnXG0u47MA&strip=all&w=288",
+                "createdAt": "1730659699000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7b",
+                "category": "breaking",
+                "title": "CTV National News: Violence outside Hindu temple",
+                "url": "https://www.ctvnews.ca/video?clipId=3024229",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/ctv-national-news--violence-outside-hindu-temple-1-7098546.jpg",
+                "createdAt": "1730779200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79c",
+                "category": "breaking",
+                "title": "2 people charged in Queen West incident that left police horse and officer injured were out on bail, police say",
+                "url": "https://toronto.ctvnews.ca/2-people-charged-in-queen-west-incident-that-left-police-horse-and-officer-injured-were-out-on-bail-police-say-1.7096797",
+                "urlToImg": "https://www.ctvnews.ca/polopoly_fs/1.7095778.1730492490!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg",
+                "createdAt": "1730587980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc7a0",
+                "category": "breaking",
+                "title": "Warren Buffett is sitting on over US$325 billion cash as Berkshire Hathaway keeps selling Apple stock",
+                "url": "https://www.ctvnews.ca/business/warren-buffett-is-sitting-on-over-us-325-billion-cash-as-berkshire-hathaway-keeps-selling-apple-stock-1.7096762",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/warren-buffett-s-portrait-in-andy-warhol-style-1-7096766-1730583476816.jpg",
+                "createdAt": "1730584033000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41e",
+                "category": "breaking",
+                "title": "Alberta Premier Smith gets 91 per cent support in leadership review",
+                "url": "https://edmonton.ctvnews.ca/alberta-premier-smith-gets-91-per-cent-support-in-leadership-review-1.7096650",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/danielle-smith-nov--2--2024-1-7096816-1730588987925.jpg",
+                "createdAt": "1730570700000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41c",
+                "category": "breaking",
+                "title": "'It’s a dream come true’: Holt, Liberal cabinet sworn-in to office",
+                "url": "https://atlantic.ctvnews.ca/it-s-a-dream-come-true-holt-liberal-cabinet-sworn-in-to-office-1.7096487",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/susan-holt-1-7096676-1730574168723.png",
+                "createdAt": "1730571960000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41f",
+                "category": "breaking",
+                "title": "At UN summit, historic agreement to give Indigenous groups voice on nature conservation decisions",
+                "url": "https://www.ctvnews.ca/climate-and-environment/at-un-summit-historic-agreement-to-give-indigenous-groups-voice-on-nature-conservation-decisions-1.7096609",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/brazil-s-indigenous-delegation-arrive-at-cop16-1-7096624-1730568255775.jpg",
+                "createdAt": "1730569740000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b012e",
+                "category": "breaking",
+                "title": "Weather system in southern Caribbean expected to strengthen and head northward this week",
+                "url": "https://www.ctvnews.ca/world/weather-system-in-southern-caribbean-expected-to-strengthen-and-head-northward-this-week-1.7097201",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/caribbean-weather-system-1-7097204-1730679400713.jpeg",
+                "createdAt": "1730679530000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d3",
+                "category": "breaking",
+                "title": "Musk PAC tells Philadelphia judge the $1 million sweepstakes winners are not chosen by chance",
+                "url": "https://torontosun.com/news/world/musk-pac-tells-philadelphia-judge-the-1-million-sweepstakes-winners-are-not-chosen-by-chance",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/1102-ed-cosh-e1730739035201.jpg?h=216&quality=90&sig=DnkUXRZTyEz8IHxntC5LAw&strip=all&w=288",
+                "createdAt": "1730739054000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3ef",
+                "category": "breaking",
+                "title": "As Mexicans celebrate Day of the Dead, they grapple with what it means to hold on to tradition",
+                "url": "https://torontosun.com/news/world/as-mexicans-celebrate-day-of-the-dead-they-grapple-with-what-it-means-to-hold-on-to-tradition",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/mexico-day-of-the-dead-e1730560822662.jpg?h=216&quality=90&sig=mdfFyKlERyXliHLSg_8MsQ&strip=all&w=288",
+                "createdAt": "1730560864000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f5",
+                "category": "breaking",
+                "title": "Willie Nelson on his new album, cannabis cookbook, Kris Kristofferson and what makes a good song",
+                "url": "https://torontosun.com/entertainment/music/willie-nelson-on-his-new-album-cannabis-cookbook-kris-kristofferson-and-what-makes-a-good-song",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/the-stream-3x2-version-for-apnews-com.jpg?h=216&quality=90&sig=mjp_laOhdhvnS41dtX1lOw&strip=all&w=288",
+                "createdAt": "1730558665000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01fb",
+                "category": "breaking",
+                "title": "Four arrests made, police officer injured in connection with protest at Hindu temple in Brampton, Ont.",
+                "url": "https://toronto.ctvnews.ca/four-arrests-made-police-officer-injured-in-connection-with-protest-at-hindu-temple-in-brampton-ont-1.7097821",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/peel-police-protest-1-7097835-1730748164726.png",
+                "createdAt": "1730748300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b5",
+                "category": "breaking",
+                "title": "Police arrest Netanyahu aide as opponents accuse him of leaking intelligence to thwart Gaza ceasefire and hostage deal",
+                "url": "https://www.ctvnews.ca/world/police-arrest-netanyahu-aide-as-opponents-accuse-him-of-leaking-intelligence-to-thwart-gaza-ceasefire-and-hostage-deal-1.7097352",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/benjamin-netanyahu-1-7097356-1730724649743.jpg",
+                "createdAt": "1730724906000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc83f",
+                "category": "breaking",
+                "title": "Clocks fall back for daylight savings time",
+                "url": "https://www.ctvnews.ca/video?clipId=3023236",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/clocks-fall-back-for-daylight-savings-time-1-7096922.jpg",
+                "createdAt": "1730641980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7be",
+                "category": "breaking",
+                "title": "Harris appears on 'Saturday Night Live' as mirror image of Maya Rudolph with election looming",
+                "url": "https://www.ctvnews.ca/entertainment/harris-appears-on-saturday-night-live-as-mirror-image-of-maya-rudolph-with-election-looming-1.7096848",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/kamala-harris--maya-rudolph--snl-u-s--election-1-7096898-1730638463438.jpg",
+                "createdAt": "1730593440000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c40",
+                "category": "breaking",
+                "title": "WARMINGTON: Peel cop suspended after wild protest at Hindu temple",
+                "url": "https://torontosun.com/news/local-news/warmington-peel-cop-suspended-after-wild-protest-at-hindu-temple",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/templeprotest-e1730754022452.jpg?h=216&quality=90&sig=EAyhFOsHhx8r1iFjb30AMA&strip=all&w=288",
+                "createdAt": "1730754198000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b2",
+                "category": "breaking",
+                "title": "Volcanic eruption burns houses in Indonesia, killing at least 10 people",
+                "url": "https://torontosun.com/news/world/volcanic-eruption-burns-houses-in-indonesia-killing-at-least-10-people",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/indonesia-volcano.jpg?h=216&quality=90&sig=y-lXqpS8itAPk87wvTo0_A&strip=all&w=288",
+                "createdAt": "1730726656000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728a93045fe8edcb35b010d",
+                "category": "breaking",
+                "title": "Canada’s Dabrowski and New Zealand’s Routliffe win doubles opener at WTA Finals",
+                "url": "https://torontosun.com/sports/tennis/canadas-dabrowski-and-new-zealands-routliffe-win-doubles-opener-at-wta-finals",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/ten-wta-finals-dabrowski-20241103.jpg?h=216&quality=90&sig=G0ZY51bejkKlw6rMHZwP9Q&strip=all&w=288",
+                "createdAt": "1730666959000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7e4",
+                "category": "breaking",
+                "title": "CTV National News for Saturday, November 2, 2024",
+                "url": "https://www.ctvnews.ca/video?clipId=3015668",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/anchor-1-7096876.jpg",
+                "createdAt": "1730602800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726a0e05ef0a3b56898c3a9",
+                "category": "breaking",
+                "title": "'It really hurts': The impact of Trump's lies in Springfield, Ohio",
+                "url": "https://www.ctvnews.ca/world/it-really-hurts-the-impact-of-trump-s-lies-in-springfield-ohio-1.7095353",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/springfield-ohio-trump-comments-1-7095383-1730476142235.jpeg",
+                "createdAt": "1730538000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d4",
+                "category": "breaking",
+                "title": "’THE BEST THAT WE CAN BE’: Indigenous judge and TRC chair Murray Sinclair dies at 73",
+                "url": "https://torontosun.com/news/national/the-best-that-we-can-be-indigenous-judge-and-trc-chair-murray-sinclair-dies-at-73",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/obit-murray-sinclair-20241104.jpg?h=216&quality=90&sig=AAFBctu3yEe2P0sN6IGAbg&strip=all&w=288",
+                "createdAt": "1730738957000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b3",
+                "category": "breaking",
+                "title": "Germany's top diplomat is in Kyiv as Ukraine girds for impact of U.S. election on the war",
+                "url": "https://www.ctvnews.ca/world/germany-s-top-diplomat-is-in-kyiv-as-ukraine-girds-for-impact-of-u-s-election-on-the-war-1.7097381",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/a-ukrainian-serviceman-1-7097397-1730726545299.jpg",
+                "createdAt": "1730726585000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b7",
+                "category": "breaking",
+                "title": "Felonies, assassination attempts and a last-minute change on the ticket leads voters to Tuesday's U.S. election",
+                "url": "https://www.ctvnews.ca/world/felonies-assassination-attempts-and-a-last-minute-change-on-the-ticket-leads-voters-to-tuesday-s-u-s-election-1.7097344",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/10/30/donald-trump--kamala-harris-1-7091953-1730755566967.jpg",
+                "createdAt": "1730724360000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c58",
+                "category": "breaking",
+                "title": "Kenyan man convicted of plotting a 9/11-style attack on U.S.",
+                "url": "https://torontosun.com/news/world/kenyan-man-convicted-of-plotting-a-9-11-style-attack-on-u-s",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/world-trade-2024-01-18.jpg?h=216&quality=90&sig=koeU2TyGZ1fORnpEP3aBxQ&strip=all&w=288",
+                "createdAt": "1730769873000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b0151",
+                "category": "breaking",
+                "title": "CTV National News: Tight race in Pennsylvania",
+                "url": "https://www.ctvnews.ca/video?clipId=3023404",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--tight-race-in-pennsylvania-1-7097223.jpg",
+                "createdAt": "1730693520000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc862",
+                "category": "breaking",
+                "title": "Semitruck crashes into vehicles stuck in traffic in Michigan, killing 4 and injuring 17",
+                "url": "https://torontosun.com/news/world/semitruck-crashes-into-vehicles-stuck-in-traffic-in-michigan-killing-4-and-injuring-17",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/mtl-ny-bus-crash-death-20240105.jpg?h=216&quality=90&sig=ABaQ5rdpnJDvG8g8Wab5AQ&strip=all&w=288",
+                "createdAt": "1730652169000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc863",
+                "category": "breaking",
+                "title": "CTV QP: Ads show 'signs of life' in Liberal party",
+                "url": "https://www.ctvnews.ca/video?clipId=3023307",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-qp--ads-show--signs-of-life--in-liberal-party-1-7097006.jpg",
+                "createdAt": "1730651760000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3f",
+                "category": "breaking",
+                "title": "Daylight savings can negatively affect worker productivity, research says",
+                "url": "https://www.ctvnews.ca/health/daylight-savings-can-negatively-affect-worker-productivity-research-says-1.7097933",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/7/20/clock-1-5994686-1658318714404.png",
+                "createdAt": "1730754300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b0152",
+                "category": "breaking",
+                "title": "CTV National News: Millions vote in advanced polls",
+                "url": "https://www.ctvnews.ca/video?clipId=3023403",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--millions-vote-in-advanced-polls-1-7097222.jpg",
+                "createdAt": "1730693340000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a7942ca26d7cb2ea30c9a",
+                "category": "breaking",
+                "title": "SUNshine Girl Molly",
+                "url": "https://torontosun.com/sunshine-girls/sunshine-girl-molly",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/SSG-2024-11-04.jpg?h=216&quality=90&sig=TWuFjaFKMO7u9p55uBKxAQ&strip=all&w=288",
+                "createdAt": "1730790011000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc869",
+                "category": "breaking",
+                "title": "Clocks fall back an hour as daylight time ends for much of Canada",
+                "url": "https://torontosun.com/news/national/clocks-fall-back-an-hour-as-daylight-time-ends-for-much-of-canada",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/daylight-time-20241103.jpg?h=216&quality=90&sig=dotv1tjNn7tf-dlY_w2nXA&strip=all&w=288",
+                "createdAt": "1730649562000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc842",
+                "category": "breaking",
+                "title": "U.S. flies long-range bomber in drill with South Korea, Japan in reaction to the North's missile test",
+                "url": "https://www.ctvnews.ca/world/u-s-flies-long-range-bomber-in-drill-with-south-korea-japan-in-reaction-to-the-north-s-missile-test-1.7096901",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/u-s--air-force--south-korea--japan-1-7096902-1730639382321.jpg",
+                "createdAt": "1730639418000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc885",
+                "category": "breaking",
+                "title": "No strike notice so far as talks continue between Canada Post and workers' union",
+                "url": "https://www.ctvnews.ca/business/no-strike-notice-so-far-as-talks-continue-between-canada-post-and-workers-union-1.7097068",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/canada-post-potential-strike-1-7097069-1730661014257.jpg",
+                "createdAt": "1730661050000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc840",
+                "category": "breaking",
+                "title": "Woman shot by paintballs loses vision in one eye",
+                "url": "https://www.ctvnews.ca/video?clipId=3023235",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/woman-shot-by-paintballs-loses-vision-in-one-eye-1-7096910.jpg",
+                "createdAt": "1730641080000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c80",
+                "category": "breaking",
+                "title": "Boeing machinists hold contract vote that could end 7-week strike",
+                "url": "https://torontosun.com/news/world/boeing-machinists-hold-contract-vote-that-could-end-7-week-strike",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/09/boeing-strike-1.jpg?h=216&quality=90&sig=TG0pKlNg7_guxOCPfXf_7g&strip=all&w=288",
+                "createdAt": "1730778196000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b0132",
+                "category": "breaking",
+                "title": "Cornwall Centre hosts Agribition kickoff breakfast",
+                "url": "https://regina.ctvnews.ca/cornwall-centre-hosts-agribition-kickoff-breakfast-1.7097176",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/agribition-regina-1-7097178-1730675317486.jpg",
+                "createdAt": "1730675765000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7e2",
+                "category": "breaking",
+                "title": "CTV National News: Abortion rights in Ohio",
+                "url": "https://www.ctvnews.ca/video?clipId=3023209",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--abortion-rights-in-ohio-1-7096871.jpg",
+                "createdAt": "1730603640000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3b",
+                "category": "breaking",
+                "title": "Pair of rare November tornadoes touch down in New Brunswick last week",
+                "url": "https://atlantic.ctvnews.ca/pair-of-rare-november-tornadoes-touch-down-in-new-brunswick-last-week-1.7097952",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/broken-tree-1-7097960-1730755097342.jpg",
+                "createdAt": "1730755800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41b",
+                "category": "breaking",
+                "title": "Attack on central Israel injures 11 as Iran’s leader promises a punishing response",
+                "url": "https://torontosun.com/news/world/attack-on-central-israel-injures-11-as-irans-leader-promises-a-punishing-response",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/mideast-wars-lebanon-e1730572152909.jpg?h=216&quality=90&sig=MxaxL3JaOwjCFx37zzRpyw&strip=all&w=288",
+                "createdAt": "1730572186000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7c0",
+                "category": "breaking",
+                "title": "Letters to the Editor, Nov. 3, 2024",
+                "url": "https://torontosun.com/opinion/letters/letters-to-the-editor-nov-3-2024",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/Sunday-letters.jpg?h=216&quality=90&sig=byKFPzBvq4HYkz1e1FBpAQ&strip=all&w=288",
+                "createdAt": "1730590214000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3d",
+                "category": "breaking",
+                "title": "Rare November tornadoes touch down in two New Brunswick communities",
+                "url": "https://atlantic.ctvnews.ca/rare-november-tornadoes-touch-down-in-two-new-brunswick-communities-1.7097952",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/broken-tree-1-7097960-1730755097342.jpg",
+                "createdAt": "1730755800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b0131",
+                "category": "breaking",
+                "title": "Moldova’s pro-Western President Maia Sandu wins 2nd term in runoff overshadowed by Russian meddling claims",
+                "url": "https://torontosun.com/news/world/moldovas-pro-western-president-maia-sandu-wins-2nd-term-in-runoff-overshadowed-by-russian-meddling-claims",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Maia-Sandu.jpg?h=216&quality=90&sig=8yRmHQ8RfegXULgtRbaVMA&strip=all&w=288",
+                "createdAt": "1730675784000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f4",
+                "category": "breaking",
+                "title": "Conservatives trying to loosen regulations on natural health products",
+                "url": "https://torontosun.com/news/national/conservatives-trying-to-loosen-regulations-on-natural-health-products",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/natural-health-products-20241101.jpg?h=216&quality=90&sig=heZhc4AYOzYZVuVS0NqQwA&strip=all&w=288",
+                "createdAt": "1730749688000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79d",
+                "category": "breaking",
+                "title": "2 people charged in Toronto incident that left police horse and officer injured were out on bail, police say",
+                "url": "https://toronto.ctvnews.ca/2-people-charged-in-toronto-incident-that-left-police-horse-and-officer-injured-were-out-on-bail-police-say-1.7096797",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/toronto-police-pursuit-1-7095778-1730492517793.jpg",
+                "createdAt": "1730587980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7e",
+                "category": "breaking",
+                "title": "CTV National News: U.S. election's mark on Canada",
+                "url": "https://www.ctvnews.ca/video?clipId=3024227",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/kirsten-hillman-1-7098524.jpg",
+                "createdAt": "1730779140000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280075170d4eec274cc820",
+                "category": "breaking",
+                "title": "Most Americans believe abortion should be legal, at least in most circumstances, but it's still a flashpoint issue in JD Vance's home state",
+                "url": "https://www.ctvnews.ca/world/most-americans-believe-abortion-should-be-legal-at-least-in-most-circumstances-but-it-s-still-a-flashpoint-issue-in-jd-vance-s-home-state-1.7095674",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/abortion--u-s--election-2024-1-7095710-1730489091504.jpeg",
+                "createdAt": "1730628000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3cd",
+                "category": "breaking",
+                "title": "'Election seems really close': Americans in Canada cast ballot ahead of U.S. election",
+                "url": "https://www.ctvnews.ca/canada/election-seems-really-close-americans-in-canada-cast-ballot-ahead-of-u-s-election-1.7096479",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/donald-trump-and-kamala-harris-1-7096480-1730549643411.jpg",
+                "createdAt": "1730549669000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b014c",
+                "category": "breaking",
+                "title": "CTV National News: Veteran's cross walk",
+                "url": "https://www.ctvnews.ca/video?clipId=3023410",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--veterans-cross-walk-1-7097232.jpg",
+                "createdAt": "1730696220000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672676b05ef0a3b56898c388",
+                "category": "breaking",
+                "title": "SUNshine Girl Neha",
+                "url": "https://torontosun.com/sunshine-girls/sunshine-girl-neha-4",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/SSG-Neha.jpg?h=216&quality=90&sig=y9G9zfBifFqK9g52sF6XAg&strip=all&w=288",
+                "createdAt": "1730527216000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b0150",
+                "category": "breaking",
+                "title": "CTV National News: U.S. election impact on Canada",
+                "url": "https://www.ctvnews.ca/video?clipId=3023405",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--u-s--election-impact-on-canada-1-7097224.jpg",
+                "createdAt": "1730693640000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b012f",
+                "category": "breaking",
+                "title": "EDITORIAL: How others see the new woke Canada",
+                "url": "https://torontosun.com/opinion/editorials/editorial-how-others-see-the-new-woke-canada",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/Trudeau-Wp.jpg?h=216&quality=90&sig=nz4zkZMP1m0JChHn6LF6cA&strip=all&w=288",
+                "createdAt": "1730678638000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7e0",
+                "category": "breaking",
+                "title": "B.C. expects intense protests outside Sikh temple",
+                "url": "https://www.ctvnews.ca/video?clipId=3023212",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--b-c--prepares-for-protests-1-7096873.jpg",
+                "createdAt": "1730603880000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01fa",
+                "category": "breaking",
+                "title": "Peel police officer suspended after video appeared to show him at protest while off duty",
+                "url": "https://toronto.ctvnews.ca/peel-police-officer-suspended-after-video-appeared-to-show-him-at-protest-while-off-duty-1.7097821",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/peel-police-protest-1-7097835-1730748164726.png",
+                "createdAt": "1730748300000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3ca",
+                "category": "breaking",
+                "title": "India trashes Canada for linking home minister to Sikh activist plot",
+                "url": "https://www.ctvnews.ca/politics/india-trashes-canada-for-linking-home-minister-to-sikh-activist-plot-1.7096484",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/amit-shah-1-7096485-1730551989940.jpg",
+                "createdAt": "1730551980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f9",
+                "category": "breaking",
+                "title": "Suspended Valeri Nichushkin cleared to practice with Avalanche, remains in player assistance program",
+                "url": "https://torontosun.com/sports/hockey/nhl/nichushkin-cleared-to-practice-with-avalanche",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/avalanche-nichushkin-hockey.jpg?h=216&quality=90&sig=eLXAc0a-1BLN92NQFywsoQ&strip=all&w=288",
+                "createdAt": "1730748309000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5e",
+                "category": "breaking",
+                "title": "North Korea fires multiple ballistic missiles toward sea ahead of U.S. election",
+                "url": "https://torontosun.com/news/world/north-korea-fires-multiple-ballistic-missiles-toward-sea-ahead-of-u-s-election",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Koreas-Tensions-2024-11-04.jpg?h=216&quality=90&sig=0jfq3X98ynqT0DSl3m9pjg&strip=all&w=288",
+                "createdAt": "1730768057000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c37",
+                "category": "breaking",
+                "title": "EDITORIAL: Next election will judge Trudeau’s emissions cap",
+                "url": "https://torontosun.com/opinion/editorials/editorial-next-election-will-judge-trudeaus-emissions-cap",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/07/0509-tj-mueller-col.jpg?h=216&quality=90&sig=TkZ1w81bHnBrdFgf0D1L2Q&strip=all&w=288",
+                "createdAt": "1730758364000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7e1",
+                "category": "breaking",
+                "title": "CTV National News: Smith survives leadership vote",
+                "url": "https://www.ctvnews.ca/video?clipId=3023210",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--smith-survives-leadership-vote-1-7096872.jpg",
+                "createdAt": "1730603640000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7de",
+                "category": "breaking",
+                "title": "CTV National News: School violence in Maritimes",
+                "url": "https://www.ctvnews.ca/video?clipId=3023217",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--school-violence-in-maritimes-1-7096869.jpg",
+                "createdAt": "1730604360000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b012b",
+                "category": "breaking",
+                "title": "U.K. prime minister plans to treat people-smuggling gangs like terrorists",
+                "url": "https://torontosun.com/news/world/u-k-prime-minister-plans-to-treat-people-smuggling-gangs-like-terrorists",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/2181394842-e1730685267480.jpg?h=216&quality=90&sig=HiO_TupfxtYBcaiKepfYSA&strip=all&w=288",
+                "createdAt": "1730685392000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c38",
+                "category": "breaking",
+                "title": "Measles cases in New Brunswick more than double in three days",
+                "url": "https://atlantic.ctvnews.ca/measles-cases-in-new-brunswick-more-than-double-in-three-days-1.7098007",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/3/13/measles-1-6806584-1710760392776.png",
+                "createdAt": "1730758260000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f1",
+                "category": "breaking",
+                "title": "CRIME HUNTER: Hollywood, homicide, horror in Kentucky murder mash up",
+                "url": "https://torontosun.com/news/world/crime-hunter-hollywood-homicide-horror-in-kentucky-murder-mash-up",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/ky7.png?h=216&quality=90&sig=-jGKTfGUBx9ZWoxHzLS08Q&strip=all&w=288",
+                "createdAt": "1730559626000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c421",
+                "category": "breaking",
+                "title": "Trump will spend every day until the election in North Carolina, a swing state he won twice",
+                "url": "https://torontosun.com/news/world/trump-will-spend-every-day-until-the-election-in-north-carolina-a-swing-state-he-won-twice",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/election-2024-trump-e1730566472990.jpg?h=216&quality=90&sig=ZVatO36Y1RwwL3Nz4ASAXQ&strip=all&w=288",
+                "createdAt": "1730566490000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3d0",
+                "category": "breaking",
+                "title": "Spain to send 10,000 soldiers, police to Valencia after deadly floods",
+                "url": "https://www.ctvnews.ca/world/spain-to-send-10-000-soldiers-police-to-valencia-after-deadly-floods-1.7096471",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/spain-floods-1-7096472-1730546375219.jpg",
+                "createdAt": "1730546413000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7dc",
+                "category": "breaking",
+                "title": "CTV National News: Raptors retire Carter’s number",
+                "url": "https://www.ctvnews.ca/video?clipId=3023221",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--raptors-retire-carter-s-number-1-7096875.jpg",
+                "createdAt": "1730604900000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc844",
+                "category": "breaking",
+                "title": "DEAR ABBY: Jilted ex eager to resurrect a relationship",
+                "url": "https://torontosun.com/life/relationships/dear-abby-jilted-ex-eager-to-resurrect-a-relationship",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/GettyImages-124037970.jpg?h=216&quality=90&sig=rhCl4dcFoe6HJ_6V30ajUA&strip=all&w=288",
+                "createdAt": "1730631626000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7df",
+                "category": "breaking",
+                "title": "CTV National News: Man steals 22-tonnes of cheese",
+                "url": "https://www.ctvnews.ca/video?clipId=3023214",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--man-steals-22-tonnes-cheese-1-7096867.jpg",
+                "createdAt": "1730604000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c41d",
+                "category": "breaking",
+                "title": "Danielle Smith facing leadership review Saturday to close out UCP convention",
+                "url": "https://edmonton.ctvnews.ca/danielle-smith-facing-leadership-review-saturday-to-close-out-ucp-convention-1.7096650",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ucp-agm-nov--2--2024-1-7096652-1730570584124.jpg",
+                "createdAt": "1730570700000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f0",
+                "category": "breaking",
+                "title": "Multiple RTDNA wins for CTV News, including 2 for W5",
+                "url": "https://www.ctvnews.ca/canada/multiple-rtdna-wins-for-ctv-news-including-2-for-w5-1.7096864",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2019/3/14/ctv-news-logo-1-4336314-1730600630499.png",
+                "createdAt": "1730560800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc887",
+                "category": "breaking",
+                "title": "Severe storms in Oklahoma injure at least 11 people and leave thousands without power",
+                "url": "https://torontosun.com/news/world/severe-storms-in-oklahoma-injure-at-least-11-people-and-leave-thousands-without-power",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/oklahoma.jpg?h=216&quality=90&sig=GDHsZb69mis2aTD1D-XQ5w&strip=all&w=288",
+                "createdAt": "1730660577000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7e3",
+                "category": "breaking",
+                "title": "CTV National News: Campaigns in swing states",
+                "url": "https://www.ctvnews.ca/video?clipId=3023208",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--campaigns-in-swing-states-1-7096878.jpg",
+                "createdAt": "1730603400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3ce",
+                "category": "breaking",
+                "title": "Americans in Canada cast ballot ahead of U.S. election",
+                "url": "https://www.ctvnews.ca/canada/americans-in-canada-cast-ballot-ahead-of-u-s-election-1.7096479",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/donald-trump-and-kamala-harris-1-7096480-1730549643411.jpg",
+                "createdAt": "1730549640000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d2",
+                "category": "breaking",
+                "title": "Overnight power outages expected after destructive B.C. storm",
+                "url": "https://bc.ctvnews.ca/overnight-power-outages-expected-after-destructive-b-c-storm-1.7097643",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/1/17/bc-hydro-outage-1-6730108-1705515411669.jpg",
+                "createdAt": "1730739120000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7bd",
+                "category": "breaking",
+                "title": "Homan edges Korea to win Pan Continental final",
+                "url": "https://torontosun.com/sports/curling/homan-edges-korea-to-win-pan-continental-final",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/cur-canada-pointsbet-20240929.jpg?h=216&quality=90&sig=EGr5Srp-m2hZPqCxVlVP5A&strip=all&w=288",
+                "createdAt": "1730594325000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b014e",
+                "category": "breaking",
+                "title": "CTV National News: Swift set to arrive in Canada",
+                "url": "https://www.ctvnews.ca/video?clipId=3023408",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--swift-set-to-arrive-in-canada-1-7097228.jpg",
+                "createdAt": "1730694420000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b4",
+                "category": "breaking",
+                "title": "Tornadoes leave wave of destruction on Oklahoma",
+                "url": "https://www.ctvnews.ca/video?clipId=3023454",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/tornadoes-leave-wave-of-destruction-on-oklahoma-1-7097392.jpeg",
+                "createdAt": "1730725980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3cf",
+                "category": "breaking",
+                "title": "Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid",
+                "url": "https://www.ctvnews.ca/world/jury-convicts-former-kentucky-officer-of-using-excessive-force-on-breonna-taylor-during-deadly-raid-1.7096473",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/breonna-taylor-1-7096474-1730546879779.jpg",
+                "createdAt": "1730546958000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b012c",
+                "category": "breaking",
+                "title": "How to avoid family ballot box brouhahas this festive season",
+                "url": "https://torontosun.com/life/relationships/how-to-avoid-family-ballot-box-brouhahas-this-festive-season",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/GettyImages-471526038-e1730338626407.jpg?h=216&quality=90&sig=RITX9NDB30F1lYwocw1oEw&strip=all&w=288",
+                "createdAt": "1730681470000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b1",
+                "category": "breaking",
+                "title": "Democratic candidate’s OnlyFans porno past casts spectre on campaign",
+                "url": "https://torontosun.com/news/world/democratic-candidates-onlyfans-porno-past-casts-spectre-on-campaign",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/jones2-e1730727336505.png?h=216&quality=90&sig=U1f5ua8RJ2c-TRkSOF315g&strip=all&w=288",
+                "createdAt": "1730727568000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc886",
+                "category": "breaking",
+                "title": "Woman charged after allegedly pepper spraying Uber driver",
+                "url": "https://torontosun.com/news/world/woman-charged-after-allegedly-pepper-spraying-uber-driver",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/earns-uber-e1730396568940.jpg?h=216&quality=90&sig=dkg3Xm3N9mdJFWKg1iburQ&strip=all&w=288",
+                "createdAt": "1730660715000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5f",
+                "category": "breaking",
+                "title": "Israel has long wanted to dismantle the UN’s Palestinian refugee agency. The consequences could be disastrous for all",
+                "url": "https://www.ctvnews.ca/world/israel-has-long-wanted-to-dismantle-the-un-s-palestinian-refugee-agency-the-consequences-could-be-disastrous-for-all-1.7098253",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/a-tent-camp-for-displaced-palestinians-in-gaza-1-7098304-1730765468776.jpg",
+                "createdAt": "1730767096000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b6",
+                "category": "breaking",
+                "title": "Prince William begins a visit to South Africa that focuses on climate and the environment",
+                "url": "https://torontosun.com/news/world/prince-william-begins-a-visit-to-south-africa-that-focuses-on-climate-and-the-environment",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/britain-royals.jpg?h=216&quality=90&sig=qX9ViwYWHE2eE-i47CAfEA&strip=all&w=288",
+                "createdAt": "1730724705000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f4",
+                "category": "breaking",
+                "title": "Harris slams House speaker for suggesting GOP would probably try to cut federal semiconductor aid",
+                "url": "https://torontosun.com/news/world/harris-slams-house-speaker-for-suggesting-gop-would-probably-try-to-cut-federal-semiconductor-aid",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/election-2024-harris.jpg?h=216&quality=90&sig=NucAItt4JF2hasZt6ZCg0Q&strip=all&w=288",
+                "createdAt": "1730558839000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b0153",
+                "category": "breaking",
+                "title": "CTV National News for Sunday, November 3, 2024",
+                "url": "https://www.ctvnews.ca/video?clipId=3015669",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/heather-1-7097237.jpg",
+                "createdAt": "1730692800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7bf",
+                "category": "breaking",
+                "title": "Métis Nation Saskatchewan holds fall Legislative Assembly in Regina",
+                "url": "https://regina.ctvnews.ca/m%C3%A9tis-nation-saskatchewan-holds-fall-legislative-assembly-in-regina-1.7096823",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/metis-nation-saskatchewan-1-7096824-1730590662282.jpeg",
+                "createdAt": "1730591829000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b014d",
+                "category": "breaking",
+                "title": "CTV National News: Construction robots",
+                "url": "https://www.ctvnews.ca/video?clipId=3023409",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--construction-robots-1-7097230.jpg",
+                "createdAt": "1730694720000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc841",
+                "category": "breaking",
+                "title": "Man in Halloween mask a suspect in Texas homicide",
+                "url": "https://www.ctvnews.ca/video?clipId=3023234",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/man-in-halloween-mask-a-suspect-in-texas-homicide-1-7096915.jpg",
+                "createdAt": "1730640660000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f5",
+                "category": "breaking",
+                "title": "Search for 4 missing boaters in California suspended after crews find 1 child dead and 1 alive",
+                "url": "https://torontosun.com/news/world/search-for-4-missing-boaters-in-california-suspended-after-crews-find-1-child-dead-and-1-alive",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/GettyImages-532683617.jpg?h=216&quality=90&sig=tFLdNBL57jTPbnKs5FMh4g&strip=all&w=288",
+                "createdAt": "1730749324000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67282aa3170d4eec274cc843",
+                "category": "breaking",
+                "title": "They sent ballots from Canada. Now, Americans prepare to watch the election from afar",
+                "url": "https://www.ctvnews.ca/canada/they-sent-ballots-from-canada-now-americans-prepare-to-watch-the-election-from-afar-1.7096896",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/trump-supports-cheers-their-beer-glasses-1-7096897-1730637755360.jpg",
+                "createdAt": "1730637891000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3cb",
+                "category": "breaking",
+                "title": "U.K. Conservatives pick Kemi Badenoch as new leader, 1st Black woman to head a big British party",
+                "url": "https://www.ctvnews.ca/world/u-k-conservatives-pick-kemi-badenoch-as-new-leader-1st-black-woman-to-head-a-big-british-party-1.7096482",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/kemi-badenoch-1-7096483-1730551232439.jpg",
+                "createdAt": "1730551256000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79f",
+                "category": "breaking",
+                "title": "Man and woman out on bail charged in downtown stolen vehicle chase",
+                "url": "https://torontosun.com/news/local-news/man-and-woman-out-on-bail-charged-in-downtown-stolen-vehicle-chase",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/09/Toronto-Police-vehicle-files-Sept14.jpg?h=216&quality=90&sig=h2ss8BJxsHR41M2XXlJvUw&strip=all&w=288",
+                "createdAt": "1730586543000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672951f045fe8edcb35b018e",
+                "category": "breaking",
+                "title": "New Brunswick inmate captured after Saint John jail escape through fence: police",
+                "url": "https://atlantic.ctvnews.ca/new-brunswick-inmate-captured-after-saint-john-jail-escape-through-fence-police-1.7097255",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/daryl-dalgleish-1-7097081-1730662729294.png",
+                "createdAt": "1730715240000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727d641170d4eec274cc7fd",
+                "category": "breaking",
+                "title": "SUNshine Girl Vanessa",
+                "url": "https://torontosun.com/sunshine-girls/sunshine-girl-vanessa",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/SSG-Vanessa.jpg?h=216&quality=90&sig=YVBsB_kSdI6pyJQ2h1ichw&strip=all&w=288",
+                "createdAt": "1730617235000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c418",
+                "category": "breaking",
+                "title": "Florida's convicted killer clown released from prison for the murder of her husband's then-wife",
+                "url": "https://www.ctvnews.ca/world/florida-s-convicted-killer-clown-released-from-prison-for-the-murder-of-her-husband-s-then-wife-1.7096689",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/florida-convicted-killer-clown-sheila-keen-warren-1-7096728-1730576765503.jpeg",
+                "createdAt": "1730577126000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01af",
+                "category": "breaking",
+                "title": "BCE signs deal to buy U.S. fibre internet provider Ziply Fiber for $5 billion",
+                "url": "https://torontosun.com/business/money-news/bce-signs-deal-to-buy-u-s-fibre-internet-provider-ziply-fiber-for-5-billion",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/bce-ziply-fiber-20241104.jpg?h=216&quality=90&sig=iMKE8mnUZHm1i-eeClLM0g&strip=all&w=288",
+                "createdAt": "1730727793000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79e",
+                "category": "breaking",
+                "title": "Cops need help identifying Brampton sex assault suspect",
+                "url": "https://torontosun.com/news/local-news/cops-need-help-identifying-brampton-sex-assault-suspect",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/PeelPolice-sexassault-suspect-Nov2.jpg?h=216&quality=90&sig=nBl4Kt7Mk_hj9aEFGqm9Nw&strip=all&w=288",
+                "createdAt": "1730587519000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5c",
+                "category": "breaking",
+                "title": "AGAR: Swiftonomics seem to be too taxing a concept for Mayor Chow",
+                "url": "https://torontosun.com/opinion/columnists/agar-swiftonomics-seem-to-be-too-taxing-a-concept-for-mayor-chow",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/olivia-chow-e1706660569803.jpg?h=216&quality=90&sig=BnuU-Owz5KUsVklL7GZNHA&strip=all&w=288",
+                "createdAt": "1730768642000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5d",
+                "category": "breaking",
+                "title": "IIHF preparing proposal to add 3-on-3 hockey to Winter Olympics in 2030",
+                "url": "https://torontosun.com/sports/hockey/iihf-preparing-proposal-to-add-3-on-3-hockey-to-winter-olympics-in-2030",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/02/olympics-2024-02-02.jpg?h=216&quality=90&sig=gyLYQqDEElDQu4glkGz20A&strip=all&w=288",
+                "createdAt": "1730768632000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3e",
+                "category": "breaking",
+                "title": "Here's who's running for a spot on city council in Yorkton",
+                "url": "https://regina.ctvnews.ca/here-s-who-s-running-for-a-spot-on-city-council-in-yorkton-1.7097944",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/yorkton-2024-city-council-candidates-1-7097949-1730754596493.jpeg",
+                "createdAt": "1730754833000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b0",
+                "category": "breaking",
+                "title": "'Canada is watching': New northern Alberta police service trying to lead by example",
+                "url": "https://edmonton.ctvnews.ca/canada-is-watching-new-northern-alberta-police-service-trying-to-lead-by-example-1.7097405",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/grande-prairie-police-service-chief-dwayne-lakusta-1-7097412-1730727755318.jpg",
+                "createdAt": "1730727720000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc88b",
+                "category": "breaking",
+                "title": "Federal mediators on site for negotiations between B.C. port employer and union",
+                "url": "https://torontosun.com/news/national/federal-mediators-on-site-for-negotiations-between-b-c-port-employer-and-union",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/port-dispute-bc-20241103.jpg?h=216&quality=90&sig=9_uJpPQg_azTjXfGuEDKvw&strip=all&w=288",
+                "createdAt": "1730658966000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b0130",
+                "category": "breaking",
+                "title": "CRIME SCENE: London man accused of sexually assaulting teen girl in Niagara Region",
+                "url": "https://torontosun.com/news/local-news/crime-scene-london-man-accused-of-sexually-assaulting-teen-girl-in-niagara-region",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/NRPS-Child-Abuse-Unit-Investigation-Results-in-the-Arrest-of-a-London-Man-23-94706-male-e1730676232935.jpg?h=216&quality=90&sig=nmJ0uyiF0Q6lcknl2pjrRw&strip=all&w=288",
+                "createdAt": "1730676483000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc864",
+                "category": "breaking",
+                "title": "Palestinians say Israel struck a Gaza clinic during a polio campaign. The army denies it",
+                "url": "https://torontosun.com/news/world/palestinians-say-israel-struck-a-gaza-clinic-during-a-polio-campaign-the-army-denies-it",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/northern-gaza.jpg?h=216&quality=90&sig=DjM9CeaCn0jPQDqEITWF_Q&strip=all&w=288",
+                "createdAt": "1730651509000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3cc",
+                "category": "breaking",
+                "title": "Windsor mayor supports notwithstanding clause to clear homeless encampments",
+                "url": "https://windsor.ctvnews.ca/windsor-mayor-supports-notwithstanding-clause-to-clear-homeless-encampments-1.7096481",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/4/8/chatham-homeless-camp-1-6839052-1712626966459.jpg",
+                "createdAt": "1730550960000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728a93045fe8edcb35b010c",
+                "category": "breaking",
+                "title": "Hope for a Gordon Lightfoot museum ’still very much alive’ in his hometown",
+                "url": "https://torontosun.com/entertainment/music/hope-for-a-gordon-lightfoot-museum-still-very-much-alive-in-his-hometown",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/music-gordon-lightfoot-museum-20241103.jpg?h=216&quality=90&sig=O5uT8m9tjeZeddeEdp5L7g&strip=all&w=288",
+                "createdAt": "1730668837000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7d",
+                "category": "breaking",
+                "title": "CTV National News: B.C. ports workers locked out",
+                "url": "https://www.ctvnews.ca/video?clipId=3024228",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/ctv-national-news--b-c--ports-labour-disruption-1-7098076.jpg",
+                "createdAt": "1730779200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c60",
+                "category": "breaking",
+                "title": "New York State Police suspend trooper while investigating his account of being shot",
+                "url": "https://torontosun.com/news/world/new-york-state-police-suspend-trooper-while-investigating-his-account-of-being-shot",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/ny-state-trooper-shot.jpg?h=216&quality=90&sig=GqZnt_qNwCwr25dq25dI6Q&strip=all&w=288",
+                "createdAt": "1730766383000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc884",
+                "category": "breaking",
+                "title": "Harris goes to church while Trump muses about reporters being shot",
+                "url": "https://torontosun.com/news/world/harris-goes-to-church-while-trump-muses-about-reporters-being-shot",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/kamala-harris.jpg?h=216&quality=90&sig=ssaijOmlrwiFW-lyCJhjAw&strip=all&w=288",
+                "createdAt": "1730662402000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc866",
+                "category": "breaking",
+                "title": "CTV QP: Arctic poses 'real threat' for Canada",
+                "url": "https://www.ctvnews.ca/video?clipId=3023306",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-qp--arctic-poses--real-threat--for-canada-1-7097005.jpg",
+                "createdAt": "1730650980000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728a93045fe8edcb35b010a",
+                "category": "breaking",
+                "title": "Bass’ 61-yard field goal gives Allen and Bills a thrilling win over Tagovailoa and Dolphins",
+                "url": "https://torontosun.com/sports/football/nfl/bass-61-yard-field-goal-gives-allen-and-bills-a-thrilling-win-over-tagovailoa-and-dolphins",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Tyler-Bass.jpg?h=216&quality=90&sig=ldUpfR98fK5j4jX6WDN-LQ&strip=all&w=288",
+                "createdAt": "1730673732000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc888",
+                "category": "breaking",
+                "title": "Liberals extend Lebanon donation-match deadline as aid workers plead for more support",
+                "url": "https://torontosun.com/news/national/liberals-extend-lebanon-donation-match-deadline-as-aid-workers-plead-for-more-support",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Ahmed-Hussen.jpg?h=216&quality=90&sig=P11W0pO0t_5qh8fxLHVnoA&strip=all&w=288",
+                "createdAt": "1730659917000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728fd9145fe8edcb35b014f",
+                "category": "breaking",
+                "title": "CTV National News: Seeking refuge in Canada",
+                "url": "https://www.ctvnews.ca/video?clipId=3023406",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-national-news--seeking-refuge-in-canada-1-7097226.jpg",
+                "createdAt": "1730693820000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc88a",
+                "category": "breaking",
+                "title": "'Venom 3' tops box office again, while Tom Hanks film struggles",
+                "url": "https://www.ctvnews.ca/entertainment/venom-3-tops-box-office-again-while-tom-hanks-film-struggles-1.7097048",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/venom--the-last-dance-1-7097054-1730659011735.jpg",
+                "createdAt": "1730659375000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc861",
+                "category": "breaking",
+                "title": "CTV QP: Trump's tariffs would be a ‘challenge’",
+                "url": "https://www.ctvnews.ca/video?clipId=3023308",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/ctv-qp--trump-s-tariffs-would-be-a-challenge-1-7097010.jpg",
+                "createdAt": "1730652540000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280075170d4eec274cc81f",
+                "category": "breaking",
+                "title": "Weekend warriors have the same risk of mild dementia as more frequent exercisers, study suggests",
+                "url": "https://www.ctvnews.ca/health/weekend-warriors-have-the-same-risk-of-mild-dementia-as-more-frequent-exercisers-study-suggests-1.7095552",
+                "urlToImg": "https://www.ctvnews.ca/polopoly_fs/1.7095574.1730482682!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+                "createdAt": "1730628000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c61",
+                "category": "breaking",
+                "title": "Remains of nearly 30 Civil War veterans found in funeral home’s storage laid to rest",
+                "url": "https://torontosun.com/news/world/remains-of-nearly-30-civil-war-veterans-found-in-funeral-homes-storage-laid-to-rest",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Civil-War-Remains-Buried-2024-11-04.jpg?h=216&quality=90&sig=8iLzuNoVHU2-ztvzwC-2Zg&strip=all&w=288",
+                "createdAt": "1730765323000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3c",
+                "category": "breaking",
+                "title": "Pair of tornadoes touch down in 2 New Brunswick communities last week",
+                "url": "https://atlantic.ctvnews.ca/pair-of-tornadoes-touch-down-in-2-new-brunswick-communities-last-week-1.7097952",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/broken-tree-1-7097960-1730755097342.jpg",
+                "createdAt": "1730755800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f6",
+                "category": "breaking",
+                "title": "TikTok sued by families in France after children’s suicides",
+                "url": "https://torontosun.com/news/world/tiktok-sued-by-families-in-france-after-childrens-suicides",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/unnamed-file.jpg?h=216&quality=90&sig=oTSVa8UUHgB9bLU9kJaEKA&strip=all&w=288",
+                "createdAt": "1730748917000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7bb",
+                "category": "breaking",
+                "title": "Roughriders advance to West Division final with 28-19 win over B.C. Lions",
+                "url": "https://regina.ctvnews.ca/roughriders-advance-to-west-division-final-with-28-19-win-over-b-c-lions-1.7096859",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/riders-nov--2-1-7096860-1730597407043.jpg",
+                "createdAt": "1730597940000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f8",
+                "category": "breaking",
+                "title": "San Antonio Spurs coach Gregg Popovich sidelined indefinitely with undisclosed illness",
+                "url": "https://torontosun.com/sports/basketball/nba/popovich-sidelined-indefinitely-undisclosed-illness",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/03/GREGG10.jpg?h=216&quality=90&sig=3mXgDKG-V9-XSN6YE_CMvA&strip=all&w=288",
+                "createdAt": "1730748438000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c81",
+                "category": "breaking",
+                "title": "Public order unit deployed in Brampton as Hindu, Sikh protests continue",
+                "url": "https://torontosun.com/news/local-news/public-order-unit-deployed-in-brampton-as-hindu-sikh-protests-continue",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/CP173447689-e1730777962709.jpg?h=216&quality=90&sig=IckFssmAycbfOYs3jZQ7Ug&strip=all&w=288",
+                "createdAt": "1730777987000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c419",
+                "category": "breaking",
+                "title": "TGI Fridays files for bankruptcy protection as sit-down restaurant struggles continue",
+                "url": "https://torontosun.com/business/money-news/tgi-fridays-files-for-bankruptcy-protection-as-sit-down-restaurant-struggles-continue",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/tgi-fridays-bankruptcy.jpg?h=216&quality=90&sig=Abf2W1mqr4NCh4Nfz2alDQ&strip=all&w=288",
+                "createdAt": "1730575247000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ac15170d4eec274cc7dd",
+                "category": "breaking",
+                "title": "CTV National News: Film wars in B.C.",
+                "url": "https://www.ctvnews.ca/video?clipId=3023218",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/ctv-national-news--film-wars-in-b-c--1-7096874.jpg",
+                "createdAt": "1730604540000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c79",
+                "category": "breaking",
+                "title": "CTV National News: Murray Sinclair's legacy",
+                "url": "https://www.ctvnews.ca/video?clipId=3024230",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/ctv-national-news--murray-sinclairs-legacy-1-7098084.jpg",
+                "createdAt": "1730779260000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726cb125ef0a3b56898c3d1",
+                "category": "breaking",
+                "title": "DEAR ABBY: Relationship with daughter has deteriorated amid hardships",
+                "url": "https://torontosun.com/life/relationships/dear-abby-relationship-with-daughter-has-deteriorated-amid-hardships",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/10/GettyImages-1359757893.jpg?h=216&quality=90&sig=GXf0SThWOx35mBGGQGtaUg&strip=all&w=288",
+                "createdAt": "1730541607000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7a",
+                "category": "breaking",
+                "title": "CTV National News: Remembering Quincy Jones",
+                "url": "https://www.ctvnews.ca/video?clipId=3024231",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/ctv-national-news--remembering-quincy-jones-1-7098086.jpg",
+                "createdAt": "1730779260000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a4f15ca26d7cb2ea30c7c",
+                "category": "breaking",
+                "title": "CTV National News for Monday, November 4, 2024",
+                "url": "https://www.ctvnews.ca/video?clipId=3019678",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/omar-1-7098547.jpg",
+                "createdAt": "1730779200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c3a",
+                "category": "breaking",
+                "title": "CAUGHT ON CAMERA: Shots fired at home in town of Georgina",
+                "url": "https://torontosun.com/news/caught-on-camera-shots-fired-at-home-in-town-of-georgina",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Screen-Shot-2024-11-04-at-4.25.38-PM-e1730756917133.png?h=216&quality=90&sig=F__toubEq1eyd4Lu6MbfFQ&strip=all&w=288",
+                "createdAt": "1730757027000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c59",
+                "category": "breaking",
+                "title": "Soto among 13 free agents to receive $21.05 million qualifying offer",
+                "url": "https://torontosun.com/sports/baseball/mlb/soto-among-13-free-agents-to-receive-21-05-million-qualifying-offer",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/06/2155202231-e1717775953106.jpg?h=216&quality=90&sig=sUA2f99W42D-Xr94IWPGtA&strip=all&w=288",
+                "createdAt": "1730769475000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79a",
+                "category": "breaking",
+                "title": "Biden suggests he’d like to smack ’macho guys’ during final campaign stop",
+                "url": "https://torontosun.com/news/world/biden-suggests-hed-like-to-smack-macho-guys-during-final-campaign-stop",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/2181804739-e1730588304885.jpg?h=216&quality=90&sig=NxCwJ_2xyBm8OB3OnfYvLw&strip=all&w=288",
+                "createdAt": "1730588360000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d6",
+                "category": "breaking",
+                "title": "After four decades on men’s curling circuit, Glenn Howard shifts attention to coaching",
+                "url": "https://torontosun.com/sports/curling/glenn-howard-shifts-attention-coaching",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/cur-grand-slam-howard-20241104.jpg?h=216&quality=90&sig=0HKgrZFZkEkWByQ6K_vyHw&strip=all&w=288",
+                "createdAt": "1730738242000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc7a1",
+                "category": "breaking",
+                "title": "CUPE health care workers rally in Redvers, Sask.",
+                "url": "https://regina.ctvnews.ca/cupe-health-care-workers-rally-in-redvers-sask-1.7096761",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/healthcare-workers-gather-to-voice-concerns-1-7096278-1730582072681.jpg",
+                "createdAt": "1730583477000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc7a2",
+                "category": "breaking",
+                "title": "CUPE healthcare workers rally in Redvers, Sask.",
+                "url": "https://regina.ctvnews.ca/cupe-healthcare-workers-rally-in-redvers-sask-1.7096761",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/healthcare-workers-gather-to-voice-concerns-1-7096278-1730582072681.jpg",
+                "createdAt": "1730583420000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f2",
+                "category": "breaking",
+                "title": "Pope Francis prays in front of graves of unborn children ahead of All Souls’ Day Mass",
+                "url": "https://torontosun.com/news/world/pope-francis-prays-in-front-of-graves-of-unborn-children-ahead-of-all-souls-day-mass",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/italy-pope-day-of-the-dead-e1730558944432.jpg?h=216&quality=90&sig=f4G6TDwtinoIVYIzZBvmyw&strip=all&w=288",
+                "createdAt": "1730558978000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280075170d4eec274cc81e",
+                "category": "breaking",
+                "title": "She got on a plane to find the guy she fell for at Oktoberfest. ‘I’m going to go and find my ginger’",
+                "url": "https://www.ctvnews.ca/lifestyle/she-got-on-a-plane-to-find-the-guy-she-fell-for-at-oktoberfest-i-m-going-to-go-and-find-my-ginger-1.7096249",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/1/mandy-suess-and-rags-ryan-1-7096302-1730508076651.jpg",
+                "createdAt": "1730628000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729a65145fe8edcb35b01d8",
+                "category": "breaking",
+                "title": "‘TAYLOR SWIFT WAY’: Street sign tribute unveiled ahead of six sold-out Toronto concerts",
+                "url": "https://torontosun.com/news/local-news/taylor-swift-way-street-sign-tribute-unveiled-ahead-of-six-sold-out-toronto-concerts",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Swift-Sign.png?h=216&quality=90&sig=ud5COh8POH5qDc6zBx9Mog&strip=all&w=288",
+                "createdAt": "1730737947000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672781e0170d4eec274cc7bc",
+                "category": "breaking",
+                "title": "Robert F. Kennedy Jr. says Donald Trump would push to remove fluoride from drinking water",
+                "url": "https://torontosun.com/news/world/robert-f-kennedy-jr-says-donald-trump-would-push-to-remove-fluoride-from-drinking-water",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Robert-F-Kennedy-Jr-Oct31.jpg?h=216&quality=90&sig=ipzpvE0zS3RYUKBIHlmmog&strip=all&w=288",
+                "createdAt": "1730596155000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a24e5ca26d7cb2ea30c5b",
+                "category": "breaking",
+                "title": "Man arrested after feds say he sought to destroy Nashville power site",
+                "url": "https://torontosun.com/news/world/man-arrested-after-feds-say-he-sought-to-destroy-nashville-power-site",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/nashville-power-grid-targeted.jpg?h=216&quality=90&sig=GZXj27UvUM1bq_PmXH_PjA&strip=all&w=288",
+                "createdAt": "1730769021000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729fab3ca26d7cb2ea30c39",
+                "category": "breaking",
+                "title": "Ex-Israeli government official says antisemitism in Canada ‘out of control’",
+                "url": "https://torontosun.com/news/national/ex-israeli-government-official-says-antisemitism-in-canada-out-of-control",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/eylonlevy-e1730757231291.jpg?h=216&quality=90&sig=wDaBZbhPXkM2fuVgzqa8xQ&strip=all&w=288",
+                "createdAt": "1730757939000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67272d805ef0a3b56898c420",
+                "category": "breaking",
+                "title": "Regina election FAQ: What you need to know ahead of Nov. 13 vote",
+                "url": "https://regina.ctvnews.ca/regina-election-faq-what-you-need-to-know-ahead-of-nov-13-vote-1.7096605",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/10/30/regina-city-hall-1-7092835-1730322554290.jpeg",
+                "createdAt": "1730568569000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3ec",
+                "category": "breaking",
+                "title": "Two more men, 21 and 18, charged in deadly summer shooting in Brampton",
+                "url": "https://torontosun.com/news/local-news/two-more-men-21-and-18-charged-in-deadly-summer-shooting-in-brampton",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/07/TS2024510ED07.TS_-scaled-e1715732222656.jpg?h=216&quality=90&sig=R-fdjuh-f6hWMJoOo2dAqw&strip=all&w=288",
+                "createdAt": "1730562691000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3f3",
+                "category": "breaking",
+                "title": "CTV Calgary broadcast legend Darrel Janz dies at 83",
+                "url": "https://calgary.ctvnews.ca/ctv-calgary-broadcast-legend-darrel-janz-dies-at-83-1.7096523",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/darrel-janz-1-7096532-1730558704200.jpeg",
+                "createdAt": "1730558880000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672854d2170d4eec274cc867",
+                "category": "breaking",
+                "title": "Russia sends nearly 100 drones into Ukraine, as Zelenskyy urges tougher sanctions against Moscow",
+                "url": "https://torontosun.com/news/world/russia-sends-nearly-100-drones-into-ukraine-as-zelenskyy-urges-tougher-sanctions-against-moscow",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/ukraine-russia.jpg?h=216&quality=90&sig=6Iag4mp7fPSnGK0kEUSKOg&strip=all&w=288",
+                "createdAt": "1730650611000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729d08445fe8edcb35b01f2",
+                "category": "breaking",
+                "title": "Ikea to pay $6M euros to victims of forced labour",
+                "url": "https://www.ctvnews.ca/video?clipId=3023994",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/4/ikea-to-pay--6m-euros-to-victims-of-forced-labour-1-7097868.jpg",
+                "createdAt": "1730749920000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b0133",
+                "category": "breaking",
+                "title": "'Our right to be here': Metis Nation of Saskatchewan Legislative Assembly continues",
+                "url": "https://regina.ctvnews.ca/our-right-to-be-here-metis-nation-of-saskatchewan-legislative-assembly-continues-1.7097172",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/the-wandering-metis-1-7097175-1730675167586.jpg",
+                "createdAt": "1730675185000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67287f05170d4eec274cc882",
+                "category": "breaking",
+                "title": "Worker helps customers during Wash. mall shooting",
+                "url": "https://www.ctvnews.ca/video?clipId=3023337",
+                "urlToImg": "https://ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/worker-helps-customers-during-wash--mall-shooting-1-7097097.jpg",
+                "createdAt": "1730663820000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc79b",
+                "category": "breaking",
+                "title": "Carter speaks of legacy, relationship with Raptors fans ahead of jersey retirement",
+                "url": "https://toronto.ctvnews.ca/carter-speaks-of-legacy-relationship-with-raptors-fans-ahead-of-jersey-retirement-1.7096803",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/former-raptors-player-vince-carter-1-7096805-1730588257507.jpg",
+                "createdAt": "1730588280000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672757b0170d4eec274cc7a3",
+                "category": "breaking",
+                "title": "Carmichael Outreach to open warming shelter all winter long",
+                "url": "https://regina.ctvnews.ca/carmichael-outreach-to-open-warming-shelter-all-winter-long-1.7096756",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/1/4/carmichael-outreach-1-6712197-1704415087786.jpeg",
+                "createdAt": "1730581382000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728a93045fe8edcb35b010b",
+                "category": "breaking",
+                "title": "James Van Der Beek says he has colorectal cancer",
+                "url": "https://www.ctvnews.ca/entertainment/james-van-der-beek-says-he-has-colorectal-cancer-1.7097160",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/3/james-van-der-beek-1-7097161-1730673172226.jpeg",
+                "createdAt": "1730673581000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726f5445ef0a3b56898c3ee",
+                "category": "breaking",
+                "title": "Tropical Storm Lane develops over Pacific Ocean but remains far off Mexican coast",
+                "url": "https://www.ctvnews.ca/climate-and-environment/tropical-storm-lane-develops-over-pacific-ocean-but-remains-far-off-mexican-coast-1.7096537",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/11/2/tropical-storm-lane-developing--noaa--1-7096573-1730561961398.jpg",
+                "createdAt": "1730561940000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67297c2445fe8edcb35b01b8",
+                "category": "breaking",
+                "title": "Harris and Trump make a furious final push before U.S. election day",
+                "url": "https://www.ctvnews.ca/world/harris-and-trump-make-a-furious-final-push-before-u-s-election-day-1.7097344",
+                "urlToImg": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/10/30/donald-trump--kamala-harris-1-7091953-1730755566967.jpg",
+                "createdAt": "1730724360000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728d36445fe8edcb35b012d",
+                "category": "breaking",
+                "title": "Politicians condemn 'shameful' reports of violence at Brampton Hindu temple",
+                "url": "https://torontosun.com/news/local-news/politicians-condemn-shameful-reports-of-violence-at-brampton-hindu-temple",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/20241103171140-20241103171112-942389003407685defa1bedee016a03fd30bf89c41146e21f808b5fd85fb4861-scaled-e1730679058390.jpg?h=216&quality=90&sig=BH438s3WlnFKPxPIQEJ2gg&strip=all&w=288",
+                "createdAt": "1730679548000",
+                "__typename": "Article"
+            }
+        ]
+    }
+}

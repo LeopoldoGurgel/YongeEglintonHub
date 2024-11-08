@@ -1,0 +1,2193 @@
+{
+    "data": {
+        "sports": [
+            {
+                "_id": "672935d045fe8edcb35b017a",
+                "category": "sports",
+                "title": "Paris prosecutors drop sexual harassment case against former French football chief Noël Le Graët",
+                "url": "https://ca.news.yahoo.com/paris-prosecutors-drop-sexual-harassment-083849821.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/gLfVpOkeGmuABx7MRmf.wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/france_24_english_articles_100/61ff22ef43a5637a664c85a4cadcfbc2",
+                "createdAt": "1730709529000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c69",
+                "category": "sports",
+                "title": "Austin Reaves scores and draws the foul",
+                "url": "https://ca.sports.yahoo.com/video/austin-reaves-scores-draws-foul-025813054.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/iCugb4DOduLDpfpoGhdgGw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/cab66755-14d4-45f4-91a0-2a4f550bf444/main/1280x720/6s69ms/match/image.jpg",
+                "createdAt": "1730775493000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b011a",
+                "category": "sports",
+                "title": "Saints coach Dennis Allen starting to feel the heat amid 7-game losing skid, 23-22 loss to Panthers",
+                "url": "https://ca.sports.yahoo.com/news/saints-coach-dennis-allen-starting-234934932.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/XwDWzzh.Ym8v1vCXy7xADw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/cp_sports_913/e4ec8e19fed964251d8ee636d1dc294b",
+                "createdAt": "1730677774000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c8d",
+                "category": "sports",
+                "title": "Powell scores 23, Clippers rally from 26-point deficit to beat Spurs 113-104",
+                "url": "https://www.thestar.com/sports/basketball/powell-scores-23-clippers-rally-from-26-point-deficit-to-beat-spurs-113-104/article_fc5efa3e-bc46-561b-9e44-a64a983d6958.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/da/1da45de1-61fb-50b0-9243-150e42fd53c9/6729b34a4b98d.image.jpg?resize=300%2C200",
+                "createdAt": "1730786011000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c6a",
+                "category": "sports",
+                "title": "Rui Hachimura sinks it from downtown",
+                "url": "https://ca.sports.yahoo.com/video/rui-hachimura-sinks-downtown-025813313.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/.p.oy0r5ylwg93dZDoyI.g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/161d0a39-faad-4bf6-b824-3b7f25426704/main/1280x720/4s149ms/match/image.jpg",
+                "createdAt": "1730775493000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b01a2",
+                "category": "sports",
+                "title": "Connections hints, clues and answers on Monday, November 4 2024",
+                "url": "https://ca.news.yahoo.com/connections-hints-clues-answers-monday-113512499.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/OBU62oQ_9rQ1BboP2tWXYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD00NTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/57c7e587924bf49415b2e7d95a29db3f",
+                "createdAt": "1730720112000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c39b",
+                "category": "sports",
+                "title": "Matthew Lillard: Scream didn't transform my career",
+                "url": "https://ca.movies.yahoo.com/matthew-lillard-scream-didnt-transform-080000581.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/uphSdm7419ltxquw7GPccA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxNjtjZj13ZWJw/https://media.zenfs.com/en/bang_showbiz_628/197b2c9a965c8a3cbb732f5079458052",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c85",
+                "category": "sports",
+                "title": "Raptors collapse in loss to Nuggets as Barrett’s late heave squirts out",
+                "url": "https://www.sportsnet.ca/nba/article/raptors-collapse-in-loss-to-nuggets-as-barretts-late-heave-squirts-out/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/rj-barrett.jpg",
+                "createdAt": "1730786353000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3db",
+                "category": "sports",
+                "title": "NCCS boys' soccer wins third straight sectional championship",
+                "url": "https://ca.news.yahoo.com/nccs-boys-soccer-wins-third-135207762.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/1XbzcLRIF40ff62dAfCv5A--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.wptz.hearstnews.com/12cb6f8a25850a284379df8148603d13",
+                "createdAt": "1730555527000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c48",
+                "category": "sports",
+                "title": "Curry restricted to about half the game, but still scores 24 in his return from an ankle injury",
+                "url": "https://www.thestar.com/sports/basketball/curry-restricted-to-about-half-the-game-but-still-scores-24-in-his-return-from/article_ca874275-2fdf-5bd1-8773-a04e3fc0c8a6.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/6b/d6b9165a-efe1-5539-a67c-44616d93720a/6726eacb91d6f.image.jpg?resize=300%2C200",
+                "createdAt": "1730763766000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c49",
+                "category": "sports",
+                "title": "Curry returns from his ankle injury for Golden State at Washington",
+                "url": "https://www.thestar.com/sports/basketball/curry-returns-from-his-ankle-injury-for-golden-state-at-washington/article_ca874275-2fdf-5bd1-8773-a04e3fc0c8a6.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/6b/d6b9165a-efe1-5539-a67c-44616d93720a/6726eacb91d6f.image.jpg?resize=300%2C200",
+                "createdAt": "1730763766000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c45",
+                "category": "sports",
+                "title": "Balotelli booked within 5 minutes of Serie A return",
+                "url": "https://www.espn.com/soccer/story/_/id/42196372/mario-balotelli-returns-serie-booked-first-minutes",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1104%2Fr1410489_1296x729_16-9.jpg",
+                "createdAt": "1730764246000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b01ff",
+                "category": "sports",
+                "title": "Tracking every trade before the deadline: All the latest news and buzz",
+                "url": "https://www.espn.com/nfl/story/_/id/41400431/2024-nfl-trade-deadline-news-deals-reactions-takeaways-updates",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0814%2Fr1210593_2_1296x729_16-9.jpg",
+                "createdAt": "1730753523000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c406",
+                "category": "sports",
+                "title": "Dolphins elevate two players, rule out another for game at Buffalo",
+                "url": "https://ca.sports.yahoo.com/news/dolphins-elevate-two-players-rule-175453462.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/v8jwrC4M0iwGMBay3DfNWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYyNTtjZj13ZWJw/https://media.zenfs.com/en/miami_herald_mcclatchy_975/fe3c30c29aa14097d56fa44bcc891bf2",
+                "createdAt": "1730570093000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c403",
+                "category": "sports",
+                "title": "Queen Mary joined by twin children following trip without King Frederik",
+                "url": "https://ca.style.yahoo.com/queen-mary-joined-twin-children-175937537.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/tcxzrZK4TlnpI1Mh5DNffQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/hello__263/30d171e3e531a722f9d441eb60ae60b5",
+                "createdAt": "1730570377000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b011c",
+                "category": "sports",
+                "title": "Mayor Holt, city leaders give update on response to OKC tornado damage",
+                "url": "https://ca.news.yahoo.com/mayor-holt-city-leaders-response-234713128.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/5qtq5Hhy4_pQIAp7WFphgA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.koco.hearstnews.com/b298c12646cfc71ad7ace258a6c56cba",
+                "createdAt": "1730677633000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3fb",
+                "category": "sports",
+                "title": "Norris 'not proud' of sprint win via team orders",
+                "url": "https://www.espn.com/f1/story/_/id/42148935/brazil-gp-lando-norris-not-proud-sprint-win-via-team-orders",
+                "urlToImg": "https://a4.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1102%2Fr1409337_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730566565000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80e",
+                "category": "sports",
+                "title": "Donald Trump welcomes supporter’s shout that Kamala Harris ‘worked on a corner’",
+                "url": "https://ca.news.yahoo.com/donald-trump-welcomes-supporter-shout-082643280.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/a5I1ETCuOuM_EUCqflzyng--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_independent_577/3e681b784eaec78786c4c2ce3b13fc7f",
+                "createdAt": "1730622403000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc894",
+                "category": "sports",
+                "title": "Flood damage looks like 'sheer carnage,' says Canadian in Spain",
+                "url": "https://ca.news.yahoo.com/flood-damage-looks-sheer-carnage-205132443.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/dLx6aDjJUzmgQOyibDGMHw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cbc_videos_73/a6591306f5341c2b3ec5d89b190f8d5f",
+                "createdAt": "1730667092000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b01fd",
+                "category": "sports",
+                "title": "Jack Todd: Is Crosby or Ovechkin the greater player?",
+                "url": "https://montrealgazette.com/sports/jack-todd-is-crosby-or-ovechkin-the-greater-player",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2024/11/hockey-nhl-wsh-pit-.jpg?h=216&quality=90&sig=YMq_Jmt6qF-vGeiHetUtQA&strip=all&w=288",
+                "createdAt": "1730753813000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc890",
+                "category": "sports",
+                "title": "Artemi Panarin scores twice as the Rangers beat the Islanders 5-2",
+                "url": "https://ca.sports.yahoo.com/news/artemi-panarin-scores-twice-rangers-205554779.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/d5BJtnvAtvJXaybbHdQfEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/cp_sports_913/cc76937d91a1819f1b0932f46e853005",
+                "createdAt": "1730667354000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c372",
+                "category": "sports",
+                "title": "Christine Sinclair scores in her retirement match, Thorns down Angel City",
+                "url": "https://www.sportsnet.ca/soccer/article/christine-sinclair-scores-in-her-retirement-match-thorns-down-angel-city/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/7f4491437cd45c01c723e3946291ebd03ceec5abba89327e6483ea044a2376d9.jpg",
+                "createdAt": "1730523519000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc811",
+                "category": "sports",
+                "title": "Today’s Papers: Juventus are back, Milan react but Monza furious",
+                "url": "https://ca.sports.yahoo.com/news/today-papers-juventus-back-milan-082400298.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/qQIeA4V6akEAgbfEKqe4ag--~B/aD03NTY7dz0xMjIyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/football_italia_articles_132/75677dd4c4903d9130b1e3ccd1cdacb3",
+                "createdAt": "1730622240000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3fd",
+                "category": "sports",
+                "title": "Report: Yankees ace Gerrit Cole opts out of remaining years on contract",
+                "url": "https://www.sportsnet.ca/mlb/article/report-yankees-ace-gerrit-cole-opts-out-of-remaining-years-on-contract/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/10/Gerrit-Cole.jpg",
+                "createdAt": "1730565847000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3bd",
+                "category": "sports",
+                "title": "How to watch North Carolina Courage vs Washington Spirit: Live stream NWSL, TV channel",
+                "url": "https://ca.sports.yahoo.com/news/watch-north-carolina-courage-vs-105920291.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/6P9vxDf7pdsLNMaS1lQVlA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/3be2a19674120231a3af46a2873404d1",
+                "createdAt": "1730545160000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b0179",
+                "category": "sports",
+                "title": "Quincy Jones, giant of US music, dies aged 91",
+                "url": "https://ca.news.yahoo.com/quincy-jones-giant-us-music-081426671.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/ir4rOgPrJeYNgl4nbt2fdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/2e7656df3a59ba6f7dcd94e4c1fa57c3",
+                "createdAt": "1730709601000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019c",
+                "category": "sports",
+                "title": "Taylor Swift's surprise songs from Night 3 of the Eras Tour in Indianapolis, including two Lover favorites",
+                "url": "https://ca.news.yahoo.com/taylor-swifts-surprise-songs-night-113856833.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/rF2XDwm0mVJX.186R8DD0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/25f79d14f52f3b36d3c0b9f28ec1436b",
+                "createdAt": "1730720336000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82c",
+                "category": "sports",
+                "title": "Trump courts divided Arab-American voters in must-win Michigan",
+                "url": "https://ca.news.yahoo.com/trump-courts-divided-arab-american-225140811.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Mg82G2aI63hwNd_xmiiJ1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/afe09b4fc1e54d06d14edce73ec2fc04",
+                "createdAt": "1730633638000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c395",
+                "category": "sports",
+                "title": "Her son hid out for 16 days. Why she's calling for a new type of phone alert",
+                "url": "https://ca.news.yahoo.com/her-son-hid-16-days-080000499.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/IbobQ9G9.ZT0qG2MfrBXjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02NzM7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/df0694d1687602fe5c24f4377438b2c5",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84c",
+                "category": "sports",
+                "title": "Netflix Has Renewed 'The Diplomat' for Season 3, So Get Ready for a Cliffhanger Resolution",
+                "url": "https://ca.news.yahoo.com/netflix-renewed-diplomat-season-3-150000482.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/i61mcSE8McN2rgkaYybivA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/cosmopolitan_438/3ee6e5c60a957e11d7502c0966ca6367",
+                "createdAt": "1730646000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82a",
+                "category": "sports",
+                "title": "NBA reopening investigation into Jaxson Hayes",
+                "url": "https://ca.sports.yahoo.com/news/nba-reopening-investigation-jaxson-hayes-113547059.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/oa7E_bhNYG.O4G1mUCpg4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1MA--/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/0e21340b90f41f5a7470e5bb174aea82",
+                "createdAt": "1730633747000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b0180",
+                "category": "sports",
+                "title": "Multiple tornadoes reported amid damaging Oklahoma storms",
+                "url": "https://ca.news.yahoo.com/multiple-tornadoes-reported-amid-damaging-083419246.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/nHRFlFnA7J_VmyaDZ9ACdg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/kameraone_537/06bd6fab2c772465cdcfa548207009a4",
+                "createdAt": "1730709259000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b013a",
+                "category": "sports",
+                "title": "NFL Highlights: Falcons 27, Cowboys 21",
+                "url": "https://www.sportsnet.ca/nfl/video/nfl-highlights-falcons-27-cowboys-21/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364163627112.jpg",
+                "createdAt": "1730688625000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c8c",
+                "category": "sports",
+                "title": "Kevin Durant lifts Suns past Philadelphia 118-116, spoiling Paul George's 76ers debut",
+                "url": "https://www.thestar.com/sports/basketball/kevin-durant-lifts-suns-past-philadelphia-118-116-spoiling-paul-georges-76ers-debut/article_9a94f4e4-5205-5ced-a18c-6b3a6d86a682.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/3d/b3dc7586-1d22-5245-aad2-6c5db90b556e/6729b4763bf97.image.jpg?resize=300%2C200",
+                "createdAt": "1730786046000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b0181",
+                "category": "sports",
+                "title": "Magic vs. Thunder: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/magic-vs-thunder-start-time-083418084.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/GG9P7cnnFjfMMy_oOO9EUw--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/b4e20f75c4094768b59f63ff62dbc5db",
+                "createdAt": "1730709258000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc874",
+                "category": "sports",
+                "title": "Trump refutes Iowa poll showing Harris ahead in red state: ‘It’s not even close!’",
+                "url": "https://ca.news.yahoo.com/trump-refutes-iowa-poll-showing-175622003.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/7N7dc4qxdPugYIqgBEPKEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NDU7Y2Y9d2VicA--/https://media.zenfs.com/en/theguardian_763/b0e0c3967323523effc6246875eb748b",
+                "createdAt": "1730656582000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67278ff1170d4eec274cc7c7",
+                "category": "sports",
+                "title": "Mitchell’s last-second jumper helps Cavaliers stay unbeaten with win over Bucks",
+                "url": "https://www.sportsnet.ca/nba/article/mitchells-last-second-jumper-helps-cavaliers-stay-unbeaten-with-win-over-bucks/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/2d52471ba997a503295a71db9fec46b408c20b6a86a52d12b739af7d07533a3b.jpg",
+                "createdAt": "1730602626000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc808",
+                "category": "sports",
+                "title": "Chelsea XI vs Manchester United: Predicted lineup, confirmed team news and injury latest for Premier League",
+                "url": "https://ca.sports.yahoo.com/news/chelsea-xi-vs-manchester-united-144113559.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Rt0MWnelwKlqxrO.5wv3qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/evening_standard_239/1b927a1af39f1f674359ba4ccbc9d41a",
+                "createdAt": "1730623109000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67278ff1170d4eec274cc7c9",
+                "category": "sports",
+                "title": "Canada's Barrett scores 31 points as Raptors hold off Kings for 131-128 overtime win",
+                "url": "https://www.nsnews.com/national-sports/canadas-barrett-scores-31-points-as-raptors-hold-off-kings-for-131-128-overtime-win-9750491",
+                "urlToImg": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/11/e96579dfc28017de80c08e2ad3335cda9a0170093b289cca652cc6ab2cecb478.jpg;w=960",
+                "createdAt": "1730602325000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c397",
+                "category": "sports",
+                "title": "Michael McKean Teases “This is Spinal Tap ”Sequel 40 Years Later: ‘It’s Tragic in the Funniest Way’ (Exclusive)",
+                "url": "https://ca.news.yahoo.com/michael-mckean-teases-spinal-tap-080000199.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/GXJlALak0wuYFspb0Fo9mA--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/855fb45c55c4bed42d0d3b4c2acaed95",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c427",
+                "category": "sports",
+                "title": "Bears activate OL Larry Borom, elevate DB Reddy Steward, OL Jake Curhan",
+                "url": "https://ca.sports.yahoo.com/news/bears-activate-ol-larry-borom-205350407.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/zpGBClIlWRzSisdTK6Iq2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY4NjtjZj13ZWJw/https://media.zenfs.com/en/chicago_bears_wire_usa_today_sports_articles_533/bff5e9589ced361a6981eab8dbbe201a",
+                "createdAt": "1730580830000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3fa",
+                "category": "sports",
+                "title": "Browns place top tackler Owusu-Koramoah on IR",
+                "url": "https://www.espn.com/nfl/story/_/id/42149153/browns-place-leading-tackler-jeremiah-owusu-koramoah-ir",
+                "urlToImg": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1015%2Fr1400741_1296x729_16-9.jpg",
+                "createdAt": "1730566566000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7e8",
+                "category": "sports",
+                "title": "Mélanie Laurent: ‘I’ve had bad experiences with actors, never actresses’",
+                "url": "https://ca.news.yahoo.com/m-lanie-laurent-ve-had-060000827.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/iZVVQkeEBgYEZTlulYoR8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/the_independent_577/5f047ea7e36a09b67a744c12cb44c855",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c407",
+                "category": "sports",
+                "title": "What if Ontario's looming November warmth was cold instead? Imagining 30 C flip",
+                "url": "https://ca.news.yahoo.com/ontarios-looming-november-warmth-cold-174434272.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/0G1pAC0QJcwpVa9nSIUKlA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_weather_network_616/3775d4d2928e033ac8418c0f8908905c",
+                "createdAt": "1730570089000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b0139",
+                "category": "sports",
+                "title": "Palm Beach County 'killer clown' released from prison",
+                "url": "https://ca.news.yahoo.com/palm-beach-county-killer-clown-025139615.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/DA0AhaUY9GHA2XPwxqcKbA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.wptv.scripps.com/873e88df4324e8e49ed8b651ae91fe45",
+                "createdAt": "1730688699000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc88e",
+                "category": "sports",
+                "title": "WSL roundup: Chelsea thrash Everton to maintain perfect start",
+                "url": "https://ca.sports.yahoo.com/news/wsl-roundup-chelsea-thrash-everton-205759182.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/w12_eQWTPY9OGiVdC1eRbw--~B/aD02MDA7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/theguardian_763/8838ccfdb4f846253faf59f0486757ed",
+                "createdAt": "1730667479000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0202",
+                "category": "sports",
+                "title": "Sharks’ Macklin Celebrini set for return as San Jose takes on Blue Jackets",
+                "url": "https://www.sportsnet.ca/nhl/article/sharks-macklin-celebrini-set-for-return-as-san-jose-takes-on-blue-jackets/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/10/Macklin.jpg",
+                "createdAt": "1730753192000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7ed",
+                "category": "sports",
+                "title": "Voices: Joe Lycett, you’re dad to me now",
+                "url": "https://ca.news.yahoo.com/voices-joe-lycett-dad-now-060000533.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/i4.j7m7d3EfP2n0lzBNmtg--~B/aD05MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_independent_577/6b472b7da64b3caa17741f7696a55f05",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc86d",
+                "category": "sports",
+                "title": "The 10 incredible animals you must see in Asia – and how to witness them in the wild",
+                "url": "https://ca.style.yahoo.com/10-incredible-animals-must-see-180000215.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/hoC5g9TxLKhe2DR8K3YJEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03Nzc7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/bf972a0618357b7deb4eca66cb24a52d",
+                "createdAt": "1730656800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c394",
+                "category": "sports",
+                "title": "Tom Cruise in talks for Days of Thunder remake",
+                "url": "https://ca.movies.yahoo.com/tom-cruise-talks-days-thunder-080000492.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/qZ2rx0zS3wqqncDClxEkJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MDc7Y2Y9d2VicA--/https://media.zenfs.com/en/bang_showbiz_628/e7930912fed2a5b07e732be2da0dad09",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc871",
+                "category": "sports",
+                "title": "Rams, Huskies set to face off in all-Saskatchewan Hardy Cup final",
+                "url": "https://ca.news.yahoo.com/rams-huskies-set-face-off-175714295.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/iFJvN_u.SItKScXdh8QVaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NTk7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/26828a9d945167725599badaea99c85d",
+                "createdAt": "1730656634000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7ea",
+                "category": "sports",
+                "title": "Raphinha compares rising Barcelona star to Neymar – ‘He does something you have never seen’",
+                "url": "https://ca.sports.yahoo.com/news/raphinha-compares-rising-barcelona-star-060000479.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/JWrbPvRxF5.TM0ANz.mmEw--~B/aD0xMjc5O3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barca_universal_articles_732/0a10a150c49e01e83de2cfbd83a0dd0c",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0203",
+                "category": "sports",
+                "title": "Oilers swapping out two players for game against Devils",
+                "url": "https://dailyhive.com/edmonton/oilers-swapping-two-players-game-devils",
+                "urlToImg": "https://images.dailyhive.com/20221119121622/Derek-Ryan-Oilers.jpg",
+                "createdAt": "1730752722000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b011e",
+                "category": "sports",
+                "title": "Dry tonight with shower chances by late Monday",
+                "url": "https://ca.news.yahoo.com/dry-tonight-shower-chances-monday-234507316.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/cgNQcKoHO1JwanNHYSeZBw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.wmtw.hearstnews.com/eefa828eb53b83608fe0f94d7e38fd48",
+                "createdAt": "1730677507000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7e9",
+                "category": "sports",
+                "title": "‘I married my husband because my astrologer told me to’",
+                "url": "https://ca.style.yahoo.com/married-husband-because-astrologer-told-060000904.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/sF1ZpFidYOHxIQYIY2PaLg--~B/aD04MDE7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_independent_577/e687834645ef27d0cd43953c14d1e35f",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84b",
+                "category": "sports",
+                "title": "Who Is “Restaurant: Impossible” Host Robert Irvine's Wife? All About Gail Kim",
+                "url": "https://ca.news.yahoo.com/restaurant-impossible-host-robert-irvines-150000763.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/iDpCakfXh_R1107EGAbBOA--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/55df32c0ff552f69ebfccb53a8ea2377",
+                "createdAt": "1730646000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc86f",
+                "category": "sports",
+                "title": "Lionel Messi's MLS title chase could end in first round. There's no panic from Inter Miami",
+                "url": "https://ca.sports.yahoo.com/news/lionel-messis-mls-title-chase-175836871.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/6TPLOQeOi7PyZL3PjBp_ug--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/46f980dfcf95ec4cb019291c1dcf143b",
+                "createdAt": "1730656716000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c400",
+                "category": "sports",
+                "title": "Canada’s Fernandez falls to Shnaider of Russia in Hong Kong Open semifinal",
+                "url": "http://canoe.com/sports/tennis/canadas-fernandez-falls-to-shnaider-of-russia-in-hong-kong-open-semifinal/wcm/4f14d2d0-e684-4aeb-9987-82637c6bee3f",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2024/11/ten-hong-kong-open-canadians-20241102.jpg",
+                "createdAt": "1730565203000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc830",
+                "category": "sports",
+                "title": "Terracciano: Milan ‘help’ Leao in ‘difficult moment’ and don’t fear Real Madrid",
+                "url": "https://ca.sports.yahoo.com/news/terracciano-milan-help-leao-difficult-113200321.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/1z1RppNu_EUGboXqbPuzcQ--~B/aD04MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/football_italia_articles_132/bcf426b38655b2d02ff0650c2ca83456",
+                "createdAt": "1730633520000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01df",
+                "category": "sports",
+                "title": "New Utd boss Amorim: City job 'crossed my mind'",
+                "url": "https://www.espn.com/soccer/story/_/id/42189658/man-united-new-coach-amorim-admits-considering-man-city",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1104%2Fr1410286_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730743041000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80c",
+                "category": "sports",
+                "title": "Kemi Badenoch made ‘rape joke’ on social media in unearthed post",
+                "url": "https://ca.news.yahoo.com/kemi-badenoch-made-rape-joke-082819977.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/K4MTb8HDukB8DMqrQd3eSw--~B/aD04NTc7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_independent_577/c7575678f0894b486d910f77c2633a42",
+                "createdAt": "1730622499000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3bb",
+                "category": "sports",
+                "title": "How to watch Cruz Azul vs. Santos Laguna: Live stream Liga MX, TV channel info",
+                "url": "https://ca.sports.yahoo.com/news/watch-cruz-azul-vs-santos-105941601.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/KXcuqdfnAO13KGmU__S4kw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/33cb3529db9af95f10282e81429c312c",
+                "createdAt": "1730545181000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b0119",
+                "category": "sports",
+                "title": "A.J. Brown injury update: Eagles WR suffers knee injury in Week 9 game vs. Jaguars",
+                "url": "https://ca.sports.yahoo.com/news/j-brown-injury-eagles-wr-235000133.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/Ovtp0WZvkVIv2BM.KJzhBQ--~B/aD0xODM1O3c9Mjc1MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/usa_today_sports_articles_558/78f88a781023bdd06d4271243fea333a",
+                "createdAt": "1730677800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b013d",
+                "category": "sports",
+                "title": "Chapman beats Arenado to win fifth Gold Glove",
+                "url": "https://www.sportsnet.ca/mlb/article/chapman-beats-arenado-to-win-fifth-gold-glove/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/Matt-Chapman.jpg",
+                "createdAt": "1730688471000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc810",
+                "category": "sports",
+                "title": "Walthamstow bus station closes for safety works after pedestrian was killed by double decker",
+                "url": "https://ca.news.yahoo.com/walthamstow-bus-station-closes-safety-082413662.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/uqorRR61CYVbCVXgQR0f1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMTtjZj13ZWJw/https://media.zenfs.com/en/evening_standard_239/114473f7b976be4b582ff0d27c4b012f",
+                "createdAt": "1730622253000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c428",
+                "category": "sports",
+                "title": "AC Milan boss offers update on Rafael Leao to Barcelona rumours",
+                "url": "https://ca.sports.yahoo.com/news/ac-milan-boss-offers-rafael-205200863.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/sjBByLGUFqEgHPpf0M77eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/football_espana_articles_993/a5006552677bfbe616c66fdf1c74ca3c",
+                "createdAt": "1730580720000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67278ff1170d4eec274cc7cf",
+                "category": "sports",
+                "title": "Johnson and Paul lead Spurs past Timberwolves 113-103 as Popovich misses game with illness",
+                "url": "https://www.thestar.com/sports/basketball/johnson-and-paul-lead-spurs-past-timberwolves-113-103-as-popovich-misses-game-with-illness/article_f478b62f-de08-5135-acd0-3b0eca90c64d.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/a2/3a261505-b388-5d1d-ab57-11c92d38c9c9/6726e61b20dbc.image.jpg?resize=300%2C200",
+                "createdAt": "1730602275000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c405",
+                "category": "sports",
+                "title": "Rohit Bal, one of India's best-known fashion designers, dies at 63",
+                "url": "https://ca.news.yahoo.com/rohit-bal-one-indias-best-175624510.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/pMZx82AiAS6PS3f.t43eFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/cp_news_842/26e231f365045eb52430f16188768256",
+                "createdAt": "1730570184000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67278ff1170d4eec274cc7c6",
+                "category": "sports",
+                "title": "Gradey Dick clutches up at both ends to lead Raptors in overtime",
+                "url": "https://www.sportsnet.ca/nba/video/gradey-dick-clutches-up-at-both-ends-to-lead-raptors-in-overtime/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364137126112.jpg",
+                "createdAt": "1730602701000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc875",
+                "category": "sports",
+                "title": "Rachel Reeves: I was wrong to say we didn’t need higher taxes",
+                "url": "https://ca.news.yahoo.com/allowing-farmers-avoid-inheritance-tax-122011573.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/GvSawaRLg._Pbe2EmB0Yig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/1b93a3fc2e3c14841488da1f6f41bfeb",
+                "createdAt": "1730656571000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0201",
+                "category": "sports",
+                "title": "Cardinals add linebacker Baron Browning in a trade with Broncos, bolstering the team's pass rush",
+                "url": "https://www.thestar.com/sports/football/cardinals-add-linebacker-baron-browning-in-a-trade-with-broncos-bolstering-the-teams-pass-rush/article_f9381de5-1b97-524f-b750-abdb5f0dbb1c.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/72/e72bd227-09d4-5e11-a506-38c6faf571ba/6729338e19dc5.image.jpg?resize=300%2C204",
+                "createdAt": "1730753326000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82e",
+                "category": "sports",
+                "title": "From courtroom to candidate: What Harris's years as a prosecutor tell us about her",
+                "url": "https://ca.news.yahoo.com/courtroom-candidate-harriss-years-prosecutor-084756841.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/I_aWFGScQTUZ9QFAOgYlqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/188c0f046bad7574d647ddf59840b6ae",
+                "createdAt": "1730633548000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3d8",
+                "category": "sports",
+                "title": "Paris to restrict cars from city centre in controversial Socialist scheme",
+                "url": "https://ca.news.yahoo.com/paris-restrict-cars-city-centre-135604150.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/lhG49uwLyMBn52Ew5ohUSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03Nzg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/db3b458caa91f43b20f550948fe753f2",
+                "createdAt": "1730555764000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3dd",
+                "category": "sports",
+                "title": "Biodesix Third Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+                "url": "https://ca.finance.yahoo.com/news/biodesix-third-quarter-2024-earnings-135144003.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/5Vpve0Pc2F3m_L3fs2p_dQ--~B/aD02MzY7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/78a8c60a6283aea0450523395306d38c",
+                "createdAt": "1730555504000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b013b",
+                "category": "sports",
+                "title": "NFL Highlights: Panthers 23, Saints 22",
+                "url": "https://www.sportsnet.ca/nfl/video/nfl-highlights-panthers-23-saints-22/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364163724112.jpg",
+                "createdAt": "1730688619000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0200",
+                "category": "sports",
+                "title": "RB Christian McCaffrey returns to 49ers practice, reportedly could play Sunday vs. Buccaneers",
+                "url": "https://sports.yahoo.com/rb-christian-mccaffrey-returns-to-49ers-practice-reportedly-could-play-sunday-vs-buccaneers-205031173.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/ii5m.Xpcdz2WbB9tT4ox2w--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/77d6b3b0-9797-11ef-aff6-fa3392d1004f",
+                "createdAt": "1730753431000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7ef",
+                "category": "sports",
+                "title": "Overcoming the loss of Connor McDavid a true test of team for the Edmonton Oilers: 9 Things",
+                "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/overcoming-the-loss-of-connor-mcdavid-a-true-test-of-team-for-the-edmonton-oilers-9-things",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2024/11/cp173443909.jpg?h=216&quality=90&sig=GLi2aR52ORKdsHgGYZt5JA&strip=all&w=288",
+                "createdAt": "1730613530000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c424",
+                "category": "sports",
+                "title": "Supporters dressed as garbage, supporters leaving early. Can Trump defend himself in North Carolina?",
+                "url": "https://ca.news.yahoo.com/supporters-dressed-garbage-supporters-leaving-205636506.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Y7D_OJtBf.A4kSytjaoufQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/the_independent_577/53ff99ba715cefed4737ef6ebd24f04c",
+                "createdAt": "1730580996000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b017e",
+                "category": "sports",
+                "title": "Pacers vs. Mavericks: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/pacers-vs-mavericks-start-time-083425333.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/LpJFYZpl8wxyNUc762NhmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1MA--/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/776a370a2244c5cd1fe4aa0311555992",
+                "createdAt": "1730709265000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c39a",
+                "category": "sports",
+                "title": "When family is long gone, who takes care of Eastern Townships cemeteries?",
+                "url": "https://ca.news.yahoo.com/family-long-gone-takes-care-080000661.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/BQjYyjm7VtKQR0cKVLTsog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/58d87a7153a3c12b78c5e20a13f17d4b",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c6c",
+                "category": "sports",
+                "title": "Ronald Holland II with a 2-pointer vs the Los Angeles Lakers",
+                "url": "https://ca.sports.yahoo.com/video/ronald-holland-ii-2-pointer-025810098.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/vbIQshuMz7Oaeh1MajJAbQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d1d85b42-2f4d-4cdb-b964-81fdfdb6066e/main/1280x720/7s818ms/match/image.jpg",
+                "createdAt": "1730775490000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80f",
+                "category": "sports",
+                "title": "Returns At IMCD (AMS:IMCD) Appear To Be Weighed Down",
+                "url": "https://ca.finance.yahoo.com/news/returns-imcd-ams-imcd-appear-082455370.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/DSVnwZKEypugE5XiS5bHWw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7d457e118489e6e5357eb5fd232e46f8",
+                "createdAt": "1730622295000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3fe",
+                "category": "sports",
+                "title": "Two goals for Harry Kane as Bayern Munich beats Union Berlin. Frankfurt scores 7",
+                "url": "https://www.thestar.com/sports/soccer/two-goals-for-harry-kane-as-bayern-munich-beats-union-berlin-frankfurt-scores-7/article_e70bf9c2-1b00-5044-b16f-dc790b062f1f.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/24/e240446a-52fc-5052-8fe8-736597ea0214/672657220a4ca.image.jpg?resize=300%2C210",
+                "createdAt": "1730565598000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b0115",
+                "category": "sports",
+                "title": "Eagles lose star receiver A.J. Brown against Jaguars to knee injury",
+                "url": "https://www.sportsnet.ca/nfl/article/eagles-lose-star-receiver-a-j-brown-against-jaguars-to-knee-injury/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/aj-brow.jpg",
+                "createdAt": "1730678392000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01dc",
+                "category": "sports",
+                "title": "Lions weigh up rolling dice on Las Vegas fixture for 2029 New Zealand tour",
+                "url": "https://www.theguardian.com/sport/2024/nov/04/british-irish-lions-weigh-up-las-vegas-fixture-2029-new-zealand-tour",
+                "urlToImg": "https://i.guim.co.uk/img/media/124196cb39a2a5dc03e5398c42cedb2e9fe42ac5/341_38_1887_1132/master/1887.jpg?auto=format&enable=upscale&fit=crop&height=630&overlay-align=bottom%2Cleft&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&overlay-width=100p&quality=85&s=795f8daacf926869e60ffd123c165bcf&width=1200",
+                "createdAt": "1730743200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b0199",
+                "category": "sports",
+                "title": "Rough sleepers living in shadows of London’s Square Mile face abuse ‘just for being homeless’",
+                "url": "https://ca.news.yahoo.com/rough-sleepers-living-shadows-london-114138783.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Oq6Kt6OOQ_iQW7suhe4WYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMA--/https://media.zenfs.com/en/evening_standard_239/a5daabf8fa4e0e500bbb6430ff34e3d6",
+                "createdAt": "1730720498000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c409",
+                "category": "sports",
+                "title": "Trump Signs Replica Plane Before Campaign Rally at Gastonia Airport",
+                "url": "https://ca.news.yahoo.com/trump-signs-replica-plane-campaign-175356431.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/Wb4HzAwDpCv80au01bG83Q--~B/aD0zMzg7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.storyful.com/dd1bac85f8dd27ce768d7e7094014ba7",
+                "createdAt": "1730570036000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7ec",
+                "category": "sports",
+                "title": "How I fell out of love with the Noughties’ most notorious celebrity workout",
+                "url": "https://ca.style.yahoo.com/fell-love-noughties-most-notorious-060000332.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/zECKtEwE1ISkapsl8Bgx7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_independent_577/fe36242b606c0566f8408485e337b4fb",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0204",
+                "category": "sports",
+                "title": "Orioles exercise options on O’Hearn, Dominguez and Perez, decline Coulombe",
+                "url": "https://www.sportsnet.ca/mlb/article/orioles-exercise-options-on-ohearn-dominguez-and-perez-decline-coulombe/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/OHearn.jpg",
+                "createdAt": "1730752297000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01bd",
+                "category": "sports",
+                "title": "How Orlando went from a laughingstock to record holders in the NWSL",
+                "url": "https://www.espn.com/soccer/story/_/id/42153801/from-laughingstock-record-holders-orlando-prides-nwsl-journey",
+                "urlToImg": "https://a4.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1007%2Fr1397454_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730732032000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b015b",
+                "category": "sports",
+                "title": "Pospisil’s sloppy penalty adds to Flames’ recent woes: ‘It’s not ok’",
+                "url": "https://www.sportsnet.ca/nhl/article/pospisils-sloppy-penalty-adds-to-flames-recent-woes-its-not-ok/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/Martin-Pospisil.jpg",
+                "createdAt": "1730698885000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b01fe",
+                "category": "sports",
+                "title": "Steelers CB Cam Sutton returns from 8-game suspension hoping to find a role on elite defense",
+                "url": "https://www.thestar.com/sports/football/steelers-cb-cam-sutton-returns-from-8-game-suspension-hoping-to-find-a-role-on/article_6fe8b46e-c0d4-5716-9d19-417c4ff93f42.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/9b/f9bd9c59-03d3-5e72-85b6-d6a3ccf02064/672935e625ccc.image.jpg?resize=300%2C200",
+                "createdAt": "1730753692000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc872",
+                "category": "sports",
+                "title": "Ligue 1 Roundup: Reims misses chance to climb table after loss to Toulouse",
+                "url": "https://www.sportsnet.ca/ligue-1/article/ligue-1-roundup-reims-misses-chance-to-climb-table-after-loss-to-toulouse/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2018/11/SN-Ligue-1-news.jpeg",
+                "createdAt": "1730656618000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80b",
+                "category": "sports",
+                "title": "A return visit to Kennedy Space Center and a chance astronaut encounter changed my perspective on life",
+                "url": "https://ca.style.yahoo.com/return-visit-kennedy-space-center-083000313.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/PnBDU9.bVDwVJ4Y1fPn0sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://media.zenfs.com/en/hello__263/003a5d84ead03c1e9dca4f0c3a50a5a3",
+                "createdAt": "1730622600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b6",
+                "category": "sports",
+                "title": "Shemar Moore Reveals How His Mother's Death Changed His Life and Helped Him Become a Dad: 'Wow, I Was Selfish' (Exclusive)",
+                "url": "https://ca.news.yahoo.com/shemar-moore-reveals-mothers-death-110000699.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/YT_4Sy8NZ.jlahMYEpaCyA--~B/aD00ODA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/people_218/911ea3298591f8fe7f3cfe1051045497",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3ba",
+                "category": "sports",
+                "title": "NEWS OF THE WEEK: Sean 'Diddy' Combs accused of raping 10-year-old boy",
+                "url": "https://ca.news.yahoo.com/news-week-sean-diddy-combs-110000979.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/XKg1XcHoJ2zlT20EWZvtgw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cover_media_989/d34997253625dccf2f4f05d8086b8b66",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c399",
+                "category": "sports",
+                "title": "'They added the magic': Founders of Yukon's bluegrass festival named to hall of fame",
+                "url": "https://ca.news.yahoo.com/added-magic-founders-yukons-bluegrass-080000663.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/3y9uDLpmA6x5dF0YUu_1BA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ0Mg--/https://media.zenfs.com/en/cbc.ca/9794d8f2d99d43f8a997b115ff94013a",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c47",
+                "category": "sports",
+                "title": "Vikings are winning with — not in spite of — Sam Darnold midway through this surprise of a season",
+                "url": "https://www.thestar.com/sports/nfl/vikings-are-winning-with-not-in-spite-of-sam-darnold-midway-through-this-surprise-of/article_f7177d33-372c-505d-93e7-909981fe29a7.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/b6/2b63b073-2d01-59ee-9629-84090cf20391/67295dbe1d01a.image.jpg?resize=300%2C200",
+                "createdAt": "1730763900000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c4b",
+                "category": "sports",
+                "title": "World silver medalist Isabeau Levito withdraws from figure skating's Finlandia Trophy",
+                "url": "https://www.thestar.com/sports/skating/world-silver-medalist-isabeau-levito-withdraws-from-figure-skatings-finlandia-trophy/article_8b899747-5907-509b-a26a-6efaa113b6cc.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/da/3da8fdaf-5830-5937-9d5d-44c6bf2499fa/67295c9234feb.image.jpg?resize=300%2C200",
+                "createdAt": "1730763504000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e0",
+                "category": "sports",
+                "title": "Spain floods see Copa games postponed again",
+                "url": "https://www.espn.com/soccer/story/_/id/42189336/copa-del-rey-games-postponed-again-due-spain-floods",
+                "urlToImg": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1104%2Fr1410280_1296x729_16-9.jpg",
+                "createdAt": "1730743041000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc809",
+                "category": "sports",
+                "title": "Magic vs. Mavericks: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/magic-vs-mavericks-start-time-083025592.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/S7q7sQKmH0RPF2YbfP9ntw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ1MA--/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/1c6db371d098eaba60116bbd08c52930",
+                "createdAt": "1730622625000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc893",
+                "category": "sports",
+                "title": "Montreal Toundra cancels its upcoming pro basketball season",
+                "url": "https://ca.news.yahoo.com/montreal-toundra-cancels-upcoming-pro-205322624.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/vb3kV4e6_W1oraMAiJ2veg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/d55a1951d0b19ec3a61433b62fefb950",
+                "createdAt": "1730667202000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3d9",
+                "category": "sports",
+                "title": "Nice fall weekend",
+                "url": "https://ca.news.yahoo.com/nice-fall-weekend-135535980.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/SMn.8EfTb4RKieCefA0Lcg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.wxyz.scripps.com/f1513264003d5ec4e0d9d913c5ab45cd",
+                "createdAt": "1730555735000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7a9",
+                "category": "sports",
+                "title": "Raptors to retire Vince Carter's number at Saturday game",
+                "url": "https://www.cbc.ca/news/canada/toronto/vince-carter-retirement-number-ceremony-1.7372131?cmp=rss",
+                "urlToImg": "https://i.cbc.ca/1.7366775.1730219947!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/51964634.jpg",
+                "createdAt": "1730591879000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01bb",
+                "category": "sports",
+                "title": "Vancouver Whitecaps keep playoff drive alive with 3-0 win over LAFC",
+                "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-whitecaps-lafc-1.7372539?cmp=rss",
+                "urlToImg": "https://i.cbc.ca/1.7372638.1730700782!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/soc-mls-lafc-whitecaps-20241103.jpg",
+                "createdAt": "1730732098000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c65",
+                "category": "sports",
+                "title": "New U.S. citizen votes for first time in America",
+                "url": "https://ca.news.yahoo.com/u-citizen-votes-first-time-025944488.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/IqkQOqkg7MXXiXmQQ_sIzw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.kgtv.scripps.com/e326988a72abfc5f7823b88af2840e31",
+                "createdAt": "1730775584000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80a",
+                "category": "sports",
+                "title": "Hawks vs. Pelicans: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/hawks-vs-pelicans-start-time-083022108.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/h2MaPfN87oAK8PSEQ9n_Kw--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/e8f9338961a83e60c6549c8ef5db71f2",
+                "createdAt": "1730622622000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b015d",
+                "category": "sports",
+                "title": "Leon Draisaitl filling the void left by injured Oilers' captain Connor McDavid",
+                "url": "https://www.princegeorgecitizen.com/national-sports/leon-draisaitl-filling-the-void-left-by-injured-oilers-captain-connor-mcdavid-9752627",
+                "urlToImg": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/11/f593fe8d1b84e74fbebae3ac2be546f96ec1c0784b7bbf49f53f64e5db052534.jpg;w=960",
+                "createdAt": "1730698875000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b9",
+                "category": "sports",
+                "title": "Woman sues, alleging Kansas prison system ignored health problems, now in kidney failure",
+                "url": "https://ca.news.yahoo.com/woman-sues-alleging-kansas-prison-110000209.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/7q5voG537WWbP0Eqlx7WhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/kansas_city_star_mcclatchy_articles_677/613016d058f3423f247bf7c1c37aba7c",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc86e",
+                "category": "sports",
+                "title": "William’s visit to South Africa will highlight Earthshot Prize",
+                "url": "https://ca.news.yahoo.com/william-visit-south-africa-highlight-180000925.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/1eMFxbPvgCuYC6tRROhV5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/pa_viral_news_uk_120/c15855692a49090ecaae99c262e25144",
+                "createdAt": "1730656800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc831",
+                "category": "sports",
+                "title": "Man dies and six others rushed to hospital after horror car crash in Cornwall",
+                "url": "https://ca.news.yahoo.com/man-dies-six-others-rushed-113134121.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/RJMoxbGQaMCOAK.Zj1CS1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/evening_standard_239/964141174b8d2007a6c3f7d2bb21adb0",
+                "createdAt": "1730633494000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b0158",
+                "category": "sports",
+                "title": "China space station crew returns to Earth after 6 months in space",
+                "url": "https://ca.news.yahoo.com/china-space-station-crew-returns-054753540.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/4m_SrUu2vzXZWZYyGA423Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/cp_news_842/06d255d1adade1e23e673ad672855fb4",
+                "createdAt": "1730699273000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c66",
+                "category": "sports",
+                "title": "Elon Musk can keep giving $1m to voters, judge rules",
+                "url": "https://ca.news.yahoo.com/voters-receive-1m-musk-not-222148415.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Fs3E.ishdJY6CmWzuXzHNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/bbc_us_articles_995/550dde3aa01d51e7591dce46b5685682",
+                "createdAt": "1730775498000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c425",
+                "category": "sports",
+                "title": "Celtics guard Jaylen Brown out vs. Hornets, listed as day-to-day with left hip flexor strain",
+                "url": "https://ca.sports.yahoo.com/news/celtics-guard-jaylen-brown-vs-205552726.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/sIB3yDFVnjQu9f4FyxOLsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/cp_sports_913/7e0d2ba7874b84ee91c0e70a71416663",
+                "createdAt": "1730580952000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b0159",
+                "category": "sports",
+                "title": "Israel officially informs UN of end to relations with Palestinian relief agency",
+                "url": "https://ca.news.yahoo.com/israel-officially-informs-un-end-054714972.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/QkP1bV8t7RA9C.6fzR8feg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjA7Y2Y9d2VicA--/https://media.zenfs.com/en/reuters.com/fc416813cb04091c15071f36b4dcbcad",
+                "createdAt": "1730699234000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3da",
+                "category": "sports",
+                "title": "Peru high school football dominates Plattsburgh to punch ticket to Class B sectional championship",
+                "url": "https://ca.news.yahoo.com/peru-high-school-football-dominates-135507619.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/IPWlWsysY6v0z_dlMlaxVg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.wptz.hearstnews.com/9a9ba1d08af356be45533f0098afa8fc",
+                "createdAt": "1730555707000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3f7",
+                "category": "sports",
+                "title": "Canada's Leylah Fernandez bounced in Hong Kong Open semis",
+                "url": "https://www.cbc.ca/sports/tennis/leylah-fernandez-hong-kong-open-tennis-roundup-november-2-1.7370498?cmp=rss",
+                "urlToImg": "https://i.cbc.ca/1.7369167.1730382741!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fernandez-leylah-241010-1180.jpg",
+                "createdAt": "1730566695000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c398",
+                "category": "sports",
+                "title": "12 surprising things your dog might fear",
+                "url": "https://ca.style.yahoo.com/12-surprising-things-dog-might-080000122.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/9lNlNOGcyKy2JwW8ONWaNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02MjE7Y2Y9d2VicA--/https://media.zenfs.com/en/country_living_645/989638f52f0e0e16c57e1b85e2e15dce",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc853",
+                "category": "sports",
+                "title": "PSG’s Randal Kolo Muani subject of Premier League approaches",
+                "url": "https://ca.sports.yahoo.com/news/psg-randal-kolo-muani-subject-145600337.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/sUFy97PzUHYst0zVFyOfCg--~B/aD04NzY7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/get_french_football_news_702/96de4120faa3a81a6d0bf224fccae968",
+                "createdAt": "1730645760000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019f",
+                "category": "sports",
+                "title": "New Tory leader Kemi Badenoch tells staff they can turn it around in a term",
+                "url": "https://ca.news.yahoo.com/tory-leader-kemi-badenoch-tells-113726808.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/6Y07HBFrF_mANuRA5.91Cg--~B/aD0yNTI5O3c9NDQ5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pa_viral_news_uk_120/b4fc2995ad8c891201f7fc4dde3e695a",
+                "createdAt": "1730720246000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c376",
+                "category": "sports",
+                "title": "NBA Highlights: Lakers 131, Raptors 125",
+                "url": "https://www.sportsnet.ca/nba/video/nba-highlights-lakers-131-raptors-125/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364107969112.jpg",
+                "createdAt": "1730523003000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc829",
+                "category": "sports",
+                "title": "Chancellor defends proposed changes to inheritance tax on farms",
+                "url": "https://ca.finance.yahoo.com/news/chancellor-defends-proposed-changes-inheritance-113622426.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/Ctvr7JkWbcRoaDxQauGnFQ--~B/aD0zMzc1O3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/snappa.ukfinance/b1cca035b9d384d301b22271fe2ed0b0",
+                "createdAt": "1730633782000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b0117",
+                "category": "sports",
+                "title": "Coldplay’s Chris Martin Has Shocking Fall Onstage While Performing In Australia",
+                "url": "https://ca.news.yahoo.com/coldplay-chris-martin-shocking-fall-235227679.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/L2ghRsSnobKUC5TKIrdpfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02MjI7Y2Y9d2VicA--/https://media.zenfs.com/en/the_huffington_post_584/fbfde589a9a1d7f3c57b617fd1dfe888",
+                "createdAt": "1730677947000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b7",
+                "category": "sports",
+                "title": "Stressed about the election like everyone else, KC? Take break, eat, pray, cuddle",
+                "url": "https://ca.style.yahoo.com/stressed-election-everyone-else-kc-110000137.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/g.uwZ1REazltEq6RIB6C0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/kansas_city_star_mcclatchy_articles_677/4fb76d1d2958412984cfea026549f7b4",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c63",
+                "category": "sports",
+                "title": "UFC Fight Night 246 reactions: Winning and losing fighters on social media",
+                "url": "https://ca.sports.yahoo.com/news/ufc-fight-night-246-reactions-030000845.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/0IPi6GQmJgbN6VJZBvm4vQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/mma_junkie_usa_today_articles_344/6a35e60e1b4bf895983c626db474c8cc",
+                "createdAt": "1730775600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3dc",
+                "category": "sports",
+                "title": "Nick Saban wears Nittany Lion costume for College GameDay at Penn State",
+                "url": "https://ca.news.yahoo.com/nick-saban-wears-nittany-lion-135155539.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/40xgKmuLKEMqek2Hbo_XSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03Mzk7Y2Y9d2VicA--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/53376ed6d3f24f4f9fd51ccae2a18405",
+                "createdAt": "1730555515000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7ab",
+                "category": "sports",
+                "title": "Transfer rumors, news: Arsenal, Spurs eye Brighton's Baleba",
+                "url": "https://www.espn.com/soccer/story/_/id/42149201/soccer-transfer-rumors-news-arsenal-spurs-eye-brightons-carlos-baleba",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1102%2Fr1409539_1296x729_16-9.jpg",
+                "createdAt": "1730591782000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c37b",
+                "category": "sports",
+                "title": "Gilgeous-Alexander scores 30 points and Thunder stay unbeaten with 137-114 win over Trail Blazers",
+                "url": "https://www.thestar.com/sports/basketball/gilgeous-alexander-scores-30-points-and-thunder-stay-unbeaten-with-137-114-win-over-trail/article_672025f6-5596-50c8-a3f9-912e7d943c93.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/d0/8d0ae771-a0d2-5fa2-b526-41004e9a8811/6725ae6203afe.image.jpg?resize=300%2C171",
+                "createdAt": "1730522453000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc892",
+                "category": "sports",
+                "title": "Mic drop: How Bryan Battle broke through UFC invisibility by embracing 'the bad guy'",
+                "url": "https://ca.sports.yahoo.com/news/mic-drop-how-bryan-battle-broke-through-ufc-invisibility-by-embracing-the-bad-guy-205346753.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/gwIU032xnKUv12CGqMGkEg--~B/aD00NjgyO3c9NzAyMzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/263d5020-9a23-11ef-bad3-3942dcaaef4f",
+                "createdAt": "1730667226000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c64",
+                "category": "sports",
+                "title": "Michael Bublé Steals a Country Singer on “The Voice” for His Final 'Piece of the Puzzle' — Find Out Who It Is",
+                "url": "https://ca.news.yahoo.com/michael-bubl-steals-country-singer-030000811.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/SNmvu9BEwZzfouroL0GX1A--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/054fef4ead44c63d045d7eda79e405e5",
+                "createdAt": "1730775600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3f9",
+                "category": "sports",
+                "title": "Two goals for Harry Kane as Bayern Munich beats Union Berlin",
+                "url": "https://www.sportsnet.ca/bundesliga/article/two-goals-for-harry-kane-as-bayern-munich-beats-union-berlin/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/harry-kane-bayern.jpg",
+                "createdAt": "1730566638000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c68",
+                "category": "sports",
+                "title": "Gisele Bündchen Is Embracing 'This New Chapter Openly' amid Third Pregnancy (Exclusive)",
+                "url": "https://ca.news.yahoo.com/gisele-b-ndchen-embracing-chapter-025814651.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/DRsqz4yKQkkl9g6SG6YjhQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/b00d45cf90598c0e9e2c933c516bd3ed",
+                "createdAt": "1730775494000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc851",
+                "category": "sports",
+                "title": "Malard header earns Manchester United draw against Arsenal after Russo opener",
+                "url": "https://ca.sports.yahoo.com/news/malard-header-earns-manchester-united-145738916.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/rk9ELaJFoWENLMpt4.NnJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NDtjZj13ZWJw/https://media.zenfs.com/en/theguardian_763/17519bd241be45d3c2a7e8bf3b371c49",
+                "createdAt": "1730645858000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc873",
+                "category": "sports",
+                "title": "Civil rights campaigner Paul Stephenson dies aged 87",
+                "url": "https://ca.news.yahoo.com/civil-rights-campaigner-paul-stephenson-175625451.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/NacTGX6ppTs7hLB5r60AQQ--~B/aD0yNTQ1O3c9NDUyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pa_viral_news_uk_120/eb73852abff0161fc3fd8ff4c8eb4442",
+                "createdAt": "1730656585000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84f",
+                "category": "sports",
+                "title": "Ranking South Carolina MBB’s nonconference schedule from hardest to easiest",
+                "url": "https://ca.sports.yahoo.com/news/ranking-south-carolina-mbb-nonconference-145900523.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/k..5GZS87I8_K4vzicDbDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/charlotte_observer_mcclatchy_513/27ca00b11e66bdef5a536cba8eebf960",
+                "createdAt": "1730645940000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b0157",
+                "category": "sports",
+                "title": "Raiders fire offensive coordinator Luke Getsy and 2 other offensive coaches",
+                "url": "https://www.thestar.com/sports/football/raiders-fire-offensive-coordinator-luke-getsy-and-2-other-offensive-coaches/article_f7f15268-2d78-5f73-8896-b332962a1401.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/64/a641e7f6-c03e-5059-b708-8ad0b40ccbd7/672861ca12f82.image.jpg?resize=300%2C201",
+                "createdAt": "1730699538000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01ba",
+                "category": "sports",
+                "title": "Canada coach calls in 19 players in advance of CONCACAF Nations League quarterfinal",
+                "url": "https://www.thestar.com/sports/canada-coach-calls-in-19-players-in-advance-of-concacaf-nations-league-quarterfinal/article_239b865e-9af5-575d-8caf-a0eb6c8449ae.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/de/fdeeee3f-83fd-5e9c-8bbb-2bf911d96334/6728e2a3671e4.image.jpg?resize=300%2C213",
+                "createdAt": "1730732400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3d7",
+                "category": "sports",
+                "title": "Trump will spend every day until the election in North Carolina, a swing state he won twice",
+                "url": "https://ca.news.yahoo.com/trump-spend-every-day-until-135618873.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/f.m199j9wzmQe3JXZwLrBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/ap.org/c5b5e6cf950fbcfa4d6e806d98ab1635",
+                "createdAt": "1730555778000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc86c",
+                "category": "sports",
+                "title": "Greggs enlists Nigella Lawson to star in its first Christmas ad",
+                "url": "https://ca.news.yahoo.com/greggs-enlists-nigella-lawson-star-180000474.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/JAw.n6kmrp9HyZgCXoex4w--~B/aD0zNzgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pa_viral_news_uk_120/0680f2b9621c63101aa3f3f12eb001ac",
+                "createdAt": "1730656800000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7e7",
+                "category": "sports",
+                "title": "Clint Eastwood is ‘overrated’? That couldn’t be further from the truth",
+                "url": "https://ca.news.yahoo.com/clint-eastwood-overrated-couldn-t-060000137.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/C761VsA2VMsGMqwFcUjZYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/the_independent_577/acb8b94bf92b7f2bece0c6faf4a6b2ae",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c374",
+                "category": "sports",
+                "title": "Sinclair scores in retirement match, Thorns down Angel City 3-0 to clinch playoff spot before 23,000",
+                "url": "https://www.thestar.com/sports/soccer/sinclair-scores-in-retirement-match-thorns-down-angel-city-3-0-to-clinch-playoff-spot/article_3f1c9220-b0c8-50b3-adcc-b783c12d213d.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/64/964942bc-34b5-5f90-b95b-f1f976254972/6725b0ba2bcc6.image.jpg?resize=300%2C200",
+                "createdAt": "1730523080000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c42b",
+                "category": "sports",
+                "title": "Lisa LaFlamme, 60, says she's 'not trying to look young' in new beauty campaign: 'I'm trying to age well, age with grace'",
+                "url": "https://ca.style.yahoo.com/lisa-laflamme-60-says-shes-not-trying-to-look-young-in-new-beauty-campaign-im-trying-to-age-well-age-with-grace-205041251.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/5Gdq6qM0DMmZQcsoxBTD7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/e0d9de30-9951-11ef-bf7e-3462041d6605",
+                "createdAt": "1730580641000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b0116",
+                "category": "sports",
+                "title": "Zion Williamson scratched from the Pelicans' lineup against Hawks with hamstring tightness",
+                "url": "https://www.thestar.com/sports/basketball/zion-williamson-scratched-from-the-pelicans-lineup-against-hawks-with-hamstring-tightness/article_e0618a21-43b5-554b-99e8-d860a1d604c3.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/d8/2d890345-f13d-55a7-b231-78ddba5fe561/67280e968f187.image.jpg?resize=300%2C200",
+                "createdAt": "1730678219000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b017b",
+                "category": "sports",
+                "title": "Spurs vs. Clippers: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/spurs-vs-clippers-start-time-083435397.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/4byPIWdsH1S0sb_A0bnGfg--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/1e104561e0f3524f7e5adafd311b0dd1",
+                "createdAt": "1730709275000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c46",
+                "category": "sports",
+                "title": "Nathan Eovaldi headed to free agency after declining option with Rangers",
+                "url": "https://www.sportsnet.ca/mlb/article/nathan-eovaldi-headed-to-free-agency-after-declining-option-with-rangers/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2023/10/CP1688033291.jpg",
+                "createdAt": "1730764245000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e5",
+                "category": "sports",
+                "title": "Suspended Valeri Nichushkin cleared to practice with Avalanche, remains in player assistance program",
+                "url": "https://www.thestar.com/sports/hockey/suspended-valeri-nichushkin-cleared-to-practice-with-avalanche-remains-in-player-assistance-program/article_41388bc1-3472-5742-bf64-c046a0aafb5f.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/55/d5538c03-aa39-5f5a-a4e5-0433a26ae2e8/67290a8a1f9f0.image.jpg?resize=300%2C200",
+                "createdAt": "1730742736000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01c1",
+                "category": "sports",
+                "title": "Aspinall? Jones? Ngannou? Who is the best heavyweight in the world right now?",
+                "url": "https://www.espn.com/mma/story/_/id/42173151/best-mma-heavyweight-right-now-tom-aspinall-jon-jones-francis-ngannou",
+                "urlToImg": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1103%2Fr1409935_1296x729_16-9.jpg",
+                "createdAt": "1730731128000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7a6",
+                "category": "sports",
+                "title": "2nd District: ‘MAGA Republican’ Hart challenges 12-term Democrat Larsen for U.S. House seat",
+                "url": "https://ca.news.yahoo.com/2nd-district-maga-republican-hart-000000311.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/3TC3ZFSyqbye0wo8dUU1lg--~B/aD03NjA7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bellingham_herald_mcclatchy_articles_552/f28f94afc3c786ea034fdd2522bca173",
+                "createdAt": "1730592000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c373",
+                "category": "sports",
+                "title": "NBA Highlights: Pelicans 125, Pacers 118",
+                "url": "https://www.sportsnet.ca/nba/video/nba-highlights-pelicans-125-pacers-118/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364109319112.jpg",
+                "createdAt": "1730523457000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7eb",
+                "category": "sports",
+                "title": "Best spa hotels in Edinburgh: Where to stay for luxury rooms and rejuvenation",
+                "url": "https://ca.news.yahoo.com/best-spa-hotels-edinburgh-where-060000117.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/BQxDJcqxmz7uz0cH.vd6dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/the_independent_577/38b3b5410d5a96637f9b4d20532c48b6",
+                "createdAt": "1730613600000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c375",
+                "category": "sports",
+                "title": "Canada's Sinclair scores in her retirement match and the Thorns down Angel City 3-0",
+                "url": "https://www.thestar.com/sports/soccer/canadas-sinclair-scores-in-her-retirement-match-and-the-thorns-down-angel-city-3-0/article_3f1c9220-b0c8-50b3-adcc-b783c12d213d.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/64/964942bc-34b5-5f90-b95b-f1f976254972/6725b0ba2bcc6.image.jpg?resize=300%2C200",
+                "createdAt": "1730523080000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e1",
+                "category": "sports",
+                "title": "Ancelotti: Football should stop amid Spain floods",
+                "url": "https://www.espn.com/soccer/story/_/id/42188483/real-madrids-ancelotti-football-stop-amid-spain-floods",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0926%2Fr1392193_1296x729_16-9.jpg",
+                "createdAt": "1730743041000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b0138",
+                "category": "sports",
+                "title": "Automation key sticking point in B.C. ports labour dispute",
+                "url": "https://ca.news.yahoo.com/automation-key-sticking-point-b-025203216.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/MmvDq1Qei2.6QCZk7OORnw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.globalnews.com/0b37e19d429e32dd40edb2be41b4b144",
+                "createdAt": "1730688723000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b011d",
+                "category": "sports",
+                "title": "Family searches for answers in Saturday night KCK hit-and-run",
+                "url": "https://ca.news.yahoo.com/family-searches-answers-saturday-night-234533500.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/b_GcQg43m_5iQUKUGESkVQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.kshb.scripps.com/c19c6fe47a54499d0fbcea1420107d89",
+                "createdAt": "1730677533000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c42c",
+                "category": "sports",
+                "title": "'A long way back now' - what is going wrong at Arsenal?",
+                "url": "https://ca.sports.yahoo.com/news/long-way-back-now-going-205035094.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/wY7pU9jeldcLwiR0HBkDeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/ae6705be60f0ce4a2f58cb28a61163d6",
+                "createdAt": "1730580635000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7f0",
+                "category": "sports",
+                "title": "People with dementia to trial talking photo frames",
+                "url": "https://ca.news.yahoo.com/people-dementia-trial-talking-photo-055257141.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/.bUYiwVmb.QS7Scm4Porgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
+                "createdAt": "1730613177000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc852",
+                "category": "sports",
+                "title": "'Weirdest save I've made ever': Keeper stops certain goal while tangled in net",
+                "url": "https://www.espn.com/soccer/story/_/id/42166941/goalkeepers-stunning-point-blank-save-tangled-net",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1103%2Fr1409725_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730645841000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c402",
+                "category": "sports",
+                "title": "Chandler Kinney Is \"Frustrated\" With Carrie Ann Inaba's ‘DWTS’ Critiques",
+                "url": "https://ca.news.yahoo.com/chandler-kinney-frustrated-carrie-ann-180000976.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/XwDCP08cj_ooYjfe1Xo6xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/good_housekeeping_561/f0eea64b5da0b93b529f120a558f52b0",
+                "createdAt": "1730570400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c84",
+                "category": "sports",
+                "title": "Oilers feel McDavid’s absence, flop on special teams in loss to Devils",
+                "url": "https://www.sportsnet.ca/nhl/video/oilers-feel-mcdavids-absence-flop-on-special-teams-in-loss-to-devils/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364214861112.jpg",
+                "createdAt": "1730786378000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc850",
+                "category": "sports",
+                "title": "Care homes to be taken over by private companies",
+                "url": "https://ca.news.yahoo.com/care-homes-taken-over-private-145756766.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/ULuoMuAzaOW0HL78.w5sYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/c013406b2e83e64bc1b073b65745aa24",
+                "createdAt": "1730645876000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c6b",
+                "category": "sports",
+                "title": "Jaden Ivey rocks the rim",
+                "url": "https://ca.sports.yahoo.com/video/jaden-ivey-rocks-rim-025810473.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/iMJc.QpqZGcDJrcct0Yg.g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/dc86ce43-e138-47f1-98dd-dcd7b2ec5880/main/1280x720/6s570ms/match/image.jpg",
+                "createdAt": "1730775490000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672862e0170d4eec274cc870",
+                "category": "sports",
+                "title": "Abdi Nageeye, Sheila Chepkirui win New York City Marathon titles",
+                "url": "https://www.cbc.ca/sports/olympics/summer/athletics/nyc-marathon-nageeye-chepkirui-november-3-2024-1.7372403?cmp=rss",
+                "urlToImg": "https://i.cbc.ca/1.7372409.1730656588!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2182690688.jpg",
+                "createdAt": "1730656697000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a32f4ca26d7cb2ea30c67",
+                "category": "sports",
+                "title": "What a shot by Tim Hardaway Jr.",
+                "url": "https://ca.sports.yahoo.com/video/shot-tim-hardaway-jr-025817424.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/wBtlymUXwD1KeBFKD9RFWg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/6a5534cc-9a8d-4f73-8fd3-8ecef81a8610/main/1280x720/6s133ms/match/image.jpg",
+                "createdAt": "1730775497000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e3",
+                "category": "sports",
+                "title": "Madrid to auction old Bernabéu lockers for $13k",
+                "url": "https://www.espn.com/soccer/story/_/id/42190265/real-madrid-auction-old-bernabeu-lockers-13k",
+                "urlToImg": "https://a.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1104%2Fr1410302_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730743041000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3fc",
+                "category": "sports",
+                "title": "Rizzo's $17 million option declined by Yankees",
+                "url": "https://www.espn.com/mlb/story/_/id/42149286/anthony-rizzo-free-agent-yankees-decline-17m-option",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0906%2Fr1382970_1296x729_16-9.jpg",
+                "createdAt": "1730566564000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84e",
+                "category": "sports",
+                "title": "No Zodiac Sign Is Safe from the Celestial Drama on November 3",
+                "url": "https://ca.style.yahoo.com/no-zodiac-sign-safe-celestial-150000783.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/SmauGIdvuQzdm2EkF0fO.w--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/3fc8b374ef01ba5b7c1b8d95675255a2",
+                "createdAt": "1730646000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c429",
+                "category": "sports",
+                "title": "Royal estates ‘to earn millions from NHS, armed forces and state school rents’",
+                "url": "https://ca.news.yahoo.com/royal-estates-earn-millions-nhs-205104049.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/bj.QnhRAS6cpUurirR_MKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/evening_standard_239/994070b6dbe5dc410b36b18a0363e4dc",
+                "createdAt": "1730580664000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c408",
+                "category": "sports",
+                "title": "JK Rowling praises Badenoch’s ‘brains and bravery’ on women’s rights",
+                "url": "https://ca.news.yahoo.com/jk-rowling-praises-badenoch-brains-175423338.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/dey8DjdfUWIr6.czXA7G7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03ODI7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/56014bc3e1274f1c20c622e0e031b4fb",
+                "createdAt": "1730570063000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7a8",
+                "category": "sports",
+                "title": "Toronto Raptors retire Vince Carter's No. 15",
+                "url": "https://www.cbc.ca/sports/vince-carter-retirement-number-ceremony-1.7372131?cmp=rss",
+                "urlToImg": "https://i.cbc.ca/1.7372256.1730599307!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/bkn-raptors-carter-20241102.JPG",
+                "createdAt": "1730591879000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b0136",
+                "category": "sports",
+                "title": "Humbert declares himself primed for the big time after Paris Masters heroics",
+                "url": "https://ca.sports.yahoo.com/news/humbert-declares-himself-primed-big-025610515.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/ELv.GmZn9xD3hRZpswepew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/rfi_english_75/b7c3718d1deb9f295ead271701ffdabd",
+                "createdAt": "1730688970000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e4",
+                "category": "sports",
+                "title": "Jacques Villeneuve calls thieves of late father’s bronze monument soulless idiots",
+                "url": "https://www.sportsnet.ca/formula-1/article/jacques-villeneuve-calls-thieves-of-late-fathers-bronze-monument-soulless-idiots/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/eHDagC5L1.jpg",
+                "createdAt": "1730742871000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c44",
+                "category": "sports",
+                "title": "Chargers seek clarity for lack of calls for Herbert",
+                "url": "https://www.espn.com/nfl/story/_/id/42196718/chargers-harbaugh-frustrated-lack-calls-herbert",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1025%2Fr1405386_1296x729_16-9.jpg",
+                "createdAt": "1730764246000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01c0",
+                "category": "sports",
+                "title": "'Giant spiders' thriving in wild after zoo release",
+                "url": "https://ca.news.yahoo.com/giant-spiders-thriving-wild-zoo-143915463.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/iKmzRhjeL.jguVy4rl8W0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/6b7558c5735b14c61844464d6a2e06b9",
+                "createdAt": "1730731155000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82d",
+                "category": "sports",
+                "title": "Crashing waves in a hilltop village, a night of terror from Spain's floods",
+                "url": "https://ca.news.yahoo.com/crashing-waves-hilltop-village-night-113352436.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/z24WeGd3uByq4tvQKzRo7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/cp_news_842/eff2bfaddc3aa22708a81f973c96a7a4",
+                "createdAt": "1730633632000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c8b",
+                "category": "sports",
+                "title": "Raptors young team gaining valuable experience despite another tight loss",
+                "url": "https://www.sportsnet.ca/nba/video/raptors-young-team-gaining-valuable-experience-despite-another-tight-loss/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364213888112.jpg",
+                "createdAt": "1730786150000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01c2",
+                "category": "sports",
+                "title": "Tuition fees expected to rise for first time in eight years",
+                "url": "https://ca.news.yahoo.com/tuition-fees-expected-rise-first-143841849.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/wS_rA1NStCAoT3ZTv1_W7g--~B/aD0xNjg3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pa_viral_news_uk_120/92e300f8e590ffcc7bf8edd833ff5c4e",
+                "createdAt": "1730731121000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0206",
+                "category": "sports",
+                "title": "Fruitful stretch run for Broncos relies on running game, defense and creating turnovers",
+                "url": "https://www.thestar.com/sports/football/fruitful-stretch-run-for-broncos-relies-on-running-game-defense-and-creating-turnovers/article_ac107157-89e2-5f12-98a3-ed1c7c38dad3.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/36/336fc76f-2e31-50c0-aa87-43b219bc2a3c/6729300a272ed.image.jpg?resize=300%2C200",
+                "createdAt": "1730752254000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b5",
+                "category": "sports",
+                "title": "Why it’s always fun when Chiefs’ Mahomes plays Mayfield (+ more to watch vs. Bucs)",
+                "url": "https://ca.sports.yahoo.com/news/why-always-fun-chiefs-mahomes-110000441.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/GcuK2GawI2K6G0CIS6anaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOTtjZj13ZWJw/https://media.zenfs.com/en/kansas_city_star_mcclatchy_articles_677/75457bc952fb0c9530a6d349b5bf723f",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67278ff1170d4eec274cc7c8",
+                "category": "sports",
+                "title": "Raptors overcome some shoddy foul shooting to topple Kings in OT",
+                "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/raptors-overcome-some-shoddy-foul-shooting-to-topple-kings-in-ot",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/Raptors-Ochai-Agbaji-Nov2.jpg?h=216&quality=90&sig=ydevhdZxLRG2awOwv1FvBg&strip=all&w=288",
+                "createdAt": "1730602514000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b017f",
+                "category": "sports",
+                "title": "Blazers vs. Pelicans: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/blazers-vs-pelicans-start-time-083422029.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/uCuZ_qpq7AJHXDzX4ArfOw--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/9e5a162cabf8ca85dceb6d15b50f0595",
+                "createdAt": "1730709262000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c423",
+                "category": "sports",
+                "title": "JB Gill and Lauren Oakley score joint series highest as Amy Dowden watches",
+                "url": "https://ca.news.yahoo.com/jb-gill-lauren-oakley-score-205714204.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/I7kHmcTrRf.WsD2esEEOyA--~B/aD0yMzg2O3c9NDI0MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/snappa_entertainment_819/7baf558ae18617315bb3d9195b79e780",
+                "createdAt": "1730581034000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019b",
+                "category": "sports",
+                "title": "Will there be a Paddington 4?",
+                "url": "https://uk.movies.yahoo.com/paddington-4-release-date-cast-plot-113922499.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/iGZ5YloCbGKnkYH7PSsn6g--~B/aD0yODgwO3c9MTk0NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-06/3c303e40-32ec-11ef-a52f-4d15c298693a",
+                "createdAt": "1730720362000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc896",
+                "category": "sports",
+                "title": "Presidential election polls 2024: What polls are saying just 2 days before Election Day",
+                "url": "https://ca.news.yahoo.com/presidential-election-polls-2024-polls-204737847.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/pwPT66CRL2B52zTgJk5GtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/c21088ce3718f2852076dfe866d13a88",
+                "createdAt": "1730666857000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019d",
+                "category": "sports",
+                "title": "Thames Water creditors try to rally more investors for £1.5bn rescue funding",
+                "url": "https://ca.news.yahoo.com/thames-water-creditors-try-rally-113818455.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/e2p1FVFyy7ug2qO4s7NRFA--~B/aD0zMjQ5O3c9NTc3NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pa_viral_news_uk_120/e8608d150e3bb139c1b5abed00e08f7a",
+                "createdAt": "1730720298000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3de",
+                "category": "sports",
+                "title": "NCCS girls' soccer takes down Saranac in penalty kicks for 2024 Class B sectional title",
+                "url": "https://ca.news.yahoo.com/nccs-girls-soccer-takes-down-135107491.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/yYdqBK73IhcJeNP9TGckHQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.wptz.hearstnews.com/0f57e42e48e325f70c70cc516259dbec",
+                "createdAt": "1730555467000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019a",
+                "category": "sports",
+                "title": "Amanda Owen makes playful breeding season joke about ex Clive",
+                "url": "https://ca.news.yahoo.com/amanda-owen-clive-breeding-season-lorraine-114131609.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/uqXnRJKkeukpC83lJrT8lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/5beb5a00-8560-11ef-8b1f-4807a8a5c6d7",
+                "createdAt": "1730720491000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3bc",
+                "category": "sports",
+                "title": "How to watch NASCAR Xfinity Series Playoff Race at Martinsville: Live stream, TV channel",
+                "url": "https://ca.sports.yahoo.com/news/watch-nascar-xfinity-series-playoff-105937471.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/jNbKBuPfiEnhRsEzF4TXZg--~B/aD0yODgyO3c9NDMyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ftw_outdoors_usa_today_article_609/77b11c4a48bff21ff1b1ee43c046152a",
+                "createdAt": "1730545177000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c396",
+                "category": "sports",
+                "title": "Tony Iommi admits Black Sabbath reunion concert is up 'in the air'",
+                "url": "https://ca.news.yahoo.com/tony-iommi-admits-black-sabbath-080000245.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/XMjADr9RmTJf7eSeQ3Fznw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxNg--/https://media.zenfs.com/en/bang_showbiz_628/c175dc7d96ca08c46e5ea64055e1084f",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7aa",
+                "category": "sports",
+                "title": "Florida Panthers top Dallas Stars to sweep 2-game series in Finland",
+                "url": "https://www.thestar.com/sports/hockey/florida-panthers-top-dallas-stars-to-sweep-2-game-series-in-finland/article_558d29c4-8507-5620-94f6-3e9c2696a229.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/fc/5fc58ddc-51dd-5536-b8a3-50e6baf5672e/672676c7ac867.image.jpg?resize=300%2C200",
+                "createdAt": "1730591782000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3d5",
+                "category": "sports",
+                "title": "Charity shop break-in saddens volunteers",
+                "url": "https://ca.news.yahoo.com/charity-shop-break-saddens-volunteers-135636035.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/I3bnbp_rmI7Pa0wQu.Z.zA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/bbc_us_articles_995/c4006a323e93af64fb1235ff7976f994",
+                "createdAt": "1730555796000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7a7",
+                "category": "sports",
+                "title": "UFC Fight Night Highlights: Horth def. Petrovic",
+                "url": "https://www.sportsnet.ca/ufc/video/ufc-fight-night-highlights-horth-def-petrovic/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364131398112.jpg",
+                "createdAt": "1730591959000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b019e",
+                "category": "sports",
+                "title": "Which Agatha All Along characters have a future in the MCU?",
+                "url": "https://ca.news.yahoo.com/agatha-all-along-characters-mcu-113746236.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/USqvnHit2f0EAllvtV3tIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/69d53930-9a99-11ef-bfff-750c86c0eb2c",
+                "createdAt": "1730720266000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c379",
+                "category": "sports",
+                "title": "Wave season finale moved over field safety fears",
+                "url": "https://www.espn.com/soccer/story/_/id/42134693/san-diego-wave-racing-louisville-unplayable-surface-snapdragon",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1101%2Fr1409123_1296x729_16-9.jpg&w=570",
+                "createdAt": "1730522546000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b013f",
+                "category": "sports",
+                "title": "Jays' outfielder Daulton Varsho snags AL Gold Glove Award",
+                "url": "https://ca.sports.yahoo.com/news/jays-outfielder-daulton-varsho-snags-024632493.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/L8HYuUigdsXPGf4tO4BYyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/cp_sports_913/40511aac8b821fea010a704d65266610",
+                "createdAt": "1730688392000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b0137",
+                "category": "sports",
+                "title": "Trump 'fired up' about euthanasia of Peanut the squirrel",
+                "url": "https://ca.news.yahoo.com/trump-fired-euthanasia-peanut-squirrel-024706339.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/DHgQC4_rk9QZA4rjX1vdlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/2f5954724ac3bb1477cb7df0619b791d",
+                "createdAt": "1730688740000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01c3",
+                "category": "sports",
+                "title": "Supreme Court will weigh in on new mostly Black Louisiana congressional district, after election",
+                "url": "https://ca.news.yahoo.com/supreme-court-weigh-mostly-black-143824849.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/97g7DyOM5oMXjgWsDP35xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/cp_news_842/495bd91bc1bb330c82c4b9b3de457573",
+                "createdAt": "1730731104000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728e17245fe8edcb35b013c",
+                "category": "sports",
+                "title": "Blue Jays outfielder Daulton Varsho lands first career Gold Glove Award",
+                "url": "https://torontosun.com/sports/baseball/toronto-blue-jays/blue-jays-outfielder-daulton-varsho-lands-first-career-gold-glove-award",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/11/GettyImages-1258254988-scaled-e1730688593811.jpg?h=216&quality=90&sig=2O3uqP8IEFZBfh_SNTbluw&strip=all&w=288",
+                "createdAt": "1730688606000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c40b",
+                "category": "sports",
+                "title": "Fulton faces spell out with injury",
+                "url": "https://ca.sports.yahoo.com/news/fulton-faces-spell-injury-175202711.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/ut59gPWtZfNcifZbeCyFKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+                "createdAt": "1730569922000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc88f",
+                "category": "sports",
+                "title": "Canadian Theo Johnson hauls in 35-yarder for first career TD",
+                "url": "https://www.sportsnet.ca/nfl/video/canadian-theo-johnson-hauls-in-35-yarder-for-first-career-td/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364155023112.jpg",
+                "createdAt": "1730667415000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc895",
+                "category": "sports",
+                "title": "Trump Insists He Should Never Have Left Office After 2020 Election Loss",
+                "url": "https://ca.news.yahoo.com/trump-insists-never-left-office-204850852.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/Zxi6oHq6pjYGbn.CiCDHVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMyMDtjZj13ZWJw/https://media.zenfs.com/en/the_huffington_post_584/524496e8d8ce6a87b404a9ac0c775c85",
+                "createdAt": "1730666930000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727ba21170d4eec274cc7ee",
+                "category": "sports",
+                "title": "Sharks’ Toffoli shares stories from well-travelled NHL career",
+                "url": "https://www.sportsnet.ca/nhl/video/sharks-toffoli-shares-stories-from-well-travelled-nhl-career/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/6364141012112.jpg",
+                "createdAt": "1730613587000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a5d21ca26d7cb2ea30c86",
+                "category": "sports",
+                "title": "Westbrook scores 21 points, Jokic has triple-double as Nuggets tip Raptors 121-119",
+                "url": "https://www.nsnews.com/national-sports/westbrook-scores-21-points-jokic-has-triple-double-as-nuggets-tip-raptors-121-119-9758774",
+                "urlToImg": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/11/aad2137e07bab3a565fcca2f43d2c982a6ea8eaf3176c2c2dcce9ce27e270a88.jpg;w=960",
+                "createdAt": "1730786235000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c4a",
+                "category": "sports",
+                "title": "Curry set to return from his ankle injury for Golden State at Washington",
+                "url": "https://www.thestar.com/sports/basketball/curry-set-to-return-from-his-ankle-injury-for-golden-state-at-washington/article_ca874275-2fdf-5bd1-8773-a04e3fc0c8a6.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/6b/d6b9165a-efe1-5539-a67c-44616d93720a/6726eacb91d6f.image.jpg?resize=300%2C200",
+                "createdAt": "1730763766000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67273b955ef0a3b56898c42a",
+                "category": "sports",
+                "title": "'Squid Game 2' Releases Official Trailer",
+                "url": "https://ca.news.yahoo.com/squid-game-netflixs-most-haunting-191800709.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/SeBquwqrhtDtefvwfLldGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02Njc7Y2Y9d2VicA--/https://media.zenfs.com/en/elle_570/3bff88ac47b1e20f7c0834fed57b9c73",
+                "createdAt": "1730580660000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01bc",
+                "category": "sports",
+                "title": "Local sports round-up: U of S Huskie basketball teams open Canada West season",
+                "url": "https://thestarphoenix.com/sports/local-sports/sports-briefs-huskie-basketball-teams-open-season",
+                "urlToImg": "https://smartcdn.gprod.postmedia.digital/thestarphoenix/wp-content/uploads/2024/03/0204-sports-huskies-womens-basketball069.jpg",
+                "createdAt": "1730732088000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67290ba345fe8edcb35b015a",
+                "category": "sports",
+                "title": "Those who invested in Kotra Industries Berhad (KLSE:KOTRA) five years ago are up 173%",
+                "url": "https://ca.finance.yahoo.com/news/those-invested-kotra-industries-berhad-054400352.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/H9sVDVM9mi9ws1HvXhxW7w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/8b2f1fb8ed1ddbd9c7702732b1ea0316",
+                "createdAt": "1730699040000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67288d10170d4eec274cc88d",
+                "category": "sports",
+                "title": "Bills' Ray Davis scored on 63-yard catch-and-run against Dolphins",
+                "url": "https://www.espn.com/nfl/story/_/id/42170291/bills-wr-mack-hollins-scores-fourth-goal-vs-dolphins",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1103%2Fr1409939_1296x729_16-9.jpg",
+                "createdAt": "1730667544000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c42",
+                "category": "sports",
+                "title": "Balanced offense and improved defense got the Washington Commanders to 7-2",
+                "url": "https://www.thestar.com/sports/football/balanced-offense-and-improved-defense-got-the-washington-commanders-to-7-2/article_37c6c7af-fbf7-56c9-b9f4-97e86eaa5bcb.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/c1/1c1383b0-c561-508c-9175-0b7e408c6d4e/672960162490e.image.jpg?resize=300%2C200",
+                "createdAt": "1730764582000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c37a",
+                "category": "sports",
+                "title": "Ten Hag on Utd exit: 'Dream has come to an end'",
+                "url": "https://www.espn.com/soccer/story/_/id/42134899/erik-ten-hag-man-united-fans-letter-dream-end",
+                "urlToImg": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1028%2Fr1407085_1296x729_16-9.jpg",
+                "createdAt": "1730522546000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726d9215ef0a3b56898c3d6",
+                "category": "sports",
+                "title": "National Trust artefacts stolen from stately home in late-night burglary",
+                "url": "https://ca.news.yahoo.com/national-trust-artefacts-stolen-stately-135624001.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/t4mChc2f8opsROKhAgVsgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/3b27d239413335607fbce61a6c1f2017",
+                "createdAt": "1730555784000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c393",
+                "category": "sports",
+                "title": "At 97, this aquafit regular says pool time makes for a long and healthy life",
+                "url": "https://ca.news.yahoo.com/97-aquafit-regular-says-pool-080000009.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/O2.sss.dOPXcLX8PvX.hzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/cbc.ca/5263215c2a401126fd028a4a8d1df1d3",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7ad",
+                "category": "sports",
+                "title": "Ovechkin scores sixth of season as Capitals rout Blue Jackets",
+                "url": "https://www.sportsnet.ca/nhl/article/ovechkin-scores-sixth-of-season-as-capitals-rout-blue-jackets/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/Alex-Ovechkin.jpg",
+                "createdAt": "1730591774000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b0178",
+                "category": "sports",
+                "title": "U.S music supremo Quincy Jones, who worked with Sinatra and Jackson, dies aged 91",
+                "url": "https://ca.news.yahoo.com/u-music-supremo-quincy-jones-084054526.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/is0T6xwkDVVxORqqtOyz9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYxMztjZj13ZWJw/https://media.zenfs.com/en/reuters.com/04102499ca881e68a462186a8a0abaad",
+                "createdAt": "1730709654000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7ac",
+                "category": "sports",
+                "title": "NHL roundup: Panthers top Stars to sweep two-game series in Finland",
+                "url": "https://www.thestar.com/sports/hockey/nhl-roundup-panthers-top-stars-to-sweep-two-game-series-in-finland/article_558d29c4-8507-5620-94f6-3e9c2696a229.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/fc/5fc58ddc-51dd-5536-b8a3-50e6baf5672e/672676c7ac867.image.jpg?resize=300%2C200",
+                "createdAt": "1730591782000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b01a1",
+                "category": "sports",
+                "title": "Four-day working week under Labour: How it could work and who is supporting it",
+                "url": "https://ca.news.yahoo.com/labour-four-day-week-080633418.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/BOzwm6y7HbvdMFVaooCA1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/the_independent_635/7bc94d3fba3079098c8f4062f1518905",
+                "createdAt": "1730720137000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01dd",
+                "category": "sports",
+                "title": "Gaudette having best season in years under ex-Canucks coach Green",
+                "url": "https://dailyhive.com/vancouver/gaudette-best-season-ex-canucks-green",
+                "urlToImg": "https://images.dailyhive.com/20241104093325/Adam-Gaudette-Canucks-Senators.jpg",
+                "createdAt": "1730743165000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b017d",
+                "category": "sports",
+                "title": "Raptors vs. Nuggets: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/raptors-vs-nuggets-start-time-083428446.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/pp4ejq39MuXDLS.O2ZRYyA--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/30b4b6098d882e2d9c4aa23ca78b8081",
+                "createdAt": "1730709268000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c378",
+                "category": "sports",
+                "title": "Gilgeous-Alexander scores 30, Thunder stay unbeaten with win over Trail Blazers",
+                "url": "https://www.sportsnet.ca/nba/article/gilgeous-alexander-scores-30-thunder-stay-unbeaten-with-win-over-trail-blazers/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/Shai-Gilgeous-Alexander.jpg",
+                "createdAt": "1730522883000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc832",
+                "category": "sports",
+                "title": "Parents Are Sharing Things Their Own Children Have Taught Them About Parenting",
+                "url": "https://ca.style.yahoo.com/parents-sharing-things-own-children-113104191.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/1qimimRDuihRT0YWo8bTDw--~B/aD04MzA7dz0xMjUwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/buzzfeed_articles_778/c50475501458ee6dcbc9ec8282c64641",
+                "createdAt": "1730633464000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c40a",
+                "category": "sports",
+                "title": "New estate's owners asked to work with farmers",
+                "url": "https://ca.news.yahoo.com/estates-owners-asked-farmers-175242563.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/NrgyEeSoypOuuI0yhrbEtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/bbc_us_articles_995/e69d2a67d6d42383837d4f9774ab5d5d",
+                "createdAt": "1730569962000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729601345fe8edcb35b01a0",
+                "category": "sports",
+                "title": "Australia offers troops more cash bonuses to address defence shortfall",
+                "url": "https://ca.news.yahoo.com/australia-offers-troops-more-cash-113633124.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/oXUlOAulQ0B9vUrl8dA0hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc7Y2Y9d2VicA--/https://media.zenfs.com/en/reuters.com/c4c6ae00babfacdb26516d354f483dc5",
+                "createdAt": "1730720193000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672684c25ef0a3b56898c39c",
+                "category": "sports",
+                "title": "N.W.T. MLAs to ask auditor general to review territory's health authority",
+                "url": "https://ca.news.yahoo.com/n-w-t-mlas-ask-080000235.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/vVJY2TvqvNwA_9.gmWiaSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/cbc.ca/9603d36ac142f5fe6f902d1d1f92dd37",
+                "createdAt": "1730534400000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82f",
+                "category": "sports",
+                "title": "How Nottingham Forest have ended up in the Champions League places",
+                "url": "https://ca.sports.yahoo.com/news/nottingham-forest-ended-champions-league-113214704.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/3rNsxfuJP1TrMwWsVqjxEA--~B/aD0xNTYxO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_818/bfc77da269e3b2040a39a66cecabcd45",
+                "createdAt": "1730633534000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672935d045fe8edcb35b017c",
+                "category": "sports",
+                "title": "76ers vs. Suns: Start time, where to watch, what's the latest",
+                "url": "https://ca.sports.yahoo.com/news/76ers-vs-suns-start-time-083432226.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/2siDur_DsJWH0FEcDzEs_g--~B/aD05MDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/hoops_hype_usa_today_sports_articles_974/e6e2ac14059197eacafcc3d4cdc16236",
+                "createdAt": "1730709272000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84d",
+                "category": "sports",
+                "title": "Drew Afualo Reveals 1 Pre-Wedding Tradition She and Her Fiancé Want to Avoid: ‘Not Really Our Vibe’ (Exclusive)",
+                "url": "https://ca.news.yahoo.com/drew-afualo-reveals-1-pre-150000273.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/hoeZVBHRv1GuNzIlkX6f.w--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/people_218/ec7cdf2ca1a89c3aa55e0c0a55e5d8f3",
+                "createdAt": "1730646000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7ae",
+                "category": "sports",
+                "title": "Punch thrown after Custer nabs Xfinity title shot",
+                "url": "https://www.espn.com/racing/story/_/id/42155564/custer-gets-xfinity-title-shot-makes-enemies-martinsville",
+                "urlToImg": "https://a1.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F1102%2Fr1409551_1024x576_16-9.jpg&w=570",
+                "createdAt": "1730591769000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3ff",
+                "category": "sports",
+                "title": "Orioles decline $16.5 million option on Eloy Jiménez, who becomes a free agent",
+                "url": "https://www.thestar.com/sports/baseball/orioles-decline-16-5-million-option-on-eloy-jim-nez-who-becomes-a-free-agent/article_9c7c82e8-61b2-558d-adc6-3fe1ef1303f3.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/f2/7f2839a9-f02e-574a-8a5f-5b993de01e76/672654ca3f84d.image.jpg?resize=300%2C200",
+                "createdAt": "1730565226000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6728b74545fe8edcb35b0118",
+                "category": "sports",
+                "title": "Amir Albazi says he'll get back to flyweight contention after UFC Edmonton dismantling",
+                "url": "https://ca.sports.yahoo.com/news/amir-albazi-says-hell-back-235047203.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/ae0yQQYidPvQUJtYoMDFyw--~B/aD0zMTI4O3c9NDY5MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/mma_junkie_usa_today_articles_344/5ef23b1d34ad7081156846afcde3770d",
+                "createdAt": "1730677847000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01e2",
+                "category": "sports",
+                "title": "Slot lauds 'special' Alonso ahead of CL clash",
+                "url": "https://www.espn.com/soccer/story/_/id/42190799/liverpool-slot-hails-special-alonso-ahead-anfield-clash",
+                "urlToImg": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1020%2Fr1403045_1296x729_16-9.jpg",
+                "createdAt": "1730743041000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672a08c3ca26d7cb2ea30c43",
+                "category": "sports",
+                "title": "NBA on Sportsnet: Cavaliers vs. Bucks",
+                "url": "https://www.sportsnet.ca/basketball/nba/games/d3bfaf12-5080-4864-be83-55cc65fe38c2/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/cavs.jpg",
+                "createdAt": "1730764579000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672711605ef0a3b56898c404",
+                "category": "sports",
+                "title": "England 22-24 New Zealand: George Ford misses late chances for famous win as All Blacks complete comeback",
+                "url": "https://ca.sports.yahoo.com/news/england-22-24-zealand-george-175919391.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/01yN7izr12LOfGpChIAbNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMA--/https://media.zenfs.com/en/evening_standard_239/98aa7dc8ea516607cabcb3f6b7e07cf8",
+                "createdAt": "1730570359000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672703525ef0a3b56898c3f8",
+                "category": "sports",
+                "title": "Army QB Bryson Daily out for service-academy game against Air Force",
+                "url": "https://www.thestar.com/sports/football/army-qb-bryson-daily-out-for-service-academy-game-against-air-force/article_087ed92a-af06-5941-b319-6a478ab428e6.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/01/2013beb7-a557-590a-b999-0c0c1c06563f/6716495e21ced.image.jpg?resize=300%2C200",
+                "createdAt": "1730566663000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729b46145fe8edcb35b01de",
+                "category": "sports",
+                "title": "Duke, UConn, KU top men's basketball title odds",
+                "url": "https://www.espn.com/espn/betting/story/_/id/42191396/duke-uconn-kansas-split-men-college-hoops-title-faves",
+                "urlToImg": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0313%2Fr678981_1296x729_16-9.jpg",
+                "createdAt": "1730743147000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b8",
+                "category": "sports",
+                "title": "Filipino barber, once an orphan, found a career in helping Kansans look their best",
+                "url": "https://ca.style.yahoo.com/filipino-barber-once-orphan-found-110000016.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/gLNOn9B8JTsf3jJ8sHkb5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/kansas_city_star_mcclatchy_articles_677/22cd769c7ba4762559823365461a5eb1",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6727e455170d4eec274cc80d",
+                "category": "sports",
+                "title": "North Korean Troops Fighting For Russia In Ukraine Are Facing Numerous 'Difficulties', UK Says",
+                "url": "https://ca.news.yahoo.com/north-korean-troops-fighting-russia-082724270.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/kZO.VPE8ZWiyAvU8977tLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/huffpost_uk_744/e9ec036dd35ffbc17ecb5395ec332fd5",
+                "createdAt": "1730622444000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67265a905ef0a3b56898c377",
+                "category": "sports",
+                "title": "Anthony Edwards scores go-ahead basket, Timberwolves top Nuggets in thriller",
+                "url": "https://www.sportsnet.ca/nba/article/anthony-edwards-scores-go-ahead-basket-timberwolves-top-nuggets-in-thriller/",
+                "urlToImg": "https://www.sportsnet.ca/wp-content/uploads/2024/11/5729d1fe276bb5b115390eefe064e9864260ba448158f4a4c00b31f70b374933.jpg",
+                "createdAt": "1730522973000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6729de9145fe8edcb35b0205",
+                "category": "sports",
+                "title": "Fruitful stretch run for Broncos relies on running the ball, stopping the run and flipping turnovers",
+                "url": "https://www.thestar.com/sports/football/fruitful-stretch-run-for-broncos-relies-on-running-the-ball-stopping-the-run-and-flipping/article_ac107157-89e2-5f12-98a3-ed1c7c38dad3.html",
+                "urlToImg": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/36/336fc76f-2e31-50c0-aa87-43b219bc2a3c/6729300a272ed.image.jpg?resize=300%2C200",
+                "createdAt": "1730752254000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01be",
+                "category": "sports",
+                "title": "Inverclyde Council leader McCabe charged over ‘domestic assault’",
+                "url": "https://ca.news.yahoo.com/inverclyde-council-leader-mccabe-charged-144004926.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/6_Y2qJ6xVmiuaqnLGh5ccg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/pa_viral_news_uk_120/e61d78b4503a724f37eadcd359e1176d",
+                "createdAt": "1730731204000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "6726aef25ef0a3b56898c3b4",
+                "category": "sports",
+                "title": "Kim Novak 'Never Wanted to Marry' Sammy Davis Jr., Says Her Longtime Manager (Exclusive)",
+                "url": "https://ca.news.yahoo.com/kim-novak-never-wanted-marry-110000683.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/Pw0MsAY_7KCHYl7ospZk3w--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/81d38d0adac5f9927b7b427423a9e85a",
+                "createdAt": "1730545200000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67280e8b170d4eec274cc82b",
+                "category": "sports",
+                "title": "Spain's king and queen visit flood-hit zone as death toll rises to at least 213",
+                "url": "https://ca.news.yahoo.com/spains-king-queen-visit-flood-113413568.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/fgno4I2mMHMX4BC5faftYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/rfi_english_75/d77ac3e3456e07769018ed9ce472716b",
+                "createdAt": "1730633653000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "67298a3345fe8edcb35b01bf",
+                "category": "sports",
+                "title": "Prince of Wales meets ‘future leaders’ in South Africa for Earthshot Awards",
+                "url": "https://ca.style.yahoo.com/prince-wales-meets-future-leaders-143948242.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/3l6rcoelWIYq.vLbtTzp5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMQ--/https://media.zenfs.com/en/the_telegraph_818/49357348b6ee0516917390e7063a1713",
+                "createdAt": "1730731188000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672765c2170d4eec274cc7a5",
+                "category": "sports",
+                "title": "Newsroom Ready: Vince Carter emotional as Raptors’ jersey retired",
+                "url": "https://ca.news.yahoo.com/newsroom-ready-vince-carter-emotional-000000680.html",
+                "urlToImg": "https://s.yimg.com/uu/api/res/1.2/aJtYGBwTKhL9a2jDdYyYSg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.canadianpress.com/8566768a28d270cda7438be2804e4001",
+                "createdAt": "1730592000000",
+                "__typename": "Article"
+            },
+            {
+                "_id": "672838b4170d4eec274cc84a",
+                "category": "sports",
+                "title": "What to Watch the Week of November 3: Charles L. Is Back for The Golden Bachelorette : Men Tell All, and Reenie and Colter Get Flirty on Tracker",
+                "url": "https://ca.news.yahoo.com/watch-week-november-3-charles-150000469.html",
+                "urlToImg": "https://s.yimg.com/ny/api/res/1.2/OeUCgY9.NFeYl2fMUFuhmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MTA7Y2Y9d2VicA--/https://media.zenfs.com/en/glamour_497/60c2f93baee8cadd859a212132ad5584",
+                "createdAt": "1730646000000",
+                "__typename": "Article"
+            }
+        ]
+    }
+}

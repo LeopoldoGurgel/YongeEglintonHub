@@ -55,18 +55,50 @@ const CategoryMainComponent = ({color, articles}) => {
                     />
                 ))}
             </div>
-            <Pagination>
+            <Pagination className="d-flex justify-content-center mt-3">
                 <Pagination.First onClick={() => handlePageChange(1)} disabled={currentPage === 1}/>
                 <Pagination.Prev onClick={()=>handlePageChange(currentPage-1)} disabled={currentPage === 1} />
-                {Array.from({length: totalPages}, (_, index) => (
-                    <Pagination.Item 
-                        key={index}
-                        active={index + 1 === currentPage}
-                        onClick={() => handlePageChange(index+1)}
-                    >
-                        {index+1}
-                    </Pagination.Item>
-                ))}
+                
+                { window.innerWidth > 851 && (
+                    <>
+                        {Array.from({length: totalPages}, (_, index) => (
+                            <Pagination.Item 
+                                key={index}
+                                active={index + 1 === currentPage}
+                                onClick={() => handlePageChange(index+1)}
+                            >
+                                {index+1}
+                            </Pagination.Item>
+                        ))}
+                    </>
+                )}
+
+                {window.innerWidth < 850 && (
+                    <>
+                    {currentPage == totalPages && (
+                        <Pagination.Item>{currentPage - 2}</Pagination.Item>
+                    )}
+
+                    {currentPage > 1 && (
+                            <Pagination.Item onClick={() => handlePageChange(currentPage - 1)}>
+                                {currentPage - 1}
+                            </Pagination.Item>
+                        )
+                    }
+
+                    <Pagination.Item active>{currentPage}</Pagination.Item>
+
+                    {currentPage < totalPages && (
+                        <Pagination.Item onClick={() => handlePageChange(currentPage + 1)}>{currentPage +1}</Pagination.Item>
+                    )}
+
+                    {currentPage < 2 && (
+                        <Pagination.Item onClick={()=> handlePageChange(currentPage + 2)}>{currentPage +2}</Pagination.Item>
+                    )}
+                    </>
+                )}
+
+
                 <Pagination.Next onClick={() => handlePageChange(currentPage +1)} disables={currentPage === totalPages} />
                 <Pagination.Last onClick={() => handlePageChange(totalPages)} disabled={currentPage === totalPages} />
             </Pagination>
