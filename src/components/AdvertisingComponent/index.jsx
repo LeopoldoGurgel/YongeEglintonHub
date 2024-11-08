@@ -9,7 +9,7 @@ const AdvertisingComponent = () => {
 
 return(
     <div>
-        <a href="" className="d-flex justify-content-center w-100 p-3" id="advComponent">
+        <a href="https://leopoldogurgel.github.io/" className="d-flex justify-content-center w-100 p-3" id="advComponent">
 
             <span className="typing-animation text-adv"></span>
 
