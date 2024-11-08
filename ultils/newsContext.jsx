@@ -21,7 +21,7 @@ export default function useNews() {
 UNCOMMENT THIS FOR PRODUCTION
 
 
-
+*/
 
 
 
@@ -86,7 +86,7 @@ export const NewsProvider = ({children}) => {
 }
 
     
-*/
+
 
 
 
@@ -105,7 +105,7 @@ export const NewsProvider = ({children}) => {
 
     /*
 
-     */
+     
 
     // THE FOLLOWING CODE IS FOR DEVELOPING ONLY
 
@@ -130,6 +130,6 @@ export const NewsProvider = ({children}) => {
     
 }
    
-
+*/
 
 

@@ -9,7 +9,18 @@ const AdvertisingComponent = () => {
 
 return(
     <div>
-        <a href="" className="d-flex justify-content-center w-75 p-3 bg-primary" id="advComponent">
+        <a href="" className="d-flex justify-content-center w-100 p-3" id="advComponent">
+
+            <span className="typing-animation text-adv"></span>
+
+            <div className="logo-banner d-flex justify-content-center">
+                <div className="logo-adv">
+                    <span className="text-warning">Leo</span> Gurgel. <div>Fullstack Web Developer</div>
+                    <div className="fs-6 ">Click to visit my website.</div>
+                </div>
+
+                    
+            </div>
 
         </a>
 
