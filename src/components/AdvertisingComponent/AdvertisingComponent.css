@@ -1,0 +1,97 @@
+#advComponent {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    height: 100px;
+    position: relative;
+    color: darkslategrey;
+    
+}
+
+.typing-animation, .logo-banner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.typing-animation {
+    color: darkslategray;
+    min-width: 300px;
+    animation: typingAnimation 16s infinite;
+}
+
+.typing-animation::before {
+    content:' Need a custom website for your business?';
+    animation: words 16s infinite;
+}
+
+.typing-animation::after {
+    content: '';
+    position: absolute;
+    width: calc(100% + 8px);
+    height: calc(100% + 3px);
+    border-left: 4px solid darkslategray;
+    background-color: #f8f9fa;
+    right: -8px;
+    animation: cursor 0.7s infinite, typing 16s steps(15) infinite;
+}
+
+.logo-banner {
+    opacity: 0;
+    animation: logoBannerAnimation 16s infinite;
+}
+
+
+
+@keyframes cursor {
+    to {
+        border-left: 2px solid #f8f9fa;
+    }
+}
+
+@keyframes typing {
+    16%, 22%, 51%, 57% {
+        width: 0;
+    }
+
+    0%, 35%, 70%, 100% {
+        width: calc(100% + 8px);
+    }
+}
+
+@keyframes words {
+    0%, 35% {
+        content: ' Need a custom website for your business?'
+    }
+    35.1%, 75%{
+        content: ' From concept to lauch, I can do it for you!'
+    }
+}
+
+@keyframes typingAnimation {
+    0%, 75% {
+        opacity: 1;
+    }
+    75.1%, 100% {
+        opacity: 0;
+    }
+}
+
+@keyframes logoBannerAnimation{
+    0%, 75% {
+        opacity: 0;
+    }
+    75.1%, 100% {
+        opacity: 1;
+    }
+}
+
+@media(min-width: 850px) {
+    #advComponent{
+        margin-bottom: 30px;
+        font-size: 1.5em;
+    }
+
+
+}
